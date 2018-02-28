@@ -158,7 +158,5 @@ int main(int argc, char const *argv[]){
 			case 5:
 				return 0;
 	}
-
-	}
 	return 0;
 }
