@@ -157,6 +157,7 @@ int main(int argc, char const *argv[]){
 				imprimeLista(&ini);
 			case 5:
 				return 0;
+		}
 	}
 	return 0;
 }
