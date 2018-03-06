@@ -33,19 +33,19 @@ void printList(pnode *head){
 
 void insertPosX(pnode * head, pnode x, int pos){
 	pnode aux = *head;
-	if (pos == 1){
+	if (pos == 1){		
+		x->next = *head;
 		*head = x;
-		x->next = aux->next;
 		free(aux);
 	}
 	for (int i = 2; i < pos; i++){
-		if (aux== NULL)
+		if (aux == NULL)
 			printf("Não existe essa posição\n");
 		else{
 			aux = aux->next;
 		}
 	}
-	if (aux->next == NULL){
+	if (aux == NULL){
 		printf("Escolha um posição válida\n");
 	} else{
 		x->next = aux->next;
@@ -69,10 +69,10 @@ void removePosX(pnode * head, int pos){
 				aux = aux->next;
 			}
 		}
-		if (aux->next != NULL){
+		if (aux != NULL){
 			pnode x = aux->next;
 			if (x == NULL){
-			printf("Não existe nó nesta posição");
+			printf("Não existe nó nesta posição\n");
 		}	 else if (x->next == NULL){
 				free(x);
 				aux->next = NULL;
@@ -84,12 +84,17 @@ void removePosX(pnode * head, int pos){
 	}
 }
 
-void invertList(&head){
-	pnode aux = *head;
-	for (int size = 1; aux->next != NULL){
-		aux = aux->next;
+void invertList(pnode *head){
+	pnode current = *head;
+	pnode prev = NULL;
+	pnode next;
+	while (current != NULL){
+		next = current->next;
+		current->next=prev;
+		prev = current;
+		current = next;
 	}
-	
+	*head = prev;	
 }
 
 
@@ -100,9 +105,10 @@ int main(int argc, char const *argv[])
 		insertNode(&head, newNode(i));
 	}
 
-	//insertPosX(&head, newNode(654), 12);
-	removePosX(&head, 10);
-	
+	insertPosX(&head, newNode(654), 1);
+	// removePosX(&head, 12);
+	//invertList(&head);
+
 	printList(&head);
 	return 0;
 }
