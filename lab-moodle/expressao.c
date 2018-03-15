@@ -225,7 +225,12 @@ int main(int argc, char const *argv[]){
 	if (checkOp == 1){
 		printResult(&topo);
 	}else{
-		printf("ERRO\n");
+		//verifica se há um elemento na pilha
+		if (topo != NULL){
+			printResult(&topo);
+		}else{
+			printf("ERRO\n");
+		}
 	}	
 
 	return 0;
