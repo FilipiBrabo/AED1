@@ -51,7 +51,7 @@ void printLines(pMPointer * headLine){
 	if (*headLine == NULL) return;
 
 	pMPointer tmp = *headLine;
-	pNode aux = tmp->nextNode;
+	pNode aux;
 	while(tmp){
 		printf("Linha: %d\n", tmp->index);
 		aux = tmp->nextNode;
@@ -69,7 +69,7 @@ void printCollums(pMPointer *headCollum){
 	if (*headCollum == NULL) return;
 
 	pMPointer tmp = *headCollum;
-	pNode aux = tmp->nextNode;
+	pNode aux;
 	while(tmp){
 		printf("Coluna: %d\n", tmp->index);
 		aux = tmp->nextNode;
@@ -84,7 +84,10 @@ void printCollums(pMPointer *headCollum){
 }
 
 void printMatrix(pMPointer * headLine, int num_line, int num_collum){
-	if (*headLine == NULL) return;
+	if (*headLine == NULL){
+		//printf("ERRO\n");
+		return;
+	}
 	
 	pMPointer tmp = *headLine;
 	int contLine = 0;
@@ -150,31 +153,44 @@ void insertNode(pMPointer * headLine, pMPointer * headCollum, int lineIndex, int
 		(*headCollum)->nextNode = node;
 
 	}else{
-		//Adding node to the line
+		
 		pNode node = newNode(item, lineIndex, collumIndex);
 		pMPointer lineAux = *headLine;
 		pMPointer collumAux = *headCollum;
 
+		//Adding node to the line
 		pMPointer prevLine = NULL;
 		while (lineAux != NULL && lineAux->index < lineIndex){
 			prevLine = lineAux;
 			lineAux = lineAux->nextPointer;
 		}
+		//printf("a3\n");
 
-		if (lineAux == NULL || lineAux->index > lineIndex){
+		if (prevLine != NULL && (lineAux == NULL || lineAux->index > lineIndex)){
 			lineAux = prevLine;
 		}
+
 		//if there's no pointer to this line, create the pointer and add the node
-		if (lineAux->index != lineIndex){ 					
+		if (lineAux->index != lineIndex){				
 			pMPointer lineTmp = newMPointer(lineIndex);		
 			pMPointer tmp = lineAux->nextPointer; 		//temporary pointer that points to the next head pointer
 			
-			//insert the new pointer into the matrix
-			lineAux->nextPointer = lineTmp;				
-			lineTmp->nextPointer = tmp;
+			if (prevLine == NULL){
+				lineTmp->nextPointer = *headLine;
+				*headLine = lineTmp;
 
-			//insert the new node into the matrix;
-			lineTmp->nextNode = node;
+				lineTmp->nextNode = node;
+			}else{
+				//insert the new pointer into the matrix
+				lineAux->nextPointer = lineTmp;				
+				lineTmp->nextPointer = tmp;
+
+				//insert the new node into the matrix;
+				lineTmp->nextNode = node;
+			}
+		}	
+		else if(lineAux->nextNode->collum == collumIndex){
+			lineAux->nextNode->item = item;
 		}
 
 		//insert in the first position
@@ -187,17 +203,21 @@ void insertNode(pMPointer * headLine, pMPointer * headCollum, int lineIndex, int
 		//goes to the (position-1) and add the node
 		else{
 			pNode tmp = lineAux->nextNode;
-			while (tmp->nextInLine != NULL){
-				if (tmp->nextInLine->collum < collumIndex){
-					tmp = tmp->nextInLine;
-				}
-				else{
-					break;
-				}
+			pNode prev = NULL;
+			while (tmp != NULL && tmp->collum < collumIndex){
+				prev = tmp;
+				tmp = tmp->nextInLine;
 			}
-			pNode aux = tmp->nextInLine;
-			tmp->nextInLine = node;
-			node->nextInLine = aux;			
+			if (tmp == NULL || tmp->collum > collumIndex){
+				tmp = prev;
+			}
+			if (tmp->collum == collumIndex){
+				tmp->item = item;
+			}else{
+				pNode aux = tmp->nextInLine;
+				tmp->nextInLine = node;
+				node->nextInLine = aux;			
+			}
 		}
 
 		//Adding node to the collum
@@ -207,22 +227,34 @@ void insertNode(pMPointer * headLine, pMPointer * headCollum, int lineIndex, int
 			collumAux = collumAux->nextPointer;
 		}
 
-		if (collumAux == NULL || collumAux->index > collumIndex){
+		if (prevCollum != NULL && (collumAux == NULL || collumAux->index > collumIndex)){
 			collumAux = prevCollum;
 		}
 
 		//if there's no pointer to this collum, create the pointer and add the node
 		if (collumAux->index != collumIndex){					
 			pMPointer collumTmp = newMPointer(collumIndex);		
-			pMPointer tmp = collumAux->nextPointer; 			//temporary pointer that points to the next head pointer
+			pMPointer next = collumAux->nextPointer; 			//temporary pointer that points to the next head pointer
 
-			//insert the new pointer into the matrix
-			collumAux->nextPointer = collumTmp;
-			collumTmp->nextPointer = tmp;
+			if (prevCollum == NULL){
+				collumTmp->nextPointer = *headCollum;
+				*headCollum = collumTmp;
 
-			//inert the node into the matrix
-			collumTmp->nextNode = node;
+				collumTmp->nextNode = node;
+			}else{
+				//insert the new pointer into the matrix
+				collumAux->nextPointer = collumTmp;
+				collumTmp->nextPointer = next;
+
+				//inert the node into the matrix
+				collumTmp->nextNode = node;
+			}
 		}
+
+		else if (collumAux->nextNode->line == lineIndex){
+			collumAux->nextNode->item = item;
+		}
+
 		//insert the node in the first position
 		else if (collumAux->nextNode->line > lineIndex){
 			pNode tmp = collumAux->nextNode;
@@ -232,27 +264,45 @@ void insertNode(pMPointer * headLine, pMPointer * headCollum, int lineIndex, int
 		//goes to the (position-1) and insert the node
 		else{
 			pNode tmp = collumAux->nextNode;
-			while (tmp->nextInCollum != NULL){
-				if (tmp->nextInCollum->line < lineIndex){
-					tmp = tmp->nextInCollum;
-				}
-				else{
-					break;
-				}
+			pNode prev = NULL;
+			while (tmp != NULL && tmp->line < lineIndex){
+				prev = tmp;
+				tmp = tmp->nextInCollum;
 			}
-			pNode aux = tmp->nextInCollum;
-			tmp->nextInCollum = node;
-			node->nextInCollum = aux;
+			if (tmp == NULL || tmp->line > lineIndex){
+				tmp = prev;
+			}
+			if (tmp->line == lineIndex){
+				tmp->item = item;
+			}else{
+				pNode aux = tmp->nextInCollum;
+				tmp->nextInCollum = node;
+				node->nextInCollum = aux;			
+			}		
 		}
+	}
+}
 
+void printVoidMatrix (int num_line, int num_collum){
+	for (int j = 0; j < num_line; j++){
+		printf("[");
+		for (int i = 0; i < num_collum; i++){
+			printf("0 ");
+		}
+		printf("]\n");
 	}
 }
 
 void multiplyMatrix(pMPointer * headLineA, pMPointer * headCollumB, int la, int ca, int lb, int cb){
 	if (*headLineA == NULL || *headCollumB == NULL){
-		printf("ERRO\n");
-		return;
-	}else if (ca != lb){
+		if (la != 0 && ca != 0 && lb != 0 && cb != 0){
+			printVoidMatrix(la, cb);
+		}else{
+			printf("ERRO\n");
+			return;
+		}
+	}
+	else if (ca != lb){
 		printf("ERRO\n");
 		return;
 	}
@@ -323,8 +373,8 @@ int main(int argc, char const *argv[])
 		insertNode(&matrixA.headLine, &matrixA.headCollum, line, collum, item);
 	}
 
-	printLines(&matrixA.headLine);
-	printCollums(&matrixA.headCollum);
+	//printLines(&matrixA.headLine);
+	//printCollums(&matrixA.headCollum);
 
 	
 	for (int i = 0; i < nb; i++){
@@ -341,11 +391,19 @@ int main(int argc, char const *argv[])
 	while (1){
 		switch(operation){
 			case('A'): //imprime matriz A
-				printMatrix(&matrixA.headLine, la, ca);
+				if (na == 0 && ca != 0 && la != 0){
+					printVoidMatrix(la, ca);
+				}else{
+					printMatrix(&matrixA.headLine, la, ca);
+				}
 				printf("\n");
 				break;
 			case('B'): //imprime matriz B
-				printMatrix(&matrixB.headLine, lb, cb);
+				if (nb == 0 && lb != 0 && cb != 0){
+					printVoidMatrix(lb, cb);
+				}else{
+					printMatrix(&matrixB.headLine, lb, cb);
+				}
 				printf("\n");
 				break;
 			case('M'): //Multiplica matriz A e B, e imprimi o resultado
