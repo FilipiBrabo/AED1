@@ -33,19 +33,17 @@ void insere(noArv * raiz, noArv x){
 	if (x->ra > (*raiz)->ra){
 		insere(&(*raiz)->dir, x);
 	//vai para esquerda
-	}else if (x->ra < (*raiz->ra)){
+	}else if (x->ra < (*raiz)->ra){
 		insere(&(*raiz)->esq, x);
 	//RA igual
 	}else{
-		*(raiz)->nota = x->nota;
+		(*raiz)->nota = x->nota;
 	}
 }
 
-//remove nó com o ra informado
-noArv prev = NULL;
+//remove nó com ra informado
 void remove(noArv * raiz, int ra){
 	if (*raiz == NULL) return;
-
 	
 	//acha o nó a ser removido
 	if (ra > atual->ra){ 	//vai pra sub arvore da direita
@@ -66,29 +64,37 @@ void remove(noArv * raiz, int ra){
 				
 			}	
 		}
-
 }
+
+
 int main(int argc, char const *argv[])
 {
 	char operation;
-	NoArv raiz = NULL;
+	int ra, nota;
+	noArv raiz = NULL;
 
 	while(1){
+		scanf("%c", &operation);
 		switch(operation){
 			case('I'):
-				insere();
+				scanf("%d %d", &ra, &nota);
+				insere(&raiz, novoNoArv(ra, nota));
 				break;
 			case('R'):
-				remove();
+				//remove();
 				break;
 			case('B'):
-				buscaNo();
+				//buscaNo();
 				break;
 			case('A'):
-				alturaArvore();
-			case('P'):
-				imprimePosOrdem();
+				//alturaArvore();
+			case('T'):
+				teste(&raiz, 0);
 				break;
-		}	
-		return 0;
+			case('P'):
+				//imprimePosOrdem();
+				return 0;
+				break;
+		}
+	}
 }
