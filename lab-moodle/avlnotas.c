@@ -1,302 +1,66 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct treeNode * pTreeNode;
-typedef struct treeNode treeNode;
-
-struct treeNode{
-	int RA;
+typedef struct s_noArv * noArv;
+struct s_noArv{
+	int ra;
 	int nota;
-	pTreeNode right, left;
+	noArv esq;
+	noArv dir;
 };
 
-pTreeNode newTreeNode(int RA, int nota){
-	pTreeNode x = malloc (sizeof(treeNode));
-	if (!x) return NULL;
-	x->RA = RA;
-	x->nota = nota;
-	x->right = NULL;
-	x->left = NULL;
-
-	return x;
-}
-
-void insertTreeNode(pTreeNode *root, pTreeNode x){
-	if (*root == NULL)
-		*root = x;
-	if (x->RA < (*root)->RA){ 			//Se o RA for menor vai pra esquerda
-		insertTreeNode(&(*root)->left, x);
-	}else if (x->RA > (*root)->RA){ 	//Se o RA for maior vai pra direita
-		insertTreeNode(&(*root)->right, x);
-	}else{ 								//RA igual
-		(*root)->nota = x->nota;
-	}	
-}
-
-int numIteracoes = 0;
-
-pTreeNode searchRA(pTreeNode root, int RA){
-	if (root == NULL){
-		//numIteracoes++;
-		printf("C=%d Nota=-1\n", numIteracoes);
-		numIteracoes = 0;
-		return NULL; 
+noArv novoNoArv(int ra, int nota){
+	noArv tmp = (noArv) malloc (sizeof(struct s_noArv));
+	
+	if(!tmp){
+		return NULL;
 	}
-	if (root->RA == RA){
-		numIteracoes++;
-		printf("C=%d Nota=%d\n", numIteracoes, root->nota);
-		numIteracoes = 0;
-		return root;
-	}else if(RA < root->RA){
-		numIteracoes++;		
-		return searchRA(root->left, RA);
+
+	tmp->ra = ra;
+	tmp->nota = nota;
+	tmp->esq = NULL;
+	tmp->dir = NULL;
+
+	return tmp;
+}
+
+void insere(noArv * raiz, noArv x){
+	if ((*raiz) == NULL){
+		*raiz = x;
+	}
+	//vai para direita
+	if (x->ra > (*raiz)->ra){
+		insere(&(*raiz)->dir, x);
+	//vai para esquerda
+	}else if (x->ra < (*raiz->ra)){
+		insere(&(*raiz)->esq, x);
+	//RA igual
 	}else{
-		numIteracoes++;		
-		return searchRA(root->right, RA);
+		*(raiz)->nota = x->nota;
 	}
-
-}
-int max(int a, int b){
-	if (a > b){
-		return a;
-	}else{
-		return b;
-	}
-}
-
-int findHeight(pTreeNode root){
-	if (root == NULL){
-		return -1;
-	}
-	int leftHeight, rightHeight;
-
-	leftHeight = findHeight(root->left);
-	rightHeight = findHeight(root->right);
-	return max(leftHeight, rightHeight) + 1;
-}
-
-int balanceFactor(pTreeNode node){
-	if (node == NULL){
-		return 0;
-	}
-	return findHeight(node->left) - findHeight(node->right) -1;
-}
-
-void removeTreeNode(pTreeNode *root, int RA){
-	pTreeNode tmp = *root;
-	
-	//acha o anterior do nó a ser removido
-	pTreeNode prev = NULL;
-	while (tmp && tmp->RA != RA){
-		if (RA > tmp->RA){ //RA maior, vai para direita
-			prev = tmp;
-			tmp = tmp->right;
-		}else{  			//RA menor, vai para esquerda
-			prev = tmp;
-			tmp = tmp->left;
-		}
-	}
-	
-	if (tmp){							//se existe o nó a ser removido				
-		if (tmp->right && tmp->left){ 	//se existirem 2 filhos
-			pTreeNode aux = NULL;
-			//acha o menor a direita
-			aux = tmp->right;
-			while (aux->left){
-				//prev = root;
-				aux = aux->left;
-			}
-			
-			tmp->RA = aux->RA;
-			tmp->nota = aux->nota;
-			
-			removeTreeNode(&(tmp->right), aux->RA);
-
-		}else{
-			pTreeNode aux2 = NULL;			        //existe no max um filho
-			if (tmp->right){				//existe o filho da direita
-				aux2 = tmp->right;
-			}else if (tmp->left){			//existe o filho da esquerda
-				aux2 = tmp->left;
-			}
-		
-			if(prev){ //se existe anterior(não estamos na raiz)
-				
-				//verificar se o nó está a esqueda ou a direita do anterior
-				if (tmp->RA > prev->RA){
-					prev->right = aux2;
-				}else{
-					prev->left = aux2;
-				}
-			}else{ //nó a ser removido é  a raiz
-				*root = aux2;
-			}
-			free(tmp);
-		}
-	}
-
-	
-}
-
-void RSD (pTreeNode * root){
-	if (*root == NULL) return;
-
-	pTreeNode curr = *root;
-	pTreeNode currLeft = curr->left;
-	pTreeNode cRight = currLeft->right; //right child of currLeft
-
-	printf("No desbalanceado: %d\n", curr->RA);
-	printf("Rotacao: SD\n");
-	printf("[x=%d y=%d z=%d]\n", currLeft->left->RA, currLeft->RA, curr->RA);
-
-	currLeft->right = curr;
-	curr->left = cRight;
-
-	*root = currLeft;
-}
-
-void RSE (pTreeNode * root){
-	if (*root == NULL) return;
-
-	pTreeNode curr = *root;
-	pTreeNode currRight = curr->right;
-	pTreeNode bLeft = currRight->left; //left child of currRight
-
-	printf("No desbalanceado: %d\n", curr->RA);
-	printf("Rotacao: SE\n");
-	printf("[x=%d y=%d z=%d]\n", curr->RA, currRight->RA, currRight->right->RA);
-
-	currRight->left = curr;
-	curr->right = bLeft;
-
-	*root = currRight;
-}
-
-void RDD (pTreeNode *root){
-	if (*root == NULL) return;
-
-	pTreeNode curr = *root;
-	pTreeNode leftCurr = curr->left;
-	pTreeNode rightCurrL = leftCurr->right;
-	pTreeNode bLeft = rightCurrL->left; //left child of curr->left->right 
-	pTreeNode cRight = rightCurrL->right; //right child of curr->left->right
-
-	printf("No desbalanceado: %d\n", curr->RA);
-	printf("Rotacao: DD\n");
-	printf("[x=%d y=%d z=%d]\n", leftCurr->RA, leftCurr->right->RA, curr->RA);
-
-	curr->left = rightCurrL;
-	rightCurrL->left = leftCurr;
-	leftCurr->right = bLeft;
-
-	RSD(root); 
-}
-
-void RDE (pTreeNode *root){
-	if (*root == NULL) return;
-
-	pTreeNode curr = *root;
-	pTreeNode rightCurr = curr->left;
-	pTreeNode leftCurrR = rightCurr->left;
-	pTreeNode bLeft = leftCurrR->left; //left child of curr->left->right 
-	pTreeNode cRight = leftCurrR->right; //right child of curr->left->right
-
-	printf("No desbalanceado: %d\n", curr->RA);
-	printf("Rotacao: DE\n");
-	printf("[x=%d y=%d z=%d]\n", curr->RA, rightCurr->left->RA, rightCurr->RA);
-
-	curr-> right = leftCurrR;
-	leftCurrR->right = rightCurr;
-	rightCurr->left = cRight;
-
-	RSE(root);
-
 }
 
 int main(int argc, char const *argv[])
 {
-	char op; //operation
-	int RA, nota, height, balance;
-	pTreeNode root = NULL;
+	char operation;
+	NoArv raiz = NULL;
 
-	while(scanf("\n%c", &op) && op != 'P'){
-		switch(op){
+	while(1){
+		switch(operation){
 			case('I'):
-				scanf("%d %d", &RA, &nota);
-				
-				balance = balanceFactor(root);
-				printf("Balance:%d\n", balance);				
-				
-
-				if (balance > 1){ //rotação a direita
-					balance = balanceFactor(root->left);
-					if (balance < -1){
-						RSD(&root);
-						printf("[Rotacao: SD\n");
-					}else if(balance > 1){
-						RDD(&root);
-						printf("[Rotacao: DD\n");
-					}
-				
-				}else if (balance < -1){ //rotacao a esquerda
-					balance = balanceFactor(root->right);
-					printf("Balance:%d\n", balance);
-					if (balance < -1){
-						RSE(&root);
-						printf("[Rotacao: SE\n");
-					}else if (balance > 1){
-						RDE(&root);
-						printf("[Rotacao: DE]\n");
-					}
-				}
-				else{ //arvore balanceada					
-					printf("[Ja esta balanceado]\n");
-				}
-				insertTreeNode(&root, newTreeNode(RA, nota));
+				insere();
 				break;
-
 			case('R'):
-				scanf("%d", &RA);
-				removeTreeNode(&root, RA);
-
-				balance = balanceFactor(root);				
-				if (balance == -1 || balance == -1){ //arvore balanceada
-					printf("[Ja esta balanceado]\n");
-
-				}else if (balance > 1){ //rotação a direita
-					balance = balanceFactor(root->left);
-					if(balance == -1 || balance == -1){
-						RSD(&root);
-						printf("[Rotacao: SD\n");
-					}else{
-						RDD(&root);
-						printf("[Rotacao: DD\n");
-					}
-				
-				}else{ //rotacao a esquerda
-					balance = balanceFactor(root->left);
-					if(balance == -1 || balance == -1){
-						RSE(&root);
-						printf("[Rotacao: SE\n");
-					}else{
-						RDE(&root);
-						printf("[Rotacao: DE]\n");
-					}
-				}
+				remove();
 				break;
-
 			case('B'):
-				scanf("%d", &RA);
-				searchRA(root, RA);
-				//printf("%d\n", previous->RA);
+				buscaNo();
 				break;
-
 			case('A'):
-				height = findHeight(root);
-				printf("A=%d\n", height);
+				alturaArvore();
+			case('P'):
+				imprimePosOrdem();
 				break;
-		}
-	}
-
-	return 0;
+		}	
+		return 0;
 }
