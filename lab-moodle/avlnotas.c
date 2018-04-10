@@ -24,6 +24,28 @@ noArv novoNoArv(int ra, int nota){
 	return tmp;
 }
 
+void teste(noArv *raiz, int x){
+	if (*raiz == NULL){
+		printf("Árvore vazia\n");
+		return;
+	}
+	
+	if ((*raiz)->esq){
+		printf("(%d, %d) <--", (*raiz)->esq->ra, (*raiz)->esq->nota);
+	}else{
+		printf("(null) <--");
+	}
+	printf(" (%d, %d) ", (*raiz)->ra, (*raiz)->nota);
+	if ((*raiz)->dir){
+		printf("--> (%d, %d)\n", (*raiz)->dir->ra, (*raiz)->dir->nota);	
+	}else{
+		printf("--> (null)\n");	
+	}
+	
+	teste(&(*raiz)->esq, x+1);
+	teste(&(*raiz)->dir, x+1);
+}
+
 //insere nó x na árvore
 void insere(noArv * raiz, noArv x){
 	if ((*raiz) == NULL){
