@@ -24,6 +24,7 @@ noArv novoNoArv(int ra, int nota){
 	return tmp;
 }
 
+//insere nó x na árvore
 void insere(noArv * raiz, noArv x){
 	if ((*raiz) == NULL){
 		*raiz = x;
@@ -40,6 +41,33 @@ void insere(noArv * raiz, noArv x){
 	}
 }
 
+//remove nó com o ra informado
+noArv prev = NULL;
+void remove(noArv * raiz, int ra){
+	if (*raiz == NULL) return;
+
+	
+	//acha o nó a ser removido
+	if (ra > atual->ra){ 	//vai pra sub arvore da direita
+		remove(&(*raiz)->dir, ra);	
+	}else if (ra < atual->ra){	//vai pra sub arvore da esquerda
+		remove(&(*raiz)->dir, ra);
+	}else{	//achei o nó
+		noArv atual = *raiz;	//auxiliar
+
+		if((*raiz)->dir && (*raiz)->esq){	//tem os dois filhos 
+		
+		}else{	//tem no máx um filho
+			if (*(raiz)->dir){	//tem o filho da direita
+				(*raiz) = (*raiz)->dir;
+				free(atual); 
+			
+			}else if ((*raiz)->esq){	//tem o filho da esquerda
+				
+			}	
+		}
+
+}
 int main(int argc, char const *argv[])
 {
 	char operation;
