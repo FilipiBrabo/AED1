@@ -83,9 +83,21 @@ void printCollums(pMPointer *headCollum){
 	
 }
 
+void printVoidMatrix (int num_line, int num_collum){
+	for (int j = 0; j < num_line; j++){
+		printf("[");
+		for (int i = 0; i < num_collum; i++){
+			printf("0 ");
+		}
+		printf("]\n");
+	}
+}
+
 void printMatrix(pMPointer * headLine, int num_line, int num_collum){
 	if (*headLine == NULL){
-		//printf("ERRO\n");
+		if (num_line != 0 && num_collum != 0){
+			printVoidMatrix(num_line, num_collum);
+		}
 		return;
 	}
 	
@@ -283,20 +295,11 @@ void insertNode(pMPointer * headLine, pMPointer * headCollum, int lineIndex, int
 	}
 }
 
-void printVoidMatrix (int num_line, int num_collum){
-	for (int j = 0; j < num_line; j++){
-		printf("[");
-		for (int i = 0; i < num_collum; i++){
-			printf("0 ");
-		}
-		printf("]\n");
-	}
-}
-
 void multiplyMatrix(pMPointer * headLineA, pMPointer * headCollumB, int la, int ca, int lb, int cb){
 	if (*headLineA == NULL || *headCollumB == NULL){
 		if (la != 0 && ca != 0 && lb != 0 && cb != 0){
 			printVoidMatrix(la, cb);
+			return;
 		}else{
 			printf("ERRO\n");
 			return;
@@ -315,7 +318,7 @@ void multiplyMatrix(pMPointer * headLineA, pMPointer * headCollumB, int la, int 
 	matrixR.headCollum = NULL;
 
 	int contLine = 0, sum;
-	while (lineA){
+	while (lineA){		
 		if (lineA->index == contLine){ //There's node in the line
 			collumB = *headCollumB;
 			//printf("NóA\n");
@@ -347,7 +350,6 @@ void multiplyMatrix(pMPointer * headLineA, pMPointer * headCollumB, int la, int 
 			contLine++;
 		}			
 	}
-	//printf("%d\n %d\n", ca, cb);
 	printMatrix(&matrixR.headLine, la, cb);
 
 }
@@ -368,42 +370,30 @@ int main(int argc, char const *argv[])
 	matrixB.headCollum = NULL;
 	
 	scanf("%d %d %d %d %d %d", &la, &ca, &na, &lb, &cb, &nb);
-	for (int i = 0; i < na; i++){
-		scanf("%d %d %d", &line, &collum, &item);
-		insertNode(&matrixA.headLine, &matrixA.headCollum, line, collum, item);
+	
+	if (la != 0 && ca != 0){
+		for (int i = 0; i < na; i++){
+			scanf("%d %d %d", &line, &collum, &item);
+			insertNode(&matrixA.headLine, &matrixA.headCollum, line, collum, item);
+		}
 	}
 
-	//printLines(&matrixA.headLine);
-	//printCollums(&matrixA.headCollum);
-
-	
-	for (int i = 0; i < nb; i++){
+	if (lb != 0 && cb != 0){
+		for (int i = 0; i < nb; i++){
 		scanf("%d %d %d", &line, &collum, &item);
 		insertNode(&matrixB.headLine, &matrixB.headCollum, line, collum, item);	
+		}
 	}
-	//printLines(&matrixB.headLine);
-	//printCollums(&matrixB.headCollum);
-
-	
-
 
 	scanf(" %c", &operation);	
 	while (1){
 		switch(operation){
 			case('A'): //imprime matriz A
-				if (na == 0 && ca != 0 && la != 0){
-					printVoidMatrix(la, ca);
-				}else{
-					printMatrix(&matrixA.headLine, la, ca);
-				}
+				printMatrix(&matrixA.headLine, la, ca);
 				printf("\n");
 				break;
 			case('B'): //imprime matriz B
-				if (nb == 0 && lb != 0 && cb != 0){
-					printVoidMatrix(lb, cb);
-				}else{
-					printMatrix(&matrixB.headLine, lb, cb);
-				}
+				printMatrix(&matrixB.headLine, lb, cb);
 				printf("\n");
 				break;
 			case('M'): //Multiplica matriz A e B, e imprimi o resultado
