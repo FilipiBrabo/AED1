@@ -201,11 +201,13 @@ void insereNoArv(noArv * raiz, noArv x){
 	}
 }
 
+//Verifica se não houve rotação na op. de inserção ou remoção
 void verificaBalanco(){
 	if (flag == 0){
 		printf("[Ja esta balanceado]\n");
 	}
 }
+
 //remove nó com ra informado
 noArv x = NULL; 
 void removeNoArv(noArv *raiz, int ra){

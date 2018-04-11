@@ -106,7 +106,7 @@ void removeTreeNode(pTreeNode *root, int RA){
 			removeTreeNode(&(tmp->right), aux->RA);
 
 		}else{
-			pTreeNode aux2 = NULL;			        //existe no max um filho
+			pTreeNode aux2 = NULL;			//existe no max um filho
 			if (tmp->right){				//existe o filho da direita
 				aux2 = tmp->right;
 			}else if (tmp->left){			//existe o filho da esquerda
