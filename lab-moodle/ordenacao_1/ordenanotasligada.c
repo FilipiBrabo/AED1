@@ -35,7 +35,7 @@ void insertNode(node* lista, node x) {
   x->ant = aux;
 }
 
-//busca um ra na lista e retorna a posição
+//busca um ra na lista e mostra a posição (-1 se não existe)
 void searchNode(node *head, int ra){
   if (*head  == NULL) return;
   
@@ -67,6 +67,7 @@ int compare(node a, node b, int campo) {
   }
 }
 
+//Ordena a lista por inserção
 long int insertionSort(node *head, int campo) {
   if (*head == NULL) return 0;
   long int comp = 0;
@@ -80,7 +81,7 @@ long int insertionSort(node *head, int campo) {
     	j->prox->ra = j->ra;
     	j->prox->nome = j->nome;
     	j->prox->nota = j->nota;
-      	j = j->ant;
+      j = j->ant;
     }
  	
  	if (j){	//Nó anterior existe
