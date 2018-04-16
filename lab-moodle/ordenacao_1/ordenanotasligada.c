@@ -77,9 +77,8 @@ long int insertionSort(node *head, int campo) {
     while (j != NULL && ++comp && compare(j, i, campo) > 0){
       j = j->ant;
     }
-    
-    node x = insertNodePos(head, newNode(i->ra, i>nome, i->nota));
-    deleteNode(&(*(x->prox)))
+ 	
+ 	
    
     
   }
