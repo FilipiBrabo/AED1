@@ -27,7 +27,6 @@ node newNode(int ra, int nota, char *nome){
 void insertNode(node* lista, node x) {
   if (*lista == NULL){
   	*lista = x;
-  	x->ant = *lista;
   	return;
   }
   node aux = *lista;
@@ -69,18 +68,33 @@ int compare(node a, node b, int campo) {
 }
 
 long int insertionSort(node *head, int campo) {
+  if (*head == NULL) return 0;
   long int comp = 0;
-  int tmpNota, tmpRA;
-  char *tmpNome;
+  node tmp;
+
   for (node i = (*head)->prox;i != NULL;i = i->prox) {
     node j = i->ant;
-    while (j != NULL && ++comp && compare(j, i, campo) > 0){
-      j = j->ant;
+    tmp = newNode(i->ra, i->nota, i->nome);
+
+    while (j != NULL && ++comp && compare(j, tmp, campo) > 0){
+    	j->prox->ra = j->ra;
+    	j->prox->nome = j->nome;
+    	j->prox->nota = j->nota;
+      	j = j->ant;
     }
  	
+ 	if (j){	//Nó anterior existe
+ 		j->prox->ra = tmp->ra;
+ 		j->prox->nome = tmp->nome;
+ 		j->prox->nota = tmp->nota; 
  	
-   
-    
+ 	}else{	//Nó anterior igual a NULL(começo da lista);
+ 		(*head)->ra = tmp->ra;
+ 		(*head)->nome = tmp->nome;
+ 		(*head)->nota = tmp->nota; 
+ 	}
+ 	
+ 	free(tmp);
   }
   return comp;
 }
@@ -92,8 +106,7 @@ long int selectionSort(node *head, int campo){
   
   node i = *head;
   long int comp = 0;
-  int tmpRA, tmpNota;
-  char *tmpNome;
+  node tmp;
   
 	for (; i->prox != NULL; i = i->prox){     
 	node min = i;
@@ -107,17 +120,17 @@ long int selectionSort(node *head, int campo){
 		}
 		
 		if (min->ra != i->ra){
-			tmpRA = i->ra;
-			tmpNome = i->nome;
-			tmpNota = i->nota;
+			tmp = newNode(i->ra, i->nota, i->nome);
 
 			i->ra = min->ra;
 			i->nome = min->nome;
 			i->nota = min->nota;
 
-			min->ra = tmpRA;
-			min->nome = tmpNome;
-			min->nota = tmpNota;
+			min->ra = tmp->ra;
+			min->nome = tmp->nome;
+			min->nota = tmp->nota;
+
+			free(tmp);
 		}
 		
 	}	
@@ -141,7 +154,7 @@ long int ordenaLista(int algoritmo, int campo, node* head){
   if (algoritmo == 1){  //Ordenação por seleção
     comp = selectionSort(head, campo);
   }else if (algoritmo == 2){  //Ordena por inserção
-    //comp = insertionSort(head, campo);  
+    comp = insertionSort(head, campo);  
   }
   
   return comp;
@@ -152,6 +165,21 @@ void printList(node lista) {
   if (lista == NULL) return;
   printf("[%d %s %d]\n", lista->ra, lista->nome, lista->nota);
   printList(lista->prox);
+}
+
+//deleta lista
+void deleteList(node *head){
+	if (*head == NULL) return;
+
+	node aux = *head;
+	node tmp;
+	while (aux != NULL){
+		tmp = aux;
+		aux = aux->prox;
+		free(tmp);
+	}
+
+	*head = NULL;
 }
 
 int main(int argc, char const *argv[])
@@ -178,9 +206,7 @@ int main(int argc, char const *argv[])
         printList(lista);
       break;
       case 'P':
-        while(lista != NULL) {
-        	//deleteNode(&lista);
-        }
+        deleteList(&lista);
         return 0;
       break;
     }
