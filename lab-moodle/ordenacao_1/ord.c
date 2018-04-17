@@ -36,10 +36,13 @@ void insertNode(node* lista, node x) {
 }
 
 //printa lista
-void printList(node lista) {
-  if (lista == NULL) return;
-  printf("[%d %s %d]\n", lista->ra, lista->nome, lista->nota);
-  printList(lista->prox);
+void printList(node *lista) {
+  if (*lista == NULL) return;
+  node aux = *lista;
+  while (aux != NULL){
+    printf("[%d %s %d]\n", aux->ra, aux->nome, aux->nota);
+    aux = aux->prox;
+  }
 }
 
 //busca um ra na lista e mostra a posição (-1 se não existe)
@@ -76,57 +79,60 @@ int compare(node a, node b, int campo) {
 
 //Ordena a lista por inserção
 long int insertionSort(node *head, int campo) {
-  printList(*head);
-  printf("As\n");
-  printList(*head);
-  //if (*head == NULL) return 0;
-  printf("b");
+  if (*head == NULL) return 0;
   long int comp = 0;
+  int flag = 0;
   node prevI, prevJ, nextI, nextJ;
 
-  printf("a");
   for (node i = (*head)->prox; i != NULL;) {
     node j = i->ant;
     node tmp = i;
-    printf("As");
+
     while (j != NULL && ++comp && compare(j, tmp, campo) > 0){
       j = j->ant;
+      flag = 1;
     }
- 	  printf("A");
+  
  	  i = i->prox;
-     
+    if (flag == 0) continue;
+
     if (j){	//Nó anterior existe
       prevJ = j->ant;
       nextJ = j->prox;
       prevI = tmp->ant;
       nextI = tmp->prox;
-     
+
       //insere o no i na posição j+1
-      j->prox = tmp;
+      j->prox = tmp;      
       tmp->prox = nextJ;
       tmp->ant = j;
       nextJ->ant = tmp;
+
       
-      //"exclui" o nó i
       prevI->prox = nextI;
-      nextI->ant = prevI;
-     
-    }else{	//Nó anterior igual a NULL(começo da lista);
-      nextJ = (*head)->prox;
-      prevI = tmp->ant;
-      nextI = tmp->prox;
+      if (nextI){
+        nextI->ant = prevI;
+      } 
       
-      //insere o no i na primeira posição da lista
-      (*head)->prox = i;
-      i->prox = nextJ;
-      i->ant = NULL;
-      nextJ->ant = i;
+      }else{	//Nó anterior igual a NULL(começo da lista);        
+        nextJ = (*head)->prox;
+        prevI = tmp->ant;
+        nextI = tmp->prox;
+        
+        //insere o no i na primeira posição da lista
+        (*head)->prox = tmp;
+        tmp->prox = nextJ;
+        tmp->ant = NULL;
+        nextJ->ant = tmp;
       
-      //"exclui" o nó i
+      
       prevI->prox = nextI;
-      nextI->ant = prevI;
+      if (nextI){
+        nextI->ant = prevI;
+      }
     }
- 
+
+    flag = 0;
   }
   return comp;
 }
@@ -227,7 +233,7 @@ int main(int argc, char const *argv[])
         searchNode(&lista, ra);
       break;
       case 'M':
-        printList(lista);
+        printList(&lista);
       break;
       case 'P':
         deleteList(&lista);
