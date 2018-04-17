@@ -81,59 +81,54 @@ int compare(node a, node b, int campo) {
 long int insertionSort(node *head, int campo) {
   if (*head == NULL) return 0;
   long int comp = 0;
-  int flag = 0;
   node prevI, prevJ, nextI, nextJ;
 
-  for (node i = (*head)->prox; i != NULL;) {
-    node j = i->ant;
-    node tmp = i;
+  	for (node i = (*head)->prox; i != NULL; i = i->prox) {
+	    node j = i->ant;
+	    while (j != NULL && ++comp && compare(j, i, campo) > 0){
+	      	j = j->ant;      
+	    }
+	  
+		if (i->ant == j) continue;
+		
+		if (j){	//Nó anterior existe
+			prevJ = j->ant;
+			nextJ = j->prox;
+			prevI = i->ant;
+			nextI = i->prox;
 
-    while (j != NULL && ++comp && compare(j, tmp, campo) > 0){
-      j = j->ant;
-      flag = 1;
-    }
-  
- 	  i = i->prox;
-    if (flag == 0) continue;
+			//insere o no i na posição j+1
+			j->prox = i;      
+			i->prox = nextJ;
+			i->ant = j;
+			nextJ->ant = i;
 
-    if (j){	//Nó anterior existe
-      prevJ = j->ant;
-      nextJ = j->prox;
-      prevI = tmp->ant;
-      nextI = tmp->prox;
+			prevI->prox = nextI;
+			if (nextI){
+				nextI->ant = prevI;
+			} 
 
-      //insere o no i na posição j+1
-      j->prox = tmp;      
-      tmp->prox = nextJ;
-      tmp->ant = j;
-      nextJ->ant = tmp;
+		}else{	//Nó anterior igual a NULL(começo da lista);        
+			nextJ = *head;
+			prevI = i->ant;
+			nextI = i->prox;
 
-      
-      prevI->prox = nextI;
-      if (nextI){
-        nextI->ant = prevI;
-      } 
-      
-      }else{	//Nó anterior igual a NULL(começo da lista);        
-        nextJ = (*head)->prox;
-        prevI = tmp->ant;
-        nextI = tmp->prox;
-        
-        //insere o no i na primeira posição da lista
-        (*head)->prox = tmp;
-        tmp->prox = nextJ;
-        tmp->ant = NULL;
-        nextJ->ant = tmp;
-      
-      
-      prevI->prox = nextI;
-      if (nextI){
-        nextI->ant = prevI;
-      }
-    }
+			//insere o no i na primeira posição da lista
+			*head = i;
+			i->prox = nextJ;
+			i->ant = NULL;
+			nextJ->ant = i;
 
-    flag = 0;
-  }
+			prevI->prox = nextI;
+			if (nextI){
+				nextI->ant = prevI;
+		  	}
+		}
+
+    //faz o i apontar para o nó certo para fazer a iteração
+		i = prevI;
+
+	}
   return comp;
 }
 
