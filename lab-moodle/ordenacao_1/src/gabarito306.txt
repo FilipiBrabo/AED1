@@ -1,0 +1,9 @@
+Pos=-1
+Comparacoes=1
+Pos=-1
+Comparacoes=6
+[11 AAW 38]
+[59 EDA 13]
+[77 WWW 48]
+[91 AAD 8]
+Comparacoes=9

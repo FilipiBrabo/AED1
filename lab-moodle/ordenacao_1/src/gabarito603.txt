@@ -1,0 +1,22 @@
+Pos=-1
+Comparacoes=3
+Pos=1
+Pos=-1
+Pos=-1
+Comparacoes=6
+Pos=3
+[64 DFF 55]
+[60 SWS 59]
+[67 SWW 56]
+[58 WAW 51]
+[19 AFE 82]
+Pos=-1
+[64 DFF 55]
+[60 SWS 59]
+[67 SWW 56]
+[58 WAW 51]
+[19 AFE 82]
+[39 SFS 31]
+[59 ADA 39]
+[60 AAA 52]
+Comparacoes=24

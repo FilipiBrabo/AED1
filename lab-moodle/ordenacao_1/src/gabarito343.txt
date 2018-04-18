@@ -1,0 +1,9 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+[12 AWA 52]
+Comparacoes=0
+Pos=0
+Comparacoes=8
+Pos=-1
+Comparacoes=8

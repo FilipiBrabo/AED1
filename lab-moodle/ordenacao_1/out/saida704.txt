@@ -1,0 +1,9 @@
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+[70 FAS 24]
+Comparacoes=0
+Pos=-1
+Pos=0
+Comparacoes=0
+Pos=0

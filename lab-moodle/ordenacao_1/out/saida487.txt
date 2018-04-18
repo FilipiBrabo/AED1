@@ -1,0 +1,16 @@
+Pos=-1
+Comparacoes=0
+Pos=0
+Comparacoes=4
+Comparacoes=3
+[83 AAD 19]
+[86 ASW 49]
+[11 DDA 1]
+[85 ESA 14]
+Comparacoes=10
+Comparacoes=15
+Pos=-1
+Pos=-1
+Pos=3
+Pos=-1
+Pos=1

@@ -1,0 +1,6 @@
+Comparacoes=0
+[71 AFS 98]
+Pos=-1
+Comparacoes=1
+Pos=-1
+Comparacoes=1

@@ -1,0 +1,8 @@
+Pos=-1
+[97 AAA 97]
+[97 AAA 97]
+Pos=1
+[97 AAA 97]
+[13 SWA 66]
+[61 SES 36]
+Comparacoes=3

@@ -1,0 +1,30 @@
+Comparacoes=0
+Pos=-1
+Pos=0
+Pos=-1
+Pos=3
+Comparacoes=36
+Pos=-1
+Comparacoes=71
+Comparacoes=15
+Comparacoes=84
+[87 AEA 51]
+[38 AWS 6]
+[75 AWS 34]
+[63 DFF 77]
+[76 DSF 55]
+[93 DWW 6]
+[88 EAD 85]
+[77 EFA 82]
+[86 ESA 46]
+[32 ESS 91]
+[11 FWS 14]
+[13 SAD 21]
+[4 SDE 65]
+[97 SSS 77]
+[30 SSW 24]
+[40 SWS 55]
+Comparacoes=84
+Pos=1
+Comparacoes=120
+Comparacoes=120

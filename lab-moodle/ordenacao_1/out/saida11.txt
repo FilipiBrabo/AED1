@@ -1,0 +1,69 @@
+Pos=3
+Comparacoes=15
+[21 ASW 19]
+[35 WSA 54]
+[59 DAW 74]
+[75 WAS 83]
+[77 ASA 34]
+[84 EDS 69]
+[85 DWD 38]
+[37 ESA 84]
+[50 AEW 93]
+[52 AAS 96]
+[25 ASD 8]
+[21 ASW 19]
+[35 WSA 54]
+[59 DAW 74]
+[75 WAS 83]
+[77 ASA 34]
+[84 EDS 69]
+[85 DWD 38]
+[37 ESA 84]
+[50 AEW 93]
+[52 AAS 96]
+[25 ASD 8]
+[21 ASW 19]
+[35 WSA 54]
+[59 DAW 74]
+[75 WAS 83]
+[77 ASA 34]
+[84 EDS 69]
+[85 DWD 38]
+[37 ESA 84]
+[50 AEW 93]
+[52 AAS 96]
+[25 ASD 8]
+[82 SEA 58]
+[85 EAA 96]
+Comparacoes=91
+Comparacoes=105
+Pos=-1
+Comparacoes=120
+Comparacoes=120
+Pos=7
+Comparacoes=15
+Comparacoes=15
+[4 SSW 61]
+[21 ASW 19]
+[25 ASD 8]
+[35 WSA 54]
+[37 ESA 84]
+[50 AEW 93]
+[52 AAS 96]
+[59 DAW 74]
+[60 WDF 41]
+[70 EAA 77]
+[75 WAS 83]
+[77 ASA 34]
+[82 SEA 58]
+[84 EDS 69]
+[85 EAA 96]
+[85 DWD 38]
+Pos=11
+Comparacoes=99
+Pos=5
+Pos=-1
+Comparacoes=231
+Comparacoes=21
+Pos=13
+Pos=-1

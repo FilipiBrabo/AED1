@@ -1,0 +1,34 @@
+Pos=-1
+Pos=-1
+Comparacoes=3
+Pos=2
+Comparacoes=21
+[3 DDA 6]
+[12 SAW 90]
+[20 WSA 31]
+[24 WDA 5]
+[32 SSD 66]
+[69 ADA 15]
+[94 EED 31]
+Pos=-1
+Comparacoes=24
+[69 ADA 15]
+[86 DAA 32]
+[3 DDA 6]
+[94 EED 31]
+[12 SAW 90]
+[32 SSD 66]
+[24 WDA 5]
+[20 WSA 31]
+Comparacoes=23
+Comparacoes=14
+Pos=-1
+Comparacoes=41
+Pos=-1
+Pos=-1
+Pos=1
+Comparacoes=17
+Comparacoes=120
+Comparacoes=147
+Pos=-1
+Comparacoes=80

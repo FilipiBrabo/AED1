@@ -1,0 +1,12 @@
+Pos=-1
+Comparacoes=3
+Pos=2
+Pos=-1
+Comparacoes=8
+[91 AAA 81]
+[32 ADW 17]
+[25 AED 7]
+[1 AWW 41]
+[42 DEE 96]
+Comparacoes=21
+Comparacoes=11

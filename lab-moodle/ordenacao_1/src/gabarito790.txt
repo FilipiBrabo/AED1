@@ -1,0 +1,19 @@
+Comparacoes=0
+Pos=0
+[88 AAF 81]
+[56 ADA 23]
+[88 AAF 81]
+[56 ADA 23]
+[6 AED 72]
+Comparacoes=9
+[6 AED 72]
+[17 DAD 5]
+[56 ADA 23]
+[61 EAA 49]
+[88 AAF 81]
+[6 AED 72]
+[17 DAD 5]
+[56 ADA 23]
+[61 EAA 49]
+[88 AAF 81]
+[65 DDA 35]

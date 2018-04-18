@@ -1,0 +1,22 @@
+Comparacoes=0
+Pos=0
+Pos=-1
+Pos=-1
+[81 FSS 42]
+[60 SAA 36]
+Pos=-1
+[81 FSS 42]
+[60 SAA 36]
+[71 WAD 31]
+[57 SAE 23]
+[55 SSS 36]
+[12 FAW 3]
+[25 FSA 96]
+[53 ADS 37]
+[2 EWW 34]
+[50 ASW 43]
+Comparacoes=41
+Pos=-1
+Pos=0
+Pos=1
+Pos=-1

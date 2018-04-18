@@ -1,0 +1,27 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
+Pos=0
+Comparacoes=1
+Pos=-1
+Pos=-1
+Pos=0
+Comparacoes=10
+Pos=2
+[20 AEW 84]
+[23 ASD 18]
+[59 DEA 12]
+[63 DEW 25]
+[85 DFE 34]
+[78 AFA 4]
+[64 WDW 4]
+[20 AEW 84]
+[23 ASD 18]
+[59 DEA 12]
+[63 DEW 25]
+[85 DFE 34]
+[78 AFA 4]
+[64 WDW 4]
+Pos=-1
+Pos=-1
+Comparacoes=14

@@ -1,0 +1,10 @@
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=-1
+[63 DAA 36]
+[85 AAA 1]
+[63 DAA 36]
+[85 AAA 1]
+Comparacoes=15
+Pos=3

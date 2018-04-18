@@ -1,0 +1,42 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=1
+[90 ADD 83]
+[19 SAD 91]
+[90 ADD 83]
+[19 SAD 91]
+Comparacoes=1
+Comparacoes=1
+[90 ADD 83]
+[19 SAD 91]
+Comparacoes=5
+Comparacoes=9
+Comparacoes=22
+Pos=-1
+Comparacoes=16
+Comparacoes=52
+Comparacoes=66
+Pos=6
+Pos=4
+[90 AAA 90]
+[77 ADA 53]
+[90 ADD 83]
+[80 AEA 87]
+[85 AWD 40]
+[65 DDS 80]
+[72 DDS 33]
+[21 DSW 60]
+[43 DSW 51]
+[92 FWA 94]
+[55 FWD 72]
+[19 SAD 91]
+[49 SWA 58]
+[62 ADA 25]
+[39 AEA 71]
+[4 ASW 8]
+[9 AAD 91]
+Comparacoes=78
+Comparacoes=19
+Pos=0
+Comparacoes=203
+Pos=-1

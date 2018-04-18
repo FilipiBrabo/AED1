@@ -1,0 +1,25 @@
+Pos=-1
+Comparacoes=0
+Pos=1
+[4 FAF 4]
+[87 AEF 69]
+[11 AEW 35]
+Pos=-1
+[4 FAF 4]
+[87 AEF 69]
+[11 AEW 35]
+[85 AAA 82]
+[45 EAS 20]
+[94 SSA 62]
+[95 AAS 58]
+Pos=2
+Pos=-1
+[4 FAF 4]
+[87 AEF 69]
+[11 AEW 35]
+[85 AAA 82]
+[45 EAS 20]
+[94 SSA 62]
+[95 AAS 58]
+[48 AAE 92]
+[21 EDF 24]

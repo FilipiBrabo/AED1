@@ -1,0 +1,15 @@
+Comparacoes=2
+Pos=-1
+Comparacoes=3
+Pos=1
+Comparacoes=3
+Comparacoes=3
+[86 AAD 84]
+[40 AAS 63]
+[24 ASA 55]
+Pos=1
+Pos=2
+Comparacoes=16
+Comparacoes=6
+Pos=0
+Comparacoes=55

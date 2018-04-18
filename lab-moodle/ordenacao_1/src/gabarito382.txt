@@ -1,0 +1,26 @@
+Pos=-1
+Pos=0
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=0
+Comparacoes=21
+Comparacoes=9
+Comparacoes=30
+[9 DWF 82]
+[13 WDD 23]
+[17 AWW 46]
+[24 AWA 68]
+[25 SDD 85]
+[32 SSD 85]
+[40 EAA 81]
+[45 WSD 48]
+[61 WAW 75]
+[65 SDS 92]
+[86 SDE 44]
+[83 SWS 22]
+[6 AFD 63]
+Comparacoes=120
+Comparacoes=61
+Comparacoes=77

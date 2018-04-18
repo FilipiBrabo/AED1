@@ -1,0 +1,15 @@
+[62 SWW 2]
+[23 SDD 11]
+[94 WSW 79]
+Comparacoes=2
+Pos=-1
+[23 SDD 11]
+[62 SWW 2]
+[94 WSW 79]
+[86 FAD 23]
+Pos=1
+Pos=1
+Pos=4
+Pos=2
+Comparacoes=14
+Comparacoes=15

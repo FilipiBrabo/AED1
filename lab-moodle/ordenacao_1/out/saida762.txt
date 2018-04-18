@@ -1,0 +1,34 @@
+Pos=-1
+Comparacoes=0
+Pos=0
+[71 SAD 54]
+Comparacoes=7
+[2 SEF 83]
+[29 ASD 85]
+[71 SAD 54]
+[82 EAD 77]
+[93 EFE 72]
+[2 SEF 83]
+[29 ASD 85]
+[71 SAD 54]
+[82 EAD 77]
+[93 EFE 72]
+Pos=0
+Comparacoes=9
+Comparacoes=15
+Comparacoes=26
+Comparacoes=9
+Comparacoes=26
+[2 SEF 83]
+[12 SDA 55]
+[29 ASD 85]
+[32 DDS 16]
+[47 DFA 99]
+[62 AAW 2]
+[64 SEW 74]
+[70 SWS 53]
+[71 SAD 54]
+[77 DWD 34]
+[82 EAD 77]
+[93 EFE 72]
+Pos=10

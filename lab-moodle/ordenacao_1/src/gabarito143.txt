@@ -1,0 +1,17 @@
+Pos=-1
+Pos=-1
+[72 AAS 18]
+Pos=0
+Comparacoes=0
+Comparacoes=1
+[72 AAS 18]
+[91 WWA 28]
+Pos=-1
+Pos=0
+[72 AAS 18]
+[91 WWA 28]
+[70 DAD 87]
+[46 DWS 38]
+Pos=4
+Pos=-1
+Pos=4

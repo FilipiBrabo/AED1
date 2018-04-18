@@ -1,0 +1,54 @@
+Comparacoes=3
+Comparacoes=17
+Comparacoes=21
+Comparacoes=15
+Pos=8
+[5 AAD 78]
+[9 AEF 21]
+[60 ASD 33]
+[29 AWD 26]
+[97 DAD 75]
+[58 DEW 93]
+[96 DFA 76]
+[49 WAS 82]
+[34 DFS 57]
+[15 AAA 83]
+[10 SWA 43]
+[49 FAE 20]
+[14 DAA 65]
+[45 WAA 17]
+Pos=-1
+Pos=-1
+[5 AAD 78]
+[9 AEF 21]
+[60 ASD 33]
+[29 AWD 26]
+[97 DAD 75]
+[58 DEW 93]
+[96 DFA 76]
+[49 WAS 82]
+[34 DFS 57]
+[15 AAA 83]
+[10 SWA 43]
+[49 FAE 20]
+[14 DAA 65]
+[45 WAA 17]
+Pos=3
+[5 AAD 78]
+[9 AEF 21]
+[60 ASD 33]
+[29 AWD 26]
+[97 DAD 75]
+[58 DEW 93]
+[96 DFA 76]
+[49 WAS 82]
+[34 DFS 57]
+[15 AAA 83]
+[10 SWA 43]
+[49 FAE 20]
+[14 DAA 65]
+[45 WAA 17]
+[91 FSW 36]
+Pos=2
+Pos=0
+Comparacoes=136

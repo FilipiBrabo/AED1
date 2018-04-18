@@ -1,0 +1,25 @@
+Pos=0
+Pos=0
+Comparacoes=10
+[67 AAW 80]
+[65 AFW 59]
+[18 ASA 85]
+[93 ESW 44]
+[14 SWA 31]
+[12 SWA 28]
+Comparacoes=5
+Comparacoes=15
+Pos=-1
+Comparacoes=21
+[12 SWA 28]
+[14 SWA 31]
+[18 ASA 85]
+[36 EDA 4]
+[49 WAW 35]
+[65 AFW 59]
+[67 AAW 80]
+[93 ESW 44]
+[80 SAS 33]
+[61 SDA 71]
+Comparacoes=55
+Pos=-1

@@ -1,0 +1,8 @@
+[1 DDA 36]
+[17 EAA 60]
+Pos=1
+[1 DDA 36]
+[17 EAA 60]
+Pos=0
+Comparacoes=3
+Pos=6

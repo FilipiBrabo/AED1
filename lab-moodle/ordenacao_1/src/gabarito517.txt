@@ -1,0 +1,20 @@
+Pos=1
+Pos=-1
+Comparacoes=3
+[24 ADA 52]
+[22 DED 71]
+[78 SDE 24]
+Pos=3
+Comparacoes=5
+Comparacoes=4
+Comparacoes=12
+[8 SSA 89]
+[22 DED 71]
+[24 ADA 52]
+[42 WAW 74]
+[49 WAS 53]
+[78 SDE 24]
+[92 DWW 54]
+Pos=3
+Comparacoes=10
+Comparacoes=36

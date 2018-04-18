@@ -1,0 +1,40 @@
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Pos=-1
+Pos=-1
+Comparacoes=3
+Comparacoes=15
+[4 ADW 7]
+[34 EDA 20]
+[40 AAD 45]
+[46 DFD 86]
+[48 AWD 8]
+[76 SAW 5]
+Comparacoes=36
+Pos=-1
+Comparacoes=45
+Comparacoes=18
+Pos=0
+Pos=2
+Comparacoes=66
+[40 AAD 45]
+[4 ADW 7]
+[25 ADW 31]
+[71 AFS 63]
+[45 ASW 97]
+[48 AWD 8]
+[22 DAA 70]
+[46 DFD 86]
+[34 EDA 20]
+[76 EFS 76]
+[18 FWA 64]
+[76 SAW 5]
+[17 SSA 78]
+Comparacoes=12
+Comparacoes=47
+Comparacoes=105
+Pos=7
+Pos=-1
+Pos=2

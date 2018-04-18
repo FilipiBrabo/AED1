@@ -1,0 +1,49 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Comparacoes=1
+[16 SEW 72]
+[38 DDW 86]
+[15 WAA 77]
+[55 EWE 36]
+[13 WAS 7]
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=4
+Pos=2
+Pos=-1
+Pos=0
+Comparacoes=26
+Pos=15
+Comparacoes=37
+Comparacoes=32
+Comparacoes=32
+Comparacoes=175
+Pos=12
+[4 AAA 69]
+[54 AAS 88]
+[90 AAW 34]
+[72 ASS 56]
+[68 DAD 76]
+[13 DAW 34]
+[38 DDW 86]
+[35 DFW 70]
+[56 DWA 76]
+[30 ESD 92]
+[55 EWE 36]
+[69 FDA 52]
+[75 FWF 91]
+[63 FWW 56]
+[26 SEA 86]
+[84 SES 55]
+[16 SEW 72]
+[33 SFA 1]
+[90 SFS 66]
+[58 SSD 27]
+[60 SWW 95]
+[15 WAA 77]
+[13 WAS 7]
+[29 WEA 47]
+Comparacoes=23

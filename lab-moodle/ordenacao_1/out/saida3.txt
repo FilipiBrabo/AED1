@@ -1,0 +1,28 @@
+Pos=-1
+[50 AFA 59]
+[18 SSD 27]
+Comparacoes=1
+Comparacoes=1
+Comparacoes=3
+[50 AFA 59]
+[31 AWW 73]
+[18 SSD 27]
+[24 ASW 81]
+Comparacoes=6
+Pos=2
+Comparacoes=6
+Pos=-1
+Comparacoes=8
+Comparacoes=9
+Pos=5
+[18 SSD 27]
+[24 ASW 81]
+[31 AWW 73]
+[50 AFA 59]
+[58 SDS 15]
+[87 AAF 95]
+Pos=-1
+Pos=-1
+Pos=0
+Comparacoes=21
+Comparacoes=45

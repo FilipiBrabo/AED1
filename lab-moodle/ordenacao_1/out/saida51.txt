@@ -1,0 +1,14 @@
+Pos=-1
+Pos=0
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=0
+Pos=-1
+Pos=-1
+Comparacoes=1
+[51 ADW 80]
+[39 DWE 4]
+[6 ASE 81]
+[65 EDF 47]
+[53 SWD 86]

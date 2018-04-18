@@ -31,14 +31,23 @@ void insertNode(node* lista, node x) {
   }
   node aux = *lista;
   for (; aux->prox != NULL; aux = aux->prox);
-  aux->prox = x;
-  x->ant = aux;
+  if (aux->ra != x->ra){
+    aux->prox = x;
+    x->ant = aux;
+  }else{
+    aux->ra = x->ra;
+    aux->nome = x->nome;
+    aux->nota = x->nota; 
+  }
 }
 
 //busca um ra na lista e mostra a posição (-1 se não existe)
 void searchNode(node *head, int ra){
-  if (*head  == NULL) return;
-  
+  if (*head  == NULL){
+    printf("Pos=-1\n");
+    return;
+  }
+
   node aux = *head;
   int pos = 0;
   while(aux && aux->ra != ra){
@@ -115,12 +124,12 @@ long int selectionSort(node *head, int campo){
 
 		for (; j != NULL; j = j->prox){
 			if (compare(min, j, campo) >  0){
-			min = j;
+			   min = j;
 			}
 			comp++;
 		}
 		
-		if (min->ra != i->ra){
+		if (min != i){
 			tmp = newNode(i->ra, i->nota, i->nome);
 
 			i->ra = min->ra;

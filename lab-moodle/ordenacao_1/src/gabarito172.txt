@@ -1,0 +1,27 @@
+Comparacoes=0
+[77 DWA 16]
+[43 WFA 66]
+Comparacoes=1
+Pos=0
+Comparacoes=1
+Pos=-1
+Comparacoes=22
+Comparacoes=26
+Pos=6
+Comparacoes=10
+[65 AAA 2]
+[40 ASE 91]
+[87 DSS 22]
+[77 DWA 16]
+[10 EWA 88]
+[66 SDD 79]
+[30 SWA 35]
+[82 WAW 54]
+[43 WFA 66]
+[94 WFD 43]
+[68 WWW 56]
+[16 AAS 51]
+Pos=-1
+Pos=-1
+Pos=6
+Comparacoes=78

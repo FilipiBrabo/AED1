@@ -1,0 +1,45 @@
+Comparacoes=0
+Comparacoes=1
+Pos=0
+[55 AAF 91]
+[95 ESW 8]
+[55 AAF 91]
+[95 ESW 8]
+[80 ADA 78]
+[18 ESD 37]
+[29 WAW 69]
+[55 AAF 91]
+[95 ESW 8]
+[80 ADA 78]
+[18 ESD 37]
+[29 WAW 69]
+[3 WAD 46]
+Pos=4
+[55 AAF 91]
+[95 ESW 8]
+[80 ADA 78]
+[18 ESD 37]
+[29 WAW 69]
+[3 WAD 46]
+Pos=-1
+Pos=-1
+[55 AAF 91]
+[95 ESW 8]
+[80 ADA 78]
+[18 ESD 37]
+[29 WAW 69]
+[3 WAD 46]
+[50 DEW 59]
+Pos=5
+Comparacoes=78
+Comparacoes=120
+Comparacoes=120
+Pos=-1
+Comparacoes=96
+Comparacoes=16
+Pos=2
+Comparacoes=29
+Comparacoes=143
+Comparacoes=190
+Comparacoes=190
+Comparacoes=190

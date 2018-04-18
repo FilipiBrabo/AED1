@@ -1,0 +1,13 @@
+Pos=-1
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+[1 SDE 54]
+[1 SDE 54]
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1

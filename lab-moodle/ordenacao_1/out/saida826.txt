@@ -1,0 +1,36 @@
+Comparacoes=1
+Pos=1
+Pos=0
+Pos=0
+Pos=-1
+[51 DFS 42]
+[50 WFE 49]
+[90 AED 60]
+[30 EAA 37]
+[68 SDS 55]
+[59 ADF 36]
+[72 SWF 95]
+[14 EAD 45]
+[51 DFS 42]
+[50 WFE 49]
+[90 AED 60]
+[30 EAA 37]
+[68 SDS 55]
+[59 ADF 36]
+[72 SWF 95]
+[14 EAD 45]
+[40 ASA 49]
+[54 ASA 29]
+[89 AAE 55]
+[51 DFS 42]
+[50 WFE 49]
+[90 AED 60]
+[30 EAA 37]
+[68 SDS 55]
+[59 ADF 36]
+[72 SWF 95]
+[14 EAD 45]
+[40 ASA 49]
+[54 ASA 29]
+[89 AAE 55]
+Comparacoes=78

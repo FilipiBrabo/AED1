@@ -1,0 +1,5 @@
+Pos=-1
+Comparacoes=3
+[25 ASD 48]
+[30 ASW 99]
+[28 DAD 81]

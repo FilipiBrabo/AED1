@@ -1,0 +1,28 @@
+Pos=-1
+[62 EDA 91]
+[95 DWA 52]
+[62 EDA 91]
+[95 DWA 52]
+[3 FDA 67]
+Pos=1
+Pos=3
+Comparacoes=5
+Comparacoes=14
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=4
+Comparacoes=66
+[3 FDA 67]
+[11 ASA 5]
+[12 SAA 25]
+[22 DDE 2]
+[46 AWW 45]
+[56 FEW 76]
+[62 EDA 91]
+[80 FWW 48]
+[82 SSW 43]
+[95 WAA 9]
+[95 DWA 52]
+[99 DWW 95]
+[10 SDA 42]

@@ -1,0 +1,22 @@
+Pos=-1
+Pos=-1
+Comparacoes=7
+Comparacoes=4
+Comparacoes=10
+Comparacoes=10
+[9 WSF 79]
+[37 AAW 83]
+[46 SAF 1]
+[77 AWA 78]
+[83 FDD 24]
+[4 FWS 72]
+[91 WAW 31]
+[9 WSF 79]
+[37 AAW 83]
+[46 SAF 1]
+[77 AWA 78]
+[83 FDD 24]
+[4 FWS 72]
+[91 WAW 31]
+Comparacoes=21
+Pos=-1

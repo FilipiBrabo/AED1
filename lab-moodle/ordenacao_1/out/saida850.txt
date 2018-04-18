@@ -1,0 +1,14 @@
+Comparacoes=1
+Pos=-1
+Pos=-1
+Comparacoes=3
+[37 AAE 81]
+[56 WWW 42]
+[85 DSD 48]
+[23 SAF 62]
+[36 EEA 81]
+Pos=5
+Pos=11
+Comparacoes=56
+Comparacoes=13
+Comparacoes=253

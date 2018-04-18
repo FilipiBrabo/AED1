@@ -1,0 +1,7 @@
+Pos=-1
+[21 SAD 35]
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+[21 SAD 35]
+[37 ASS 16]

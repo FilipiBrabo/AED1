@@ -1,0 +1,28 @@
+Comparacoes=0
+Comparacoes=15
+Pos=-1
+Pos=2
+[5 AAA 79]
+[7 AES 50]
+[34 AFA 5]
+[69 AWD 75]
+[42 EES 95]
+[29 WEW 7]
+[85 DSF 36]
+Comparacoes=29
+[5 AAA 79]
+[7 AES 50]
+[19 WAS 21]
+[29 WEW 7]
+[34 AFA 5]
+[42 EES 95]
+[47 SFA 18]
+[52 DSA 10]
+[69 AWD 75]
+[85 DSF 36]
+[88 EDD 55]
+Pos=0
+Comparacoes=10
+Pos=4
+Comparacoes=78
+Pos=-1

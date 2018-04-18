@@ -1,0 +1,7 @@
+[74 FFS 40]
+[74 FFS 40]
+[39 WSW 28]
+[12 ADE 74]
+Pos=1
+Pos=-1
+Comparacoes=6

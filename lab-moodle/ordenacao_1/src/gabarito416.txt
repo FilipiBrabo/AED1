@@ -1,0 +1,34 @@
+Comparacoes=0
+Comparacoes=1
+[12 SAW 84]
+[85 DDD 66]
+[86 SAF 84]
+Pos=3
+[12 SAW 84]
+[85 DDD 66]
+[86 SAF 84]
+[37 SAD 84]
+Pos=6
+Comparacoes=21
+Pos=0
+[12 SAW 84]
+[37 SAD 84]
+[38 AWE 61]
+[40 DAE 78]
+[48 WAF 64]
+[69 DDD 52]
+[85 DDD 66]
+[86 SAF 84]
+Comparacoes=15
+Pos=-1
+Pos=-1
+[12 SAW 84]
+[25 AAW 1]
+[37 SAD 84]
+[38 AWE 61]
+[40 DAE 78]
+[48 WAF 64]
+[69 DDD 52]
+[85 DDD 66]
+[86 SAF 84]
+Pos=-1

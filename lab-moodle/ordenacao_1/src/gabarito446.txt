@@ -1,0 +1,13 @@
+[3 DSE 85]
+[33 WDF 53]
+[93 AAA 85]
+[90 FES 95]
+Pos=4
+Pos=5
+[3 DSE 85]
+[33 WDF 53]
+[93 AAA 85]
+[90 FES 95]
+[64 FWD 34]
+[39 DDW 79]
+Comparacoes=21

@@ -1,0 +1,14 @@
+Comparacoes=0
+Pos=-1
+Pos=1
+Comparacoes=6
+Comparacoes=6
+[16 AES 36]
+[66 WAA 33]
+[83 SWD 10]
+[96 DAA 34]
+[16 AES 36]
+[66 WAA 33]
+[83 SWD 10]
+[96 DAA 34]
+[77 SAS 38]

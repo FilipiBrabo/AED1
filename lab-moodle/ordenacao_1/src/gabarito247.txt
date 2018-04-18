@@ -1,0 +1,32 @@
+Pos=-1
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=6
+Pos=-1
+Pos=-1
+[50 FDA 53]
+[34 FSS 73]
+[3 SWA 32]
+[44 WFA 1]
+[22 WSW 18]
+[70 DEA 95]
+[29 EAD 45]
+Comparacoes=15
+Comparacoes=19
+Comparacoes=21
+[3 SWA 32]
+[22 WSW 18]
+[29 EAD 45]
+[34 FSS 73]
+[44 WFA 1]
+[50 FDA 53]
+[70 DEA 95]
+[3 SWA 32]
+[22 WSW 18]
+[29 EAD 45]
+[34 FSS 73]
+[44 WFA 1]
+[50 FDA 53]
+[70 DEA 95]
+Pos=-1

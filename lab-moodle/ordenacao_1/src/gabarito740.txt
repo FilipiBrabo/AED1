@@ -1,0 +1,27 @@
+Comparacoes=0
+Comparacoes=3
+Pos=0
+Comparacoes=2
+Pos=-1
+Pos=-1
+Comparacoes=36
+Pos=-1
+Comparacoes=17
+Comparacoes=78
+Comparacoes=74
+[3 WSW 6]
+[11 WFA 12]
+[14 AWE 92]
+[21 FEA 53]
+[34 SAD 67]
+[38 SAW 27]
+[44 ASE 46]
+[56 SWS 23]
+[65 ASA 26]
+[68 DWW 27]
+[69 WAS 44]
+[73 DDA 54]
+[74 DAA 16]
+[84 WSF 24]
+[96 SAW 86]
+Pos=-1

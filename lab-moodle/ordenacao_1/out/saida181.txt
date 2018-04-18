@@ -1,0 +1,39 @@
+Pos=-1
+Pos=0
+[84 FES 62]
+[78 AAF 94]
+Pos=1
+[84 FES 62]
+[78 AAF 94]
+Pos=0
+Pos=5
+Pos=2
+Pos=1
+Pos=5
+Comparacoes=17
+Pos=6
+Pos=3
+Comparacoes=55
+[3 FWS 38]
+[5 FSW 30]
+[10 SWW 28]
+[12 SSW 65]
+[18 SFD 95]
+[31 DWF 40]
+[33 WAS 19]
+[54 FEA 45]
+[78 AAF 94]
+[84 FES 62]
+[99 DDW 45]
+Pos=3
+[3 FWS 38]
+[5 FSW 30]
+[10 SWW 28]
+[12 SSW 65]
+[18 SFD 95]
+[31 DWF 40]
+[33 WAS 19]
+[54 FEA 45]
+[78 AAF 94]
+[84 FES 62]
+[99 DDW 45]

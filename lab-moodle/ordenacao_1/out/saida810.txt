@@ -1,0 +1,45 @@
+Pos=-1
+Pos=0
+Comparacoes=5
+Comparacoes=15
+Comparacoes=14
+[97 ADA 47]
+[43 ADW 94]
+[75 DAA 62]
+[40 DSS 31]
+[46 FDF 50]
+[19 SWW 55]
+[11 AWS 83]
+[16 FDA 45]
+[38 ESD 43]
+[89 WWF 16]
+Pos=-1
+Pos=0
+Comparacoes=66
+Comparacoes=66
+Comparacoes=66
+Pos=8
+Comparacoes=78
+[76 AAS 95]
+[97 ADA 47]
+[43 ADW 94]
+[11 AWS 83]
+[75 DAA 62]
+[14 DSA 77]
+[40 DSS 31]
+[43 DWF 26]
+[38 ESD 43]
+[16 FDA 45]
+[46 FDF 50]
+[19 SWW 55]
+[89 WWF 16]
+[17 DDW 12]
+Pos=12
+Comparacoes=69
+Pos=10
+Comparacoes=120
+Pos=13
+Pos=-1
+Pos=-1
+Comparacoes=138
+Pos=-1

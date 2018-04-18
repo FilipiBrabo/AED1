@@ -1,0 +1,5 @@
+Comparacoes=1
+[23 WDD 47]
+[51 DFE 43]
+[74 WAS 66]
+[66 ASA 54]

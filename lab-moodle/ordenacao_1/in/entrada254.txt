@@ -1,0 +1,36 @@
+I 7 DSF 58
+B 7
+M
+M
+O 2 1
+B 50
+B 7
+I 57 WWE 85
+O 1 2
+B 7
+B 89
+O 1 1
+O 1 2
+O 2 2
+O 1 2
+B 14
+O 1 1
+O 2 2
+O 1 1
+O 2 2
+I 17 SAF 75
+O 2 1
+M
+B 1
+O 2 1
+M
+I 79 DSA 98
+O 2 2
+B 1
+I 21 AFE 65
+I 87 FAF 94
+I 8 SEE 18
+M
+O 1 1
+I 34 WSS 85
+P

@@ -1,0 +1,6 @@
+I 10 SDW 32
+O 2 1
+I 68 WSD 20
+B 2
+I 46 FAW 36
+P

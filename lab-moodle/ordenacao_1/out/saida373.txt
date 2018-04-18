@@ -1,0 +1,35 @@
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=1
+[10 AES 75]
+[6 ASW 95]
+[51 EDA 41]
+[13 DAE 22]
+Pos=1
+[10 AES 75]
+[6 ASW 95]
+[51 EDA 41]
+[13 DAE 22]
+[10 AES 75]
+[6 ASW 95]
+[51 EDA 41]
+[13 DAE 22]
+[62 SAW 8]
+Comparacoes=5
+Pos=-1
+[10 AES 75]
+[6 ASW 95]
+[13 DAE 22]
+[51 EDA 41]
+[62 SAW 8]
+[10 AES 75]
+[6 ASW 95]
+[13 DAE 22]
+[51 EDA 41]
+[62 SAW 8]
+Pos=-1
+Pos=1
+Pos=5
+Pos=7
+Pos=-1

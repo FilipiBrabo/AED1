@@ -1,0 +1,29 @@
+Pos=0
+Comparacoes=0
+Comparacoes=36
+Pos=-1
+Comparacoes=24
+[41 AAD 17]
+[1 AAE 25]
+[42 ADA 65]
+[74 ADD 29]
+[47 ADF 71]
+[45 AED 54]
+[69 AFD 48]
+[71 DWS 26]
+[31 SAE 96]
+[62 WAS 6]
+[41 AAD 17]
+[1 AAE 25]
+[42 ADA 65]
+[74 ADD 29]
+[47 ADF 71]
+[45 AED 54]
+[69 AFD 48]
+[71 DWS 26]
+[31 SAE 96]
+[62 WAS 6]
+[91 ESA 41]
+[1 DDE 70]
+[46 ASF 26]
+Pos=4

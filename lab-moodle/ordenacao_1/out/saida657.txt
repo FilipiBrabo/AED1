@@ -1,0 +1,26 @@
+Pos=-1
+Comparacoes=0
+[90 EWA 14]
+[90 EWA 14]
+[45 AWD 43]
+[76 SAE 31]
+Comparacoes=3
+Pos=-1
+Comparacoes=18
+Pos=1
+Pos=3
+[5 ADD 48]
+[21 WWD 60]
+[45 AWD 43]
+[58 DFW 26]
+[76 SAE 31]
+[82 EAD 31]
+[90 EWA 14]
+[54 DDA 12]
+[71 AWA 38]
+[1 DAA 76]
+Pos=10
+Pos=13
+Pos=12
+Comparacoes=62
+Pos=-1

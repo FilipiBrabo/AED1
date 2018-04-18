@@ -1,0 +1,9 @@
+Comparacoes=3
+[31 AED 27]
+[37 SAF 1]
+[39 DSA 18]
+[97 AFW 95]
+[74 WAA 22]
+[96 AFA 79]
+Comparacoes=66
+Pos=-1

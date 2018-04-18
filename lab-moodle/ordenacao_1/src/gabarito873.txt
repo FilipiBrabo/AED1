@@ -1,0 +1,10 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=-1
+[50 WSS 39]
+[27 WAW 13]
+[28 ADA 6]
+[11 DFS 29]
+[79 WES 19]
+Comparacoes=12

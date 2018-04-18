@@ -1,0 +1,46 @@
+Pos=-1
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+[65 EWA 87]
+[51 SSA 43]
+[40 WFS 52]
+[65 EWA 87]
+[51 SSA 43]
+[40 WFS 52]
+Pos=-1
+[65 EWA 87]
+[51 SSA 43]
+[40 WFS 52]
+[21 WWA 94]
+[5 DAD 60]
+[87 FDD 17]
+[41 WDS 38]
+[68 ADA 7]
+Pos=2
+Comparacoes=36
+Comparacoes=36
+Comparacoes=8
+[5 DAD 60]
+[21 WWA 94]
+[40 WFS 52]
+[41 WDS 38]
+[51 SSA 43]
+[65 EWA 87]
+[68 ADA 7]
+[87 FDD 17]
+[91 SDA 63]
+Comparacoes=36
+Comparacoes=31
+Pos=-1
+Pos=-1
+Comparacoes=44
+Comparacoes=10
+Comparacoes=40
+Comparacoes=10
+Pos=-1
+Pos=0
+Comparacoes=43
+Pos=-1

@@ -1,0 +1,90 @@
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Pos=0
+Pos=-1
+Comparacoes=9
+[18 ADD 22]
+[19 AAD 73]
+[23 SWW 38]
+[28 WDD 16]
+[49 WDW 41]
+[58 EAA 76]
+[26 AWD 39]
+Comparacoes=28
+Comparacoes=14
+Comparacoes=7
+[18 ADD 22]
+[19 AAD 73]
+[23 SWW 38]
+[26 AWD 39]
+[28 WDD 16]
+[49 WDW 41]
+[58 EAA 76]
+[62 SFS 19]
+Pos=5
+Comparacoes=45
+Comparacoes=10
+Comparacoes=55
+Comparacoes=10
+Pos=-1
+Comparacoes=10
+Pos=2
+[14 FSA 32]
+[18 ADD 22]
+[19 AAD 73]
+[23 SWW 38]
+[26 AWD 39]
+[28 WDD 16]
+[49 WDW 41]
+[58 EAA 76]
+[62 SFS 19]
+[69 WSS 16]
+[94 WSE 11]
+[99 ADS 3]
+[93 ADS 47]
+[14 FSA 32]
+[18 ADD 22]
+[19 AAD 73]
+[23 SWW 38]
+[26 AWD 39]
+[28 WDD 16]
+[49 WDW 41]
+[58 EAA 76]
+[62 SFS 19]
+[69 WSS 16]
+[94 WSE 11]
+[99 ADS 3]
+[93 ADS 47]
+[14 FSA 32]
+[18 ADD 22]
+[19 AAD 73]
+[23 SWW 38]
+[26 AWD 39]
+[28 WDD 16]
+[49 WDW 41]
+[58 EAA 76]
+[62 SFS 19]
+[69 WSS 16]
+[94 WSE 11]
+[99 ADS 3]
+[93 ADS 47]
+Comparacoes=41
+Comparacoes=78
+Comparacoes=78
+Pos=-1
+[14 FSA 32]
+[18 ADD 22]
+[19 AAD 73]
+[23 SWW 38]
+[26 AWD 39]
+[28 WDD 16]
+[49 WDW 41]
+[58 EAA 76]
+[62 SFS 19]
+[69 WSS 16]
+[93 ADS 47]
+[94 WSE 11]
+[99 ADS 3]
+[21 FAA 7]

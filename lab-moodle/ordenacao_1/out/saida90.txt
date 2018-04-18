@@ -1,0 +1,23 @@
+[85 WSA 55]
+[85 WSA 55]
+Pos=-1
+Pos=3
+Pos=6
+Comparacoes=15
+Comparacoes=15
+[10 AEF 93]
+[1 AFE 45]
+[96 DAD 9]
+[79 DWA 28]
+[39 EAA 41]
+[45 EDS 89]
+[78 SWA 31]
+[85 WSA 55]
+[11 ASA 17]
+[24 SAF 23]
+Pos=1
+Comparacoes=33
+Pos=-1
+Pos=10
+Comparacoes=64
+Comparacoes=79

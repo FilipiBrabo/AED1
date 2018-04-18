@@ -1,0 +1,31 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=6
+[8 EEA 5]
+[34 ADF 5]
+[35 SDW 27]
+[44 ASW 91]
+[4 FAW 42]
+[92 EAE 92]
+Comparacoes=13
+Comparacoes=28
+Pos=-1
+Pos=6
+[34 ADF 5]
+[44 ASW 91]
+[92 EAE 92]
+[39 EDF 66]
+[8 EEA 5]
+[4 FAW 42]
+[9 SAA 55]
+[35 SDW 27]
+[41 WSE 19]
+[99 ADW 35]
+Comparacoes=17
+Comparacoes=45
+Comparacoes=105
+Pos=-1
+Pos=6
+Comparacoes=100
+Comparacoes=57
+Pos=-1

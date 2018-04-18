@@ -1,0 +1,46 @@
+[71 SAE 95]
+Comparacoes=1
+Comparacoes=4
+Pos=-1
+Pos=2
+Pos=3
+Pos=5
+Pos=-1
+Comparacoes=55
+Pos=2
+[60 AAA 57]
+[70 AES 46]
+[6 DSE 12]
+[6 FAD 72]
+[42 FAW 32]
+[98 FSD 87]
+[43 FWW 97]
+[71 SAE 95]
+[59 SAW 93]
+[14 WDA 9]
+[21 WFF 92]
+[37 SEA 78]
+[89 WEE 78]
+[60 AAA 57]
+[70 AES 46]
+[6 DSE 12]
+[6 FAD 72]
+[42 FAW 32]
+[98 FSD 87]
+[43 FWW 97]
+[71 SAE 95]
+[59 SAW 93]
+[14 WDA 9]
+[21 WFF 92]
+[37 SEA 78]
+[89 WEE 78]
+Comparacoes=26
+Pos=-1
+Comparacoes=13
+Comparacoes=91
+Comparacoes=13
+Pos=-1
+Comparacoes=39
+Pos=2
+Pos=-1
+Comparacoes=30

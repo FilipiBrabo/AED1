@@ -1,0 +1,25 @@
+Pos=0
+[29 ASA 28]
+[75 FES 9]
+[93 FDW 5]
+[86 ASE 73]
+[13 SAD 98]
+Pos=-1
+Comparacoes=20
+Pos=-1
+Comparacoes=55
+Pos=9
+[9 SFD 27]
+[12 FFA 63]
+[13 SAD 98]
+[29 ASA 28]
+[58 DAS 69]
+[62 EEA 10]
+[75 FES 9]
+[86 ASE 73]
+[91 DAE 78]
+[93 FDW 5]
+[93 SSD 29]
+[65 DAA 22]
+Pos=2
+Comparacoes=105

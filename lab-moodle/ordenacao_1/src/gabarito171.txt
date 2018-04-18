@@ -1,0 +1,28 @@
+[78 AAD 45]
+Comparacoes=21
+Pos=-1
+[78 AAD 45]
+[48 AWA 37]
+[10 AWS 52]
+[16 EAF 75]
+[7 WAS 10]
+[99 WDD 60]
+[32 WWA 59]
+Comparacoes=8
+Comparacoes=7
+Comparacoes=36
+Comparacoes=26
+Pos=6
+[7 WAS 10]
+[10 AWS 52]
+[16 EAF 75]
+[20 WFW 45]
+[32 WWA 59]
+[48 AWA 37]
+[78 AAD 45]
+[78 ADW 37]
+[99 WDD 60]
+Comparacoes=36
+Comparacoes=45
+Pos=-1
+Comparacoes=50

@@ -1,0 +1,4 @@
+[82 DDS 69]
+Pos=0
+Comparacoes=0
+Comparacoes=1

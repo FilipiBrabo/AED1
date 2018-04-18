@@ -1,0 +1,12 @@
+I 37 SSF 49
+B 37
+O 2 1
+I 11 DSF 3
+I 9 SES 44
+O 1 1
+O 2 2
+I 82 WWS 40
+M
+I 16 SWA 1
+B 9
+P

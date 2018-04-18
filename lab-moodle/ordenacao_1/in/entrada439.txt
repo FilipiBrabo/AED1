@@ -1,0 +1,26 @@
+O 2 2
+B 94
+O 1 1
+M
+M
+O 1 1
+I 32 SSA 52
+B 1
+O 1 1
+M
+I 57 AFD 48
+I 50 ASE 59
+M
+O 1 1
+O 1 2
+M
+I 75 AFA 7
+B 59
+M
+I 54 EDF 11
+B 32
+M
+M
+I 33 EWA 13
+I 99 ADE 26
+P

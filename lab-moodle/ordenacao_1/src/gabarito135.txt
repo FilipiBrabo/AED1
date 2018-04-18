@@ -1,0 +1,21 @@
+Pos=0
+Pos=2
+[2 SDA 62]
+[9 FDS 20]
+[83 DAS 84]
+[39 WWA 12]
+[33 SDD 36]
+[30 FAW 48]
+[90 DSF 88]
+Comparacoes=17
+[2 SDA 62]
+[9 FDS 20]
+[30 FAW 48]
+[33 SDD 36]
+[39 WWA 12]
+[49 SSD 7]
+[83 DAS 84]
+[90 DSF 88]
+[99 SSW 72]
+Comparacoes=30
+Pos=8

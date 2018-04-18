@@ -1,0 +1,13 @@
+Pos=0
+[41 FDD 23]
+[85 DAS 43]
+[27 DSA 82]
+[32 WSA 91]
+[53 SSA 64]
+[95 DAA 86]
+Comparacoes=15
+Comparacoes=28
+Pos=-1
+Comparacoes=23
+Pos=-1
+Pos=-1

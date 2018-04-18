@@ -1,0 +1,51 @@
+Pos=-1
+Comparacoes=1
+Comparacoes=6
+[6 AWS 31]
+[28 DWA 45]
+[38 DSF 83]
+[69 DFA 46]
+[72 DAA 31]
+Comparacoes=8
+Comparacoes=15
+Comparacoes=5
+Comparacoes=14
+Pos=4
+Comparacoes=15
+Comparacoes=5
+Pos=4
+Comparacoes=28
+[6 AWS 31]
+[28 DWA 45]
+[30 EWA 58]
+[38 DSF 83]
+[44 SAA 77]
+[48 ASW 73]
+[69 DFA 46]
+[72 DAA 31]
+[77 AAS 15]
+[68 EAA 16]
+[64 FDE 98]
+[37 AAD 56]
+[93 EAD 73]
+[40 SDE 31]
+[6 AWS 31]
+[28 DWA 45]
+[30 EWA 58]
+[38 DSF 83]
+[44 SAA 77]
+[48 ASW 73]
+[69 DFA 46]
+[72 DAA 31]
+[77 AAS 15]
+[68 EAA 16]
+[64 FDE 98]
+[37 AAD 56]
+[93 EAD 73]
+[40 SDE 31]
+[82 AAW 22]
+[69 AWW 95]
+Comparacoes=120
+Pos=8
+Comparacoes=136
+Comparacoes=136

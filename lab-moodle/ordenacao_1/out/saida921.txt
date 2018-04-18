@@ -1,0 +1,4 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=10

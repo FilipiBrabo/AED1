@@ -1,0 +1,11 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+[94 AWA 85]
+Pos=-1
+[94 AWA 85]
+Pos=0
+Pos=0
+Comparacoes=0
+Comparacoes=3
+Comparacoes=2

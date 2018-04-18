@@ -1,0 +1,27 @@
+Pos=0
+[58 ADE 95]
+[80 DDW 79]
+[2 FEW 7]
+Pos=2
+[58 ADE 95]
+[80 DDW 79]
+[2 FEW 7]
+[36 DWA 45]
+Comparacoes=15
+Comparacoes=66
+[2 FEW 7]
+[3 WDF 84]
+[36 DWA 45]
+[51 SDD 61]
+[58 ADE 95]
+[59 ADE 6]
+[70 ASE 88]
+[74 SAA 64]
+[76 FWA 79]
+[80 DDW 79]
+[82 FAD 93]
+[91 DWA 26]
+[56 SAA 13]
+[5 DAD 76]
+[83 SWF 52]
+Pos=5

@@ -1,0 +1,19 @@
+[39 DEE 92]
+[85 AAD 69]
+[74 SWW 42]
+Pos=-1
+Comparacoes=14
+[31 WAS 38]
+[39 DEE 92]
+[54 SSA 96]
+[65 DWD 15]
+[74 SWW 42]
+[85 AAD 69]
+[31 WAS 38]
+[39 DEE 92]
+[54 SSA 96]
+[65 DWD 15]
+[74 SWW 42]
+[85 AAD 69]
+[2 FDF 15]
+Comparacoes=16

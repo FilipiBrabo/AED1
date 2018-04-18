@@ -1,0 +1,23 @@
+Comparacoes=0
+Comparacoes=0
+[6 DEF 38]
+[5 ASA 15]
+[6 DEF 38]
+[5 ASA 15]
+[31 SFE 34]
+Pos=-1
+[6 DEF 38]
+[5 ASA 15]
+[31 SFE 34]
+[43 AWD 58]
+[33 ASE 87]
+[30 DAA 22]
+[6 DEF 38]
+[5 ASA 15]
+[31 SFE 34]
+[43 AWD 58]
+[33 ASE 87]
+[30 DAA 22]
+Comparacoes=15
+Pos=-1
+Pos=1

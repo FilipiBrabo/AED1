@@ -1,0 +1,15 @@
+Comparacoes=1
+Pos=2
+Comparacoes=6
+Comparacoes=3
+[22 DWS 21]
+[10 EEA 60]
+[7 SAD 43]
+[19 SFE 79]
+Comparacoes=10
+Pos=-1
+Comparacoes=8
+Pos=2
+Comparacoes=55
+Pos=-1
+Comparacoes=57

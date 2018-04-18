@@ -1,0 +1,9 @@
+Pos=-1
+Comparacoes=3
+Pos=-1
+Comparacoes=15
+Comparacoes=5
+Comparacoes=25
+Comparacoes=21
+Pos=0
+Pos=-1

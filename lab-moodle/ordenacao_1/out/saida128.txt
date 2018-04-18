@@ -1,0 +1,8 @@
+Pos=-1
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+[75 SED 20]
+[75 SED 20]
+[14 EAF 37]
+[20 WWF 79]

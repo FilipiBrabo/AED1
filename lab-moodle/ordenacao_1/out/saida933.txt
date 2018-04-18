@@ -1,0 +1,7 @@
+[42 FAD 70]
+Comparacoes=1
+Comparacoes=1
+[12 ASF 64]
+[42 FAD 70]
+Comparacoes=3
+Pos=-1

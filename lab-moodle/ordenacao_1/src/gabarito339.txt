@@ -1,0 +1,8 @@
+Comparacoes=0
+[2 SWA 31]
+[34 SWW 77]
+Comparacoes=2
+Comparacoes=8
+Comparacoes=36
+Pos=-1
+Pos=4

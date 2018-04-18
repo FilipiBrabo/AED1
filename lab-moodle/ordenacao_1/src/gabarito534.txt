@@ -1,0 +1,2 @@
+Comparacoes=6
+Comparacoes=5

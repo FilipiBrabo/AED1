@@ -1,0 +1,34 @@
+Pos=-1
+[70 FAE 33]
+[37 WAF 14]
+[43 EDS 38]
+[94 AWS 34]
+[65 WDW 92]
+Comparacoes=10
+Comparacoes=17
+[65 AWA 3]
+[94 AWS 34]
+[43 EDS 38]
+[70 FAE 33]
+[72 FWS 96]
+[37 WAF 14]
+[65 WDW 92]
+[17 SES 13]
+[2 ASF 96]
+[76 AAA 44]
+Comparacoes=43
+[2 ASF 96]
+[14 SAA 45]
+[17 SES 13]
+[37 WAF 14]
+[43 EDS 38]
+[65 AWA 3]
+[65 WDW 92]
+[70 FAE 33]
+[72 FWS 96]
+[76 AAA 44]
+[94 AWS 34]
+[85 ADA 48]
+Pos=8
+Comparacoes=24
+Comparacoes=27

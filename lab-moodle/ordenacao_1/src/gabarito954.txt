@@ -1,0 +1,44 @@
+Comparacoes=0
+[38 SFA 8]
+[8 AAS 60]
+Comparacoes=3
+Pos=-1
+Pos=-1
+Comparacoes=3
+Pos=2
+[8 AAS 60]
+[38 SFA 8]
+[76 AWF 4]
+[1 AEA 15]
+Pos=3
+[8 AAS 60]
+[38 SFA 8]
+[76 AWF 4]
+[1 AEA 15]
+[73 AWA 27]
+[8 AAS 60]
+[38 SFA 8]
+[76 AWF 4]
+[1 AEA 15]
+[73 AWA 27]
+[8 AAS 60]
+[38 SFA 8]
+[76 AWF 4]
+[1 AEA 15]
+[73 AWA 27]
+Comparacoes=11
+Pos=-1
+[8 AAS 60]
+[1 AEA 15]
+[73 AWA 27]
+[76 AWF 4]
+[67 FFF 37]
+[38 SFA 8]
+[44 FWF 34]
+[76 DWS 26]
+Pos=-1
+Pos=0
+Comparacoes=46
+Pos=13
+Pos=4
+Pos=7

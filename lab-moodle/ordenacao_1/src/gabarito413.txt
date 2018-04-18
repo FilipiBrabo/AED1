@@ -1,0 +1,16 @@
+Comparacoes=0
+Comparacoes=0
+Pos=1
+Comparacoes=3
+[76 AWD 31]
+[71 AWF 85]
+[4 DWD 11]
+Pos=4
+[76 AWD 31]
+[71 AWF 85]
+[4 DWD 11]
+[52 DEW 23]
+[98 FEA 79]
+[49 SFA 97]
+[44 FDW 76]
+[43 ADS 55]

@@ -1,0 +1,27 @@
+I 4 AAD 28
+I 78 FSW 23
+B 4
+I 54 DEE 2
+O 2 1
+I 35 DWS 4
+B 78
+O 2 1
+I 74 WSF 88
+I 70 DDW 48
+M
+B 45
+O 1 1
+B 74
+O 1 1
+B 74
+I 2 WEA 74
+O 2 2
+B 1
+O 2 1
+O 2 1
+B 38
+B 57
+O 2 1
+O 1 1
+M
+P

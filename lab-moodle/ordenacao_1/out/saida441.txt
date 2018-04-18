@@ -1,0 +1,40 @@
+Comparacoes=1
+Comparacoes=1
+Pos=-1
+[40 AAE 52]
+[99 SAA 98]
+[14 DDW 55]
+Comparacoes=3
+[40 AAE 52]
+[14 DDW 55]
+[99 SAA 98]
+[40 AAE 52]
+[14 DDW 55]
+[99 SAA 98]
+[40 AAE 52]
+[14 DDW 55]
+[99 SAA 98]
+Pos=-1
+Comparacoes=3
+Comparacoes=2
+[40 AAE 52]
+[14 DDW 55]
+[99 SAA 98]
+Pos=-1
+[40 AAE 52]
+[14 DDW 55]
+[99 SAA 98]
+[40 AAE 52]
+[14 DDW 55]
+[99 SAA 98]
+Comparacoes=5
+Comparacoes=3
+[14 DDW 55]
+[38 AAD 53]
+[40 AAE 52]
+[99 SAA 98]
+[42 DAD 78]
+[86 SFW 84]
+[52 WED 28]
+Comparacoes=9
+Comparacoes=6

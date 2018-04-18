@@ -1,0 +1,11 @@
+Pos=0
+Comparacoes=3
+Pos=3
+[47 SSF 17]
+[62 AAF 78]
+[66 WAS 60]
+[5 WWS 11]
+Pos=5
+Pos=-1
+Pos=-1
+Pos=1

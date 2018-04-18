@@ -1,0 +1,37 @@
+Pos=0
+[7 DSF 58]
+[7 DSF 58]
+Comparacoes=0
+Pos=-1
+Pos=0
+Comparacoes=1
+Pos=0
+Pos=-1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Pos=-1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=3
+[7 DSF 58]
+[17 SAF 75]
+[57 WWE 85]
+Pos=-1
+Comparacoes=2
+[7 DSF 58]
+[17 SAF 75]
+[57 WWE 85]
+Comparacoes=5
+Pos=-1
+[79 DSA 98]
+[7 DSF 58]
+[17 SAF 75]
+[57 WWE 85]
+[21 AFE 65]
+[87 FAF 94]
+[8 SEE 18]
+Comparacoes=21

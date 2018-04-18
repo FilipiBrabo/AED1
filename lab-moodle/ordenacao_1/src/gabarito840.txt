@@ -1,0 +1,17 @@
+Pos=0
+Comparacoes=1
+Pos=-1
+[64 DAW 18]
+[47 FFD 86]
+[96 EWS 45]
+Pos=-1
+[64 DAW 18]
+[47 FFD 86]
+[96 EWS 45]
+[66 DAW 49]
+[78 DAW 39]
+[87 EWS 86]
+[91 DDW 17]
+Pos=-1
+Pos=3
+Comparacoes=28

@@ -1,0 +1,50 @@
+[84 SAD 16]
+[74 WDA 36]
+[2 FWW 93]
+[12 SEW 98]
+[84 SAD 16]
+[74 WDA 36]
+[2 FWW 93]
+[12 SEW 98]
+[43 WSW 96]
+Comparacoes=22
+Comparacoes=66
+Pos=-1
+Pos=3
+[53 ASA 34]
+[62 DDF 9]
+[65 EAD 88]
+[9 EDA 84]
+[99 FWF 63]
+[2 FWW 93]
+[84 SAD 16]
+[12 SEW 98]
+[14 SSE 8]
+[61 WAS 34]
+[74 WDA 36]
+[43 WSW 96]
+[8 DFS 59]
+[2 ADE 92]
+[51 SDD 5]
+[53 ASA 34]
+[62 DDF 9]
+[65 EAD 88]
+[9 EDA 84]
+[99 FWF 63]
+[2 FWW 93]
+[84 SAD 16]
+[12 SEW 98]
+[14 SSE 8]
+[61 WAS 34]
+[74 WDA 36]
+[43 WSW 96]
+[8 DFS 59]
+[2 ADE 92]
+[51 SDD 5]
+Pos=12
+Pos=-1
+Pos=-1
+Pos=7
+Pos=11
+Comparacoes=120
+Pos=0

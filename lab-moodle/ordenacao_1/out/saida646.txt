@@ -1,0 +1,20 @@
+Comparacoes=1
+[9 SDW 50]
+[64 AEE 48]
+[87 ESD 48]
+[93 AAA 34]
+[69 ESW 99]
+[25 SSW 93]
+[9 SDW 50]
+[64 AEE 48]
+[87 ESD 48]
+[93 AAA 34]
+[69 ESW 99]
+[25 SSW 93]
+Comparacoes=15
+Pos=3
+Comparacoes=23
+Comparacoes=28
+Pos=-1
+Pos=-1
+Comparacoes=128

@@ -1,0 +1,13 @@
+Pos=-1
+Pos=-1
+Comparacoes=1
+Pos=-1
+Pos=-1
+[6 DAS 26]
+[30 SDE 59]
+[20 AWF 86]
+[43 AAA 1]
+[28 AAS 27]
+[53 WWA 41]
+Comparacoes=13
+Comparacoes=28

@@ -1,0 +1,19 @@
+Comparacoes=0
+Comparacoes=0
+[52 WSE 11]
+Pos=0
+Comparacoes=3
+Pos=1
+Pos=1
+Comparacoes=7
+Pos=0
+[92 AWS 92]
+[50 DAS 30]
+[63 SDD 50]
+[96 WAE 65]
+[52 WSE 11]
+[16 FSS 26]
+[31 EWD 55]
+Pos=-1
+Pos=5
+Pos=-1

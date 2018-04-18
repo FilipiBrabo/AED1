@@ -1,0 +1,18 @@
+Pos=-1
+Pos=0
+[87 DSA 94]
+[98 EAA 81]
+[88 AFD 12]
+Pos=1
+Pos=2
+Comparacoes=13
+Comparacoes=6
+[31 ADW 68]
+[88 AFD 12]
+[62 DAA 17]
+[87 DSA 94]
+[98 EAA 81]
+[58 WAA 18]
+[29 WDA 87]
+[59 EAA 55]
+Comparacoes=28

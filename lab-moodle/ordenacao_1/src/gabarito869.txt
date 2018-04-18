@@ -1,0 +1,27 @@
+Pos=0
+Pos=0
+Comparacoes=0
+Pos=0
+Comparacoes=0
+Pos=-1
+[13 DSA 21]
+[15 WDF 55]
+Comparacoes=1
+Pos=1
+Pos=-1
+Comparacoes=21
+Comparacoes=20
+[25 ADA 89]
+[38 AWD 84]
+[61 DEF 66]
+[13 DSA 21]
+[64 SDE 54]
+[23 SEF 18]
+[72 SWE 64]
+[27 WAS 42]
+[15 WDF 55]
+[81 WES 30]
+Comparacoes=91
+Pos=2
+Pos=-1
+Pos=-1

@@ -1,0 +1,55 @@
+Pos=0
+Pos=0
+Comparacoes=0
+Pos=-1
+Comparacoes=6
+[68 DWA 55]
+[59 ESE 92]
+[97 SDS 31]
+[37 WWA 46]
+[88 FWE 70]
+Comparacoes=16
+[66 AWD 79]
+[68 DWA 55]
+[59 ESE 92]
+[86 FEW 57]
+[88 FWE 70]
+[97 SDS 31]
+[37 WWA 46]
+Pos=2
+[66 AWD 79]
+[68 DWA 55]
+[59 ESE 92]
+[86 FEW 57]
+[88 FWE 70]
+[97 SDS 31]
+[37 WWA 46]
+[6 FFS 87]
+[83 FSD 51]
+Comparacoes=14
+[66 AWD 79]
+[68 DWA 55]
+[59 ESE 92]
+[86 FEW 57]
+[6 FFS 87]
+[83 FSD 51]
+[88 FWE 70]
+[97 SDS 31]
+[37 WWA 46]
+Pos=-1
+Pos=1
+Pos=10
+[66 AWD 79]
+[68 DWA 55]
+[59 ESE 92]
+[86 FEW 57]
+[6 FFS 87]
+[83 FSD 51]
+[88 FWE 70]
+[97 SDS 31]
+[37 WWA 46]
+[76 DAF 30]
+[5 SDD 85]
+[50 FDA 85]
+[47 DSW 63]
+Pos=0

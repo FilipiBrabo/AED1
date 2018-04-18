@@ -1,0 +1,24 @@
+Comparacoes=1
+[25 AAA 32]
+[20 WSE 25]
+[86 AAA 47]
+Comparacoes=6
+Comparacoes=6
+Pos=-1
+Pos=1
+Pos=-1
+Pos=-1
+[20 WSE 25]
+[25 AAA 32]
+[46 WDS 40]
+[86 AAA 47]
+Comparacoes=5
+[20 WSE 25]
+[25 AAA 32]
+[46 WDS 40]
+[48 DFF 63]
+[86 AAA 47]
+[55 ESS 75]
+[58 WAA 46]
+Comparacoes=21
+Pos=-1

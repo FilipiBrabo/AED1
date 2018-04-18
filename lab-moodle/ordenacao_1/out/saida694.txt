@@ -1,0 +1,37 @@
+Pos=-1
+Pos=-1
+Pos=-1
+[32 SWE 15]
+Pos=-1
+[32 SWE 15]
+Comparacoes=0
+Pos=-1
+Comparacoes=5
+Pos=-1
+Comparacoes=5
+Pos=2
+Comparacoes=21
+Pos=4
+[46 ASD 62]
+[62 DSD 70]
+[54 EAD 37]
+[71 FDS 42]
+[81 FSA 51]
+[3 SAW 19]
+[32 SWE 15]
+[54 DDS 52]
+[17 ADA 95]
+[87 WFA 38]
+[57 SAD 92]
+[46 ASD 62]
+[62 DSD 70]
+[54 EAD 37]
+[71 FDS 42]
+[81 FSA 51]
+[3 SAW 19]
+[32 SWE 15]
+[54 DDS 52]
+[17 ADA 95]
+[87 WFA 38]
+[57 SAD 92]
+Comparacoes=54

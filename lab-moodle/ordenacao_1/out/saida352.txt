@@ -1,0 +1,47 @@
+Pos=-1
+Comparacoes=0
+Pos=0
+Comparacoes=1
+[15 DSW 76]
+[83 SAE 24]
+[92 AAA 24]
+[99 DFD 5]
+[33 WAS 93]
+[68 DAF 84]
+[67 SSW 90]
+Pos=5
+Comparacoes=45
+[4 SAS 65]
+[15 DSW 76]
+[33 WAS 93]
+[61 SAD 84]
+[67 SSW 90]
+[68 DAF 84]
+[83 SAE 24]
+[90 ADE 87]
+[92 AAA 24]
+[99 DFD 5]
+Pos=3
+Comparacoes=53
+[92 AAA 24]
+[31 AAD 46]
+[90 ADE 87]
+[68 DAF 84]
+[99 DFD 5]
+[15 DSW 76]
+[61 SAD 84]
+[83 SAE 24]
+[17 SAE 94]
+[4 SAS 65]
+[67 SSW 90]
+[33 WAS 93]
+Comparacoes=77
+Comparacoes=120
+Comparacoes=86
+Comparacoes=136
+Comparacoes=136
+Comparacoes=153
+Comparacoes=92
+Comparacoes=153
+Comparacoes=93
+Pos=-1

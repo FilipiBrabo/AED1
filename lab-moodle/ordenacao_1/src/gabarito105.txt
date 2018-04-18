@@ -1,0 +1,32 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+[92 SEW 61]
+[60 AWF 88]
+Comparacoes=5
+Pos=1
+[60 AWF 88]
+[40 DFD 37]
+[36 SDA 2]
+[92 SEW 61]
+[97 DWS 81]
+[55 DFA 87]
+[12 WAF 13]
+Pos=-1
+Comparacoes=21
+Comparacoes=6
+Comparacoes=9
+Pos=-1
+Comparacoes=15
+Comparacoes=45
+[19 ASW 3]
+[60 AWF 88]
+[55 DFA 87]
+[40 DFD 37]
+[97 DWS 81]
+[69 FSW 7]
+[36 SDA 2]
+[33 SDD 91]
+[92 SEW 61]
+[12 WAF 13]
+Comparacoes=91

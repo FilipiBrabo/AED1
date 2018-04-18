@@ -1,0 +1,13 @@
+Pos=-1
+Pos=0
+Comparacoes=1
+[5 ASD 14]
+[72 WSS 45]
+Pos=-1
+[5 ASD 14]
+[72 WSS 45]
+[5 ASD 14]
+[72 WSS 45]
+[88 SFD 52]
+Pos=1
+Pos=1

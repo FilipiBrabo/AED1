@@ -1,0 +1,27 @@
+Comparacoes=0
+[6 WAF 63]
+Comparacoes=3
+Comparacoes=6
+Pos=-1
+Pos=0
+Comparacoes=7
+Pos=-1
+Pos=4
+Comparacoes=78
+Pos=-1
+[5 SSA 72]
+[6 WAF 63]
+[18 WSD 23]
+[30 FES 53]
+[45 SFS 41]
+[56 DWW 88]
+[60 SES 42]
+[62 ASF 9]
+[74 DAS 97]
+[78 SWF 64]
+[83 WSA 81]
+[85 FDE 91]
+[96 AEE 58]
+Pos=4
+Comparacoes=81
+Pos=7

@@ -1,0 +1,56 @@
+Pos=-1
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=5
+[21 ASA 22]
+[77 AWD 6]
+[70 EAW 23]
+[54 FWS 19]
+Pos=1
+[21 ASA 22]
+[77 AWD 6]
+[70 EAW 23]
+[54 FWS 19]
+[95 FAA 2]
+[6 SDW 30]
+[51 EEA 4]
+[5 SDD 15]
+[95 DAW 92]
+Comparacoes=78
+Comparacoes=78
+[5 SDD 15]
+[6 SDW 30]
+[21 ASA 22]
+[21 WAS 21]
+[51 EEA 4]
+[54 FWS 19]
+[70 EAW 23]
+[74 SWW 6]
+[77 AWD 6]
+[84 ADE 86]
+[91 WFS 95]
+[95 FAA 2]
+[95 DAW 92]
+Comparacoes=78
+Comparacoes=78
+Comparacoes=12
+Comparacoes=12
+[5 SDD 15]
+[6 SDW 30]
+[21 ASA 22]
+[21 WAS 21]
+[51 EEA 4]
+[54 FWS 19]
+[70 EAW 23]
+[74 SWW 6]
+[77 AWD 6]
+[84 ADE 86]
+[91 WFS 95]
+[95 FAA 2]
+[95 DAW 92]
+Comparacoes=105
+Comparacoes=14
+Pos=-1
+Pos=11
+Comparacoes=89

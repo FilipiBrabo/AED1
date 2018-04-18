@@ -1,0 +1,22 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=3
+Comparacoes=10
+Pos=-1
+Pos=-1
+Comparacoes=10
+[20 AAD 93]
+[55 AFA 49]
+[77 ASA 72]
+[68 SSA 36]
+[54 WDS 98]
+[8 WWW 40]
+[27 EAS 55]

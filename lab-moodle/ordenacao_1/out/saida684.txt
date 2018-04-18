@@ -1,0 +1,44 @@
+Comparacoes=0
+[98 WAE 25]
+[81 AAS 84]
+[89 WEA 55]
+Pos=3
+[98 WAE 25]
+[81 AAS 84]
+[89 WEA 55]
+[88 ADA 47]
+[95 WWA 71]
+[57 EAD 69]
+[2 DAE 76]
+[68 ASS 88]
+Comparacoes=28
+Comparacoes=36
+Pos=-1
+Comparacoes=36
+Pos=0
+Pos=5
+Pos=7
+Pos=4
+Pos=8
+Comparacoes=55
+Comparacoes=63
+[2 DAE 76]
+[16 WAA 76]
+[24 FSA 15]
+[45 DSA 29]
+[50 SSD 75]
+[57 EAD 69]
+[68 ASS 88]
+[71 AWD 31]
+[81 AAS 84]
+[84 WAW 22]
+[87 DSW 66]
+[88 ADA 47]
+[89 WEA 55]
+[91 DDA 82]
+[92 SDW 54]
+[95 WWA 71]
+[98 WAE 25]
+[58 WES 26]
+[78 DAS 17]
+Pos=8

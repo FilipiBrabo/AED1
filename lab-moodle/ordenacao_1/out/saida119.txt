@@ -1,0 +1,36 @@
+[87 DSW 33]
+[61 ASA 71]
+Comparacoes=1
+[61 ASA 71]
+[87 DSW 33]
+[61 ASA 71]
+[87 DSW 33]
+[36 EWF 62]
+[56 ADS 17]
+[84 FSW 30]
+Comparacoes=15
+Comparacoes=9
+[36 EWF 62]
+[56 ADS 17]
+[61 ASA 71]
+[64 FDD 36]
+[84 FSW 30]
+[87 DSW 33]
+[60 FDD 77]
+[83 SFE 91]
+[36 EWF 62]
+[56 ADS 17]
+[61 ASA 71]
+[64 FDD 36]
+[84 FSW 30]
+[87 DSW 33]
+[60 FDD 77]
+[83 SFE 91]
+[53 DAW 57]
+[65 WSA 13]
+Pos=-1
+Pos=-1
+Comparacoes=45
+Pos=-1
+Comparacoes=45
+Comparacoes=22

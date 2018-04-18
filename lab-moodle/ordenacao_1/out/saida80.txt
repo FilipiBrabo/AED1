@@ -1,0 +1,12 @@
+Pos=1
+Pos=-1
+Comparacoes=6
+[15 EWA 3]
+[45 DSA 46]
+[59 ASD 5]
+[93 ESS 47]
+[82 DES 70]
+Pos=-1
+Comparacoes=10
+Comparacoes=5
+Comparacoes=17

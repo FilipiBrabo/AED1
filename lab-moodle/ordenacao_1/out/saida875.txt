@@ -1,0 +1,27 @@
+Comparacoes=0
+Pos=-1
+[68 AWA 81]
+Comparacoes=0
+Pos=-1
+Comparacoes=3
+[68 AWA 81]
+[36 EAS 67]
+[25 SSA 68]
+Comparacoes=3
+Pos=-1
+Comparacoes=4
+Pos=3
+Comparacoes=10
+[68 AWA 81]
+[92 EAD 98]
+[36 EAS 67]
+[15 FFF 42]
+[25 SSA 68]
+[6 SDS 67]
+[27 SEW 82]
+[28 DEW 4]
+[79 DWD 97]
+Pos=0
+Pos=5
+Pos=-1
+Comparacoes=55

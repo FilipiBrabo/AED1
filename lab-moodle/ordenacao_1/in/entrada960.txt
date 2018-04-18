@@ -1,0 +1,14 @@
+I 96 DDA 1
+O 2 1
+I 70 WEA 86
+O 1 2
+O 1 2
+M
+B 70
+B 2
+O 2 2
+B 96
+I 75 DDA 18
+I 30 DDA 82
+B 96
+P

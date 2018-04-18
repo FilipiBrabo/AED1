@@ -1,0 +1,24 @@
+Comparacoes=1
+Pos=0
+Pos=1
+Pos=-1
+Pos=1
+Comparacoes=10
+Comparacoes=9
+Pos=1
+[90 AAA 85]
+[32 ADW 11]
+[33 FDF 70]
+[5 SDS 8]
+[86 WEF 20]
+[84 WSS 25]
+[25 AEF 10]
+Comparacoes=10
+Comparacoes=6
+Comparacoes=36
+Pos=-1
+Pos=-1
+Pos=9
+Comparacoes=33
+Comparacoes=32
+Comparacoes=65

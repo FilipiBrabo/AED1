@@ -1,0 +1,80 @@
+Pos=1
+Comparacoes=3
+Pos=-1
+[2 DDD 11]
+[44 DDF 84]
+[21 SAW 2]
+[18 DSE 30]
+[35 DWF 74]
+[95 WDA 42]
+[64 AEW 7]
+Pos=3
+Pos=2
+Comparacoes=45
+Comparacoes=45
+[64 AEW 7]
+[61 DAA 95]
+[53 DDA 68]
+[2 DDD 11]
+[44 DDF 84]
+[88 DED 22]
+[18 DSE 30]
+[35 DWF 74]
+[21 SAW 2]
+[95 WDA 42]
+[97 WDS 21]
+[64 AEW 7]
+[61 DAA 95]
+[53 DDA 68]
+[2 DDD 11]
+[44 DDF 84]
+[88 DED 22]
+[18 DSE 30]
+[35 DWF 74]
+[21 SAW 2]
+[95 WDA 42]
+[97 WDS 21]
+Comparacoes=52
+[2 DDD 11]
+[18 DSE 30]
+[21 SAW 2]
+[35 DWF 74]
+[41 SAA 59]
+[44 DDF 84]
+[45 SAA 46]
+[53 DDA 68]
+[61 DAA 95]
+[64 AEW 7]
+[88 DED 22]
+[93 DAA 30]
+[95 WDA 42]
+[97 WDS 21]
+[13 EAA 60]
+Pos=2
+Pos=5
+Comparacoes=153
+Pos=12
+Pos=-1
+Pos=10
+[74 AEA 66]
+[64 AEW 7]
+[61 DAA 95]
+[93 DAA 30]
+[53 DDA 68]
+[2 DDD 11]
+[44 DDF 84]
+[88 DED 22]
+[18 DSE 30]
+[35 DWF 74]
+[13 EAA 60]
+[41 SAA 59]
+[45 SAA 46]
+[21 SAW 2]
+[70 SDA 15]
+[95 WDA 42]
+[97 WDS 21]
+[45 WEF 21]
+[24 FWW 91]
+[71 WSF 93]
+[38 WAW 29]
+Pos=14

@@ -1,0 +1,4 @@
+[62 SSE 28]
+Comparacoes=0
+[62 SSE 28]
+Pos=-1

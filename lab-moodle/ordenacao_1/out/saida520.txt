@@ -1,0 +1,23 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+Pos=-1
+Comparacoes=3
+Comparacoes=3
+Comparacoes=3
+Pos=-1
+[68 DAD 25]
+[95 DEA 50]
+[45 DWS 40]
+[55 FAA 63]
+[68 DAD 25]
+[95 DEA 50]
+[45 DWS 40]
+[55 FAA 63]
+[5 FSS 46]
+[24 EAA 56]
+Pos=-1
+Comparacoes=20

@@ -1,0 +1,24 @@
+Pos=-1
+Pos=-1
+Comparacoes=0
+[82 AEA 70]
+[82 AEA 70]
+Pos=-1
+Comparacoes=3
+Comparacoes=2
+Comparacoes=28
+Comparacoes=12
+Pos=7
+Comparacoes=66
+[77 AAD 21]
+[82 AEA 70]
+[87 AFS 78]
+[62 AWF 57]
+[93 AWS 46]
+[63 DFS 76]
+[31 DWA 84]
+[90 DWW 60]
+[90 EFF 14]
+[45 ESA 41]
+[50 SAF 76]
+[91 WAD 56]

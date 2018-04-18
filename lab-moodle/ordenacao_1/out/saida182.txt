@@ -1,0 +1,36 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=6
+Comparacoes=6
+Pos=1
+Pos=-1
+Pos=-1
+Comparacoes=21
+Comparacoes=21
+[17 WDW 21]
+[25 SAD 46]
+[34 WAA 82]
+[50 DFD 71]
+[61 AEW 54]
+[85 SAS 47]
+[97 WDA 70]
+[63 ASS 91]
+[98 EAS 46]
+[41 SFE 14]
+[17 WDW 21]
+[25 SAD 46]
+[34 WAA 82]
+[50 DFD 71]
+[61 AEW 54]
+[85 SAS 47]
+[97 WDA 70]
+[63 ASS 91]
+[98 EAS 46]
+[41 SFE 14]
+[90 DAS 42]
+[21 EWS 1]
+[90 ADW 97]
+[54 ADS 73]
+Comparacoes=120
+Pos=-1
+Comparacoes=190

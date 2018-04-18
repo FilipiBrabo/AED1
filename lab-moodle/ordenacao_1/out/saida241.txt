@@ -1,0 +1,10 @@
+Pos=0
+Pos=3
+Comparacoes=10
+[86 DWD 86]
+[72 FED 49]
+[36 SDA 70]
+[81 SEW 10]
+[54 WAD 64]
+Pos=-1
+Comparacoes=9

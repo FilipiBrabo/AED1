@@ -1,0 +1,44 @@
+Pos=1
+Pos=0
+Pos=-1
+[48 FAA 55]
+[26 DEW 21]
+[36 DWE 67]
+Pos=2
+Pos=1
+Pos=-1
+Comparacoes=10
+Pos=5
+Comparacoes=6
+Comparacoes=21
+[1 AAA 25]
+[26 DEW 21]
+[36 DWE 67]
+[48 FAA 55]
+[50 ESA 20]
+[52 DSF 49]
+[63 FDD 63]
+[6 DAE 55]
+Comparacoes=28
+[1 AAA 25]
+[6 DAE 55]
+[26 DEW 21]
+[52 DSF 49]
+[36 DWE 67]
+[50 ESA 20]
+[48 FAA 55]
+[63 FDD 63]
+[90 DES 78]
+[1 AAA 25]
+[6 DAE 55]
+[26 DEW 21]
+[52 DSF 49]
+[36 DWE 67]
+[50 ESA 20]
+[48 FAA 55]
+[63 FDD 63]
+[90 DES 78]
+[49 FWA 85]
+[52 FSE 35]
+[89 WEA 99]
+Comparacoes=22

@@ -1,0 +1,52 @@
+[24 ASD 28]
+Pos=-1
+Pos=1
+Pos=2
+[24 ASD 28]
+[64 ADA 40]
+[4 DSD 35]
+[35 FEA 62]
+[42 DAW 39]
+Comparacoes=6
+Pos=-1
+[64 ADA 40]
+[24 ASD 28]
+[42 DAW 39]
+[4 DSD 35]
+[35 FEA 62]
+Comparacoes=15
+Comparacoes=7
+Comparacoes=29
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=9
+Pos=1
+[82 AAS 17]
+[64 ADA 40]
+[24 ASD 28]
+[42 DAW 39]
+[73 DSA 92]
+[4 DSD 35]
+[95 EAD 50]
+[35 FEA 62]
+[24 SEW 52]
+[15 WAD 4]
+Comparacoes=36
+[4 DSD 35]
+[15 WAD 4]
+[24 ASD 28]
+[24 SEW 52]
+[35 FEA 62]
+[42 DAW 39]
+[64 ADA 40]
+[73 DSA 92]
+[82 AAS 17]
+[95 EAD 50]
+Pos=-1
+Pos=5
+Pos=-1
+Pos=-1
+Comparacoes=105
+Pos=-1
+Pos=15

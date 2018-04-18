@@ -1,0 +1,24 @@
+Pos=-1
+Pos=-1
+Pos=-1
+[33 EWS 77]
+Comparacoes=1
+Pos=3
+[33 EWS 77]
+[25 SAS 16]
+[83 WAA 15]
+[32 ADS 63]
+Comparacoes=5
+[25 SAS 16]
+[32 ADS 63]
+[33 EWS 77]
+[83 WAA 15]
+[28 DWD 33]
+Pos=-1
+[25 SAS 16]
+[32 ADS 63]
+[33 EWS 77]
+[83 WAA 15]
+[28 DWD 33]
+[70 WSW 8]
+[76 DAW 13]

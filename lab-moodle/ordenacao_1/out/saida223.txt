@@ -1,0 +1,39 @@
+[28 SAS 49]
+[79 SWF 36]
+[11 AAD 24]
+Comparacoes=3
+Pos=-1
+Comparacoes=3
+[11 AAD 24]
+[28 SAS 49]
+[79 SWF 36]
+Comparacoes=6
+Pos=-1
+[11 AAD 24]
+[85 DAW 78]
+[28 SAS 49]
+[79 SWF 36]
+[52 EAD 42]
+[21 SWD 28]
+[23 WED 86]
+[46 FFD 67]
+Pos=4
+[11 AAD 24]
+[85 DAW 78]
+[28 SAS 49]
+[79 SWF 36]
+[52 EAD 42]
+[21 SWD 28]
+[23 WED 86]
+[46 FFD 67]
+[11 AAD 24]
+[85 DAW 78]
+[28 SAS 49]
+[79 SWF 36]
+[52 EAD 42]
+[21 SWD 28]
+[23 WED 86]
+[46 FFD 67]
+Pos=-1
+Pos=1
+Comparacoes=55

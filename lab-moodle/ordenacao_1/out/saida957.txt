@@ -1,0 +1,14 @@
+Comparacoes=0
+Pos=0
+Pos=-1
+[13 ASS 59]
+[80 ESS 44]
+[91 AEF 67]
+[17 EAA 60]
+[52 DAW 35]
+Pos=3
+[13 ASS 59]
+[80 ESS 44]
+[91 AEF 67]
+[17 EAA 60]
+[52 DAW 35]

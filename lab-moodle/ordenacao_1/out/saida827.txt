@@ -1,0 +1,6 @@
+Pos=-1
+[30 AEF 39]
+Comparacoes=0
+Comparacoes=10
+Comparacoes=15
+Comparacoes=22

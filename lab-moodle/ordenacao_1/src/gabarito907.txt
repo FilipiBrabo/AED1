@@ -1,0 +1,16 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=6
+[26 AAF 27]
+[43 ASE 68]
+[78 DEW 62]
+[56 ESS 9]
+[62 FFA 99]
+Pos=-1
+Comparacoes=4
+[26 AAF 27]
+[43 ASE 68]
+[78 DEW 62]
+[56 ESS 9]
+[62 FFA 99]
+Comparacoes=6

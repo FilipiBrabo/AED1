@@ -1,0 +1,63 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=1
+Comparacoes=4
+Pos=-1
+[93 AEF 7]
+[81 AEW 87]
+[46 DSA 74]
+[17 FDE 8]
+[79 DES 65]
+[97 AFA 77]
+[22 DED 53]
+Pos=-1
+Comparacoes=28
+Comparacoes=26
+[17 FDE 8]
+[22 DED 53]
+[39 WAW 81]
+[46 DSA 74]
+[79 DES 65]
+[81 AEW 87]
+[93 AEF 7]
+[97 AFA 77]
+[13 WAW 47]
+Comparacoes=32
+[13 WAW 47]
+[16 EDD 34]
+[17 FDE 8]
+[22 DED 53]
+[35 SAS 7]
+[39 WAW 81]
+[46 DSA 74]
+[79 DES 65]
+[81 AEW 87]
+[93 AEF 7]
+[97 AFA 77]
+[13 WAW 47]
+[16 EDD 34]
+[17 FDE 8]
+[22 DED 53]
+[35 SAS 7]
+[39 WAW 81]
+[46 DSA 74]
+[79 DES 65]
+[81 AEW 87]
+[93 AEF 7]
+[97 AFA 77]
+Pos=-1
+Comparacoes=15
+[13 WAW 47]
+[16 EDD 34]
+[17 FDE 8]
+[22 DED 53]
+[35 SAS 7]
+[39 WAW 81]
+[46 DSA 74]
+[72 FDE 40]
+[79 DES 65]
+[81 AEW 87]
+[93 AEF 7]
+[97 AFA 77]
+[65 WFA 8]
+Comparacoes=91

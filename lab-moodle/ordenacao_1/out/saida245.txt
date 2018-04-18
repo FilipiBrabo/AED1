@@ -1,0 +1,45 @@
+Comparacoes=1
+Pos=1
+[85 AAS 88]
+[51 DSD 85]
+[45 DAW 96]
+[34 AES 94]
+[59 AFA 74]
+[94 FWW 26]
+[85 AAS 88]
+[51 DSD 85]
+[45 DAW 96]
+[34 AES 94]
+[59 AFA 74]
+[94 FWW 26]
+[14 SDD 58]
+[85 AAS 88]
+[51 DSD 85]
+[45 DAW 96]
+[34 AES 94]
+[59 AFA 74]
+[94 FWW 26]
+[14 SDD 58]
+[54 WWS 17]
+[69 DSW 23]
+Pos=0
+Pos=7
+Comparacoes=55
+Comparacoes=10
+[14 SDD 58]
+[34 AES 94]
+[40 AEW 32]
+[45 DAW 96]
+[51 DSD 85]
+[53 AWW 96]
+[54 WWS 17]
+[59 AFA 74]
+[69 DSW 23]
+[85 AAS 88]
+[94 FWW 26]
+[44 WFA 8]
+Comparacoes=35
+Pos=1
+Comparacoes=46
+Comparacoes=91
+Pos=13

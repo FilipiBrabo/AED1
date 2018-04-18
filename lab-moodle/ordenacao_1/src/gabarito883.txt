@@ -1,0 +1,23 @@
+Pos=-1
+Pos=0
+Pos=0
+Pos=0
+Pos=-1
+Comparacoes=8
+Pos=0
+Pos=1
+Pos=6
+[24 AFA 35]
+[36 AEW 45]
+[39 EAW 85]
+[64 AAE 37]
+[67 DAW 70]
+[25 WAS 11]
+[3 AAD 21]
+Pos=-1
+Comparacoes=28
+Comparacoes=36
+Pos=3
+Comparacoes=55
+Comparacoes=19
+Comparacoes=105

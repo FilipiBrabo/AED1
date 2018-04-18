@@ -1,0 +1,22 @@
+Pos=-1
+Comparacoes=3
+Comparacoes=2
+Comparacoes=2
+Comparacoes=6
+Pos=-1
+Comparacoes=5
+Comparacoes=6
+[14 ASS 18]
+[46 AWD 2]
+[99 WFD 43]
+[44 WSE 53]
+Comparacoes=5
+Comparacoes=5
+Pos=-1
+Pos=-1
+Comparacoes=10
+Comparacoes=21
+Comparacoes=21
+Pos=3
+Comparacoes=23
+Pos=-1

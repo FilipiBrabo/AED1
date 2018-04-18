@@ -1,0 +1,13 @@
+Comparacoes=1
+[67 WSF 1]
+[71 EFS 39]
+[55 AAE 31]
+[45 DFD 63]
+[67 WSF 1]
+[71 EFS 39]
+[55 AAE 31]
+[45 DFD 63]
+Comparacoes=6
+Pos=-1
+Pos=-1
+Comparacoes=31

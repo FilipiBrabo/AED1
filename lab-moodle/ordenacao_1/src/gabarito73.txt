@@ -1,0 +1,13 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+[67 ASD 32]
+[7 AEE 64]
+[51 WFE 79]
+[64 DDW 69]
+[81 WDA 75]
+[67 SFF 41]
+Comparacoes=15
+Comparacoes=11
+Comparacoes=21
+Comparacoes=21

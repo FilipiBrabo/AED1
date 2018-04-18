@@ -1,0 +1,5 @@
+[7 ADS 85]
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1

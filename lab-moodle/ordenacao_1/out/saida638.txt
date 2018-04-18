@@ -1,0 +1,35 @@
+Pos=0
+Comparacoes=0
+Pos=-1
+Comparacoes=1
+[62 DFW 72]
+[59 WFE 47]
+Pos=-1
+[62 DFW 72]
+[59 WFE 47]
+[53 EAE 33]
+[62 DFW 72]
+[59 WFE 47]
+[53 EAE 33]
+Pos=2
+Comparacoes=3
+Pos=2
+Pos=-1
+Pos=0
+[53 EAE 33]
+[59 WFE 47]
+[62 DFW 72]
+[88 ADA 79]
+[60 WAA 87]
+[20 FEF 60]
+[59 WSS 87]
+[67 DEA 47]
+[57 AWA 23]
+[46 EAW 48]
+[11 FSS 10]
+[29 WAA 82]
+Pos=-1
+Comparacoes=78
+Comparacoes=78
+Pos=-1
+Comparacoes=69

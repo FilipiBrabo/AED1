@@ -1,0 +1,26 @@
+Pos=-1
+Pos=1
+[79 SSD 87]
+[71 DWW 23]
+[5 DSA 28]
+[23 AEA 98]
+[1 AAW 18]
+Pos=0
+Pos=-1
+Comparacoes=17
+[1 AAW 18]
+[5 DSA 28]
+[10 ADA 11]
+[23 AEA 98]
+[52 SSA 86]
+[71 DWW 23]
+[79 SSD 87]
+[1 FSS 71]
+[57 ASW 60]
+[26 DAE 25]
+[34 SAW 98]
+Pos=0
+Pos=11
+Comparacoes=91
+Pos=13
+Comparacoes=43

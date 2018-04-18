@@ -1,0 +1,8 @@
+[19 ESS 53]
+[19 ESS 53]
+Comparacoes=6
+[19 ESS 53]
+[32 EDF 18]
+[45 EWS 41]
+[66 AFE 76]
+Comparacoes=10

@@ -1,0 +1,10 @@
+Pos=-1
+Pos=-1
+[56 AAS 39]
+Pos=0
+Comparacoes=3
+Comparacoes=5
+Pos=4
+Comparacoes=15
+Comparacoes=28
+Pos=-1

@@ -1,0 +1,36 @@
+Pos=-1
+Pos=0
+Pos=2
+Pos=2
+Comparacoes=7
+Comparacoes=8
+Comparacoes=45
+Comparacoes=45
+Comparacoes=9
+Comparacoes=45
+Comparacoes=33
+Pos=-1
+Comparacoes=26
+Comparacoes=32
+Pos=-1
+Comparacoes=81
+Pos=-1
+[31 AAW 40]
+[72 ASD 10]
+[54 ASS 19]
+[84 DFS 85]
+[29 EAA 60]
+[36 EEW 97]
+[62 EWW 15]
+[96 FAF 17]
+[49 FFW 70]
+[4 SDA 36]
+[28 SFS 98]
+[7 SWA 60]
+[53 SWD 19]
+[21 WAD 96]
+[13 WSW 31]
+[59 WSW 77]
+[73 AFW 78]
+[97 SSS 79]
+Comparacoes=58

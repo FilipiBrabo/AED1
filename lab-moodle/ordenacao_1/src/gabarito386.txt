@@ -1,0 +1,9 @@
+Comparacoes=0
+Comparacoes=0
+[77 ADA 57]
+[93 WWA 14]
+Comparacoes=1
+Comparacoes=1
+Pos=-1
+Pos=-1
+Pos=-1

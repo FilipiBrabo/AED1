@@ -1,0 +1,9 @@
+[28 AAD 44]
+Pos=2
+Comparacoes=6
+[5 SFA 77]
+[12 DFE 59]
+[28 AAD 44]
+[98 SEF 52]
+[89 ASA 40]
+[88 SAW 71]

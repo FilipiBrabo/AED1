@@ -1,0 +1,23 @@
+Pos=0
+Comparacoes=2
+Pos=4
+Comparacoes=12
+Pos=7
+Pos=-1
+Comparacoes=43
+Comparacoes=66
+Pos=10
+Pos=-1
+[4 SAS 91]
+[40 FFF 5]
+[49 AWD 69]
+[52 DWA 93]
+[67 ADA 87]
+[82 WAS 92]
+[83 AES 70]
+[88 FSD 11]
+[90 FAD 77]
+[92 FDA 38]
+[96 AWW 69]
+[98 SSA 69]
+[45 WSE 87]

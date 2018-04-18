@@ -1,0 +1,10 @@
+Pos=-1
+Comparacoes=1
+[56 WWA 51]
+[86 AWA 9]
+[93 DAA 91]
+[4 SWS 71]
+Comparacoes=5
+Comparacoes=3
+Pos=0
+Comparacoes=20

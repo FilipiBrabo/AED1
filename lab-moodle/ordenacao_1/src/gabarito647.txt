@@ -1,0 +1,13 @@
+Pos=-1
+[44 SDD 67]
+[46 WDW 82]
+[39 AWS 39]
+Comparacoes=8
+Comparacoes=10
+Comparacoes=10
+Comparacoes=33
+Pos=5
+Pos=3
+Pos=3
+Comparacoes=78
+Pos=3

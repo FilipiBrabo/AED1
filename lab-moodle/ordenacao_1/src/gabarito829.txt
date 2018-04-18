@@ -1,0 +1,8 @@
+Pos=-1
+[38 FAA 84]
+[99 FWW 19]
+[38 FAA 84]
+[99 FWW 19]
+Comparacoes=14
+Pos=-1
+Comparacoes=19

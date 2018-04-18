@@ -1,0 +1,29 @@
+Comparacoes=0
+Comparacoes=1
+[38 DAS 85]
+[46 DAA 48]
+Comparacoes=1
+Comparacoes=3
+[28 DDA 35]
+[38 DAS 85]
+[46 DAA 48]
+[12 AAA 49]
+Comparacoes=9
+Pos=-1
+Comparacoes=11
+Pos=3
+Comparacoes=28
+Pos=6
+[12 AAA 49]
+[70 AAA 56]
+[46 DAA 48]
+[38 DAS 85]
+[28 DDA 35]
+[20 DWW 10]
+[92 FES 24]
+[47 SAW 32]
+[92 DWW 43]
+[18 DFA 24]
+[70 SDE 59]
+[24 AAA 31]
+Pos=-1

@@ -1,0 +1,11 @@
+Comparacoes=0
+[14 EWW 73]
+[45 WDA 30]
+Pos=-1
+[14 EWW 73]
+[45 WDA 30]
+[92 AAA 99]
+Comparacoes=15
+Pos=5
+Pos=-1
+Pos=2

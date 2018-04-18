@@ -1,0 +1,23 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+[19 EFS 98]
+[57 EWA 98]
+[76 ADS 11]
+Comparacoes=2
+Comparacoes=3
+Pos=-1
+[76 ADS 11]
+[19 EFS 98]
+[57 EWA 98]
+[70 FDD 6]
+[76 ADS 11]
+[19 EFS 98]
+[57 EWA 98]
+[70 FDD 6]
+[54 WSD 83]
+Pos=0
+Comparacoes=4
+Comparacoes=10
+Pos=-1
+Pos=-1

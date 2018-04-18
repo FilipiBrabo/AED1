@@ -1,0 +1,14 @@
+Comparacoes=0
+Comparacoes=0
+[73 AWS 81]
+[51 ASS 5]
+Pos=1
+[73 AWS 81]
+[51 ASS 5]
+[63 AAW 10]
+[78 AEW 29]
+[92 SAS 57]
+[24 WSW 45]
+[25 WDD 46]
+Pos=-1
+Pos=2

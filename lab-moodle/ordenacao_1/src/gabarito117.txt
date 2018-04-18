@@ -1,0 +1,9 @@
+Comparacoes=0
+Comparacoes=3
+Comparacoes=6
+[28 WAS 85]
+[48 FAA 5]
+[86 AAS 15]
+[96 WWF 89]
+[89 SED 50]
+Pos=-1

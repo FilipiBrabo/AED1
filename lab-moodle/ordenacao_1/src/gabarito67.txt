@@ -1,0 +1,16 @@
+Pos=-1
+Pos=-1
+Comparacoes=5
+Comparacoes=3
+[5 ESS 48]
+[11 DWS 47]
+[13 WSF 80]
+[79 WAD 61]
+[80 AWA 13]
+[94 SDA 48]
+[11 AAW 8]
+Comparacoes=45
+Pos=0
+Comparacoes=43
+Comparacoes=48
+Pos=12

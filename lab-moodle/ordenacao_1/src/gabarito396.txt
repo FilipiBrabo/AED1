@@ -1,0 +1,19 @@
+Pos=-1
+Pos=-1
+Pos=0
+Comparacoes=1
+Pos=-1
+[57 DDA 94]
+[21 WDW 7]
+Pos=-1
+[57 DDA 94]
+[21 WDW 7]
+Pos=-1
+Pos=-1
+Pos=0
+[57 DDA 94]
+[21 WDW 7]
+[94 FAF 17]
+[23 DAD 67]
+[62 WAF 60]
+[75 AWA 75]

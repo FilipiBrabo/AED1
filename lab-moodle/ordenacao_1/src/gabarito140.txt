@@ -1,0 +1,24 @@
+Pos=-1
+Comparacoes=1
+Pos=0
+Pos=1
+[40 AFD 76]
+[79 WDW 14]
+[72 FAW 78]
+Comparacoes=10
+[40 AFD 76]
+[72 FAW 78]
+[79 WDW 14]
+[7 WSA 68]
+[52 WWW 14]
+[22 DWD 59]
+Comparacoes=21
+Pos=-1
+Comparacoes=33
+Comparacoes=55
+Comparacoes=44
+Pos=-1
+Pos=0
+Comparacoes=69
+Pos=5
+Pos=2

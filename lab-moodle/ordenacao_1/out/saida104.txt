@@ -1,0 +1,10 @@
+Comparacoes=0
+[94 DAD 43]
+[5 EDD 27]
+[37 SSS 90]
+[41 SSF 42]
+[94 DAD 43]
+[5 EDD 27]
+[37 SSS 90]
+[41 SSF 42]
+Pos=1

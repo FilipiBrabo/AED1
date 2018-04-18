@@ -1,0 +1,17 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=-1
+[47 AAS 52]
+[23 EWA 65]
+[21 SDS 50]
+[89 WAF 76]
+[21 DAD 79]
+[68 SWA 13]
+[54 SSS 14]
+Pos=-1
+Comparacoes=66
+Pos=-1
+Pos=-1
+Pos=14
+Pos=-1

@@ -1,0 +1,21 @@
+Comparacoes=0
+Comparacoes=6
+Pos=-1
+[60 ASS 5]
+[91 DES 85]
+[30 SAW 99]
+[37 WSW 21]
+Pos=-1
+Pos=2
+Comparacoes=6
+Pos=-1
+[30 SAW 99]
+[37 WSW 21]
+[60 ASS 5]
+[91 DES 85]
+[12 SAD 3]
+Pos=-1
+Comparacoes=36
+Pos=7
+Comparacoes=36
+Pos=1

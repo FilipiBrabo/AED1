@@ -1,0 +1,21 @@
+Comparacoes=0
+[4 SSA 88]
+Pos=0
+Comparacoes=3
+Pos=-1
+Comparacoes=2
+[4 SSA 88]
+[31 DDS 25]
+[35 AWA 97]
+Pos=-1
+[4 SSA 88]
+[31 DDS 25]
+[35 AWA 97]
+[4 SSA 88]
+[31 DDS 25]
+[35 AWA 97]
+[50 FAE 28]
+[72 SDE 16]
+Comparacoes=15
+Comparacoes=21
+Pos=0

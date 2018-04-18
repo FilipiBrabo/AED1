@@ -1,0 +1,34 @@
+[96 FWF 78]
+[83 EEW 3]
+Pos=0
+[96 FWF 78]
+[83 EEW 3]
+Pos=1
+[96 FWF 78]
+[83 EEW 3]
+[35 DSA 40]
+Pos=2
+Comparacoes=15
+Comparacoes=5
+Pos=5
+Pos=5
+[97 DES 68]
+[35 DSA 40]
+[25 DSA 13]
+[83 EEW 3]
+[96 FWF 78]
+[88 SAS 33]
+[4 DSA 89]
+[53 SES 84]
+[97 DES 68]
+[35 DSA 40]
+[25 DSA 13]
+[83 EEW 3]
+[96 FWF 78]
+[88 SAS 33]
+[4 DSA 89]
+[53 SES 84]
+Pos=3
+Pos=0
+Pos=2
+Pos=-1

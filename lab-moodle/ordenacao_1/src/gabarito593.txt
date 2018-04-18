@@ -1,0 +1,8 @@
+Comparacoes=1
+[11 ADE 12]
+[72 ASA 17]
+[98 DSW 95]
+[11 ADE 12]
+[72 ASA 17]
+[98 DSW 95]
+Comparacoes=2

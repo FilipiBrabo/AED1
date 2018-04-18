@@ -1,0 +1,29 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+[43 AEA 46]
+[42 WWD 10]
+[43 AEA 46]
+[42 WWD 10]
+[67 DWA 35]
+Pos=0
+[43 AEA 46]
+[42 WWD 10]
+[67 DWA 35]
+[2 WDA 30]
+[60 WDF 35]
+[30 SSA 4]
+[43 AEA 46]
+[42 WWD 10]
+[67 DWA 35]
+[2 WDA 30]
+[60 WDF 35]
+[30 SSA 4]
+Comparacoes=11
+Comparacoes=18
+Comparacoes=28
+Comparacoes=45
+Pos=1
+Comparacoes=78
+Comparacoes=12
+Pos=-1

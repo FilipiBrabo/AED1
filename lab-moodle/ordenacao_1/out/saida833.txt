@@ -1,0 +1,9 @@
+Pos=0
+Comparacoes=0
+Comparacoes=3
+Comparacoes=2
+[11 DSF 3]
+[9 SES 44]
+[37 SSF 49]
+[82 WWS 40]
+Pos=1

@@ -1,0 +1,16 @@
+Pos=-1
+Comparacoes=1
+Comparacoes=3
+Pos=1
+Pos=-1
+Pos=-1
+Pos=-1
+[62 ADD 18]
+[45 DWA 19]
+[63 WAS 55]
+[57 DSE 48]
+[96 ADD 43]
+[20 AFD 36]
+[71 FWE 42]
+Comparacoes=20
+Pos=2

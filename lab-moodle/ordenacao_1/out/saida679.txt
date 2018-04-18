@@ -1,0 +1,22 @@
+[6 DFA 48]
+[59 AFS 39]
+Comparacoes=4
+Comparacoes=6
+Comparacoes=6
+Pos=-1
+Pos=-1
+Comparacoes=10
+Comparacoes=6
+Pos=-1
+Comparacoes=13
+[6 DFA 48]
+[59 AFS 39]
+[60 SEF 6]
+[86 DAW 26]
+[92 WAD 78]
+[95 SWW 22]
+[99 SSS 12]
+[73 ESW 56]
+[43 ASS 50]
+[21 FWD 21]
+[53 AFA 55]

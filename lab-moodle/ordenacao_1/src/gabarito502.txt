@@ -1,0 +1,19 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=0
+Pos=-1
+Comparacoes=10
+[54 AAF 48]
+[47 AWA 21]
+[41 DED 78]
+[3 DWE 49]
+[64 WWS 6]
+[75 WAD 79]
+Pos=-1
+Pos=6
+Pos=0
+Comparacoes=60
+Comparacoes=57
+Pos=-1

@@ -1,0 +1,2 @@
+Comparacoes=0
+Pos=8

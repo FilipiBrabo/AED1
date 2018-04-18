@@ -1,0 +1,43 @@
+Pos=-1
+Comparacoes=2
+Pos=-1
+[52 AAA 35]
+[58 ASS 41]
+[93 AWD 55]
+[50 SSW 66]
+[52 AAA 35]
+[58 ASS 41]
+[93 AWD 55]
+[50 SSW 66]
+Comparacoes=19
+Pos=-1
+[52 AAA 35]
+[80 AEE 44]
+[34 AES 95]
+[58 ASS 41]
+[93 AWD 55]
+[85 DDF 54]
+[76 DEE 88]
+[50 SSW 66]
+[25 DSE 47]
+[47 AWS 19]
+Comparacoes=35
+Pos=-1
+Pos=1
+Comparacoes=78
+Pos=8
+[52 AAA 35]
+[80 AEE 44]
+[34 AES 95]
+[58 ASS 41]
+[93 AWD 55]
+[47 AWS 19]
+[85 DDF 54]
+[76 DEE 88]
+[25 DSE 47]
+[18 EWA 80]
+[6 SSF 94]
+[50 SSW 66]
+[72 WFF 60]
+[97 SDE 32]
+[30 EWS 92]

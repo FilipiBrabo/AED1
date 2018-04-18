@@ -1,0 +1,8 @@
+[58 WDE 39]
+Comparacoes=6
+Pos=-1
+[39 AAW 33]
+[16 DAD 76]
+[83 SFD 77]
+[58 WDE 39]
+[90 AAA 26]

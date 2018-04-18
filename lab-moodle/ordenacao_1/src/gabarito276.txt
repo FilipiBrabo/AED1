@@ -1,0 +1,31 @@
+[91 AAW 71]
+[91 AAW 71]
+[63 AFS 37]
+[40 AAW 51]
+Comparacoes=10
+Pos=-1
+[9 AWD 74]
+[40 AAW 51]
+[63 AFS 37]
+[69 WSF 65]
+[91 AAW 71]
+[81 DSW 52]
+[31 DAW 62]
+[9 AWD 74]
+[40 AAW 51]
+[63 AFS 37]
+[69 WSF 65]
+[91 AAW 71]
+[81 DSW 52]
+[31 DAW 62]
+Comparacoes=66
+Pos=12
+Comparacoes=67
+Comparacoes=91
+Pos=-1
+Comparacoes=91
+Comparacoes=91
+Comparacoes=52
+Comparacoes=25
+Pos=18
+Comparacoes=105

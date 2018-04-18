@@ -1,0 +1,16 @@
+Comparacoes=0
+Comparacoes=1
+[58 ASA 64]
+[95 DWS 90]
+Pos=-1
+Pos=3
+Comparacoes=21
+Comparacoes=21
+[27 SDD 98]
+[44 WWF 42]
+[58 ASA 64]
+[59 AAW 91]
+[85 ESD 59]
+[94 SED 5]
+[95 DWS 90]
+Comparacoes=18

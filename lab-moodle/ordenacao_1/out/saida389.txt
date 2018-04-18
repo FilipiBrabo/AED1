@@ -1,0 +1,35 @@
+[58 ASW 90]
+[46 DWD 4]
+Pos=0
+Pos=0
+Comparacoes=1
+[46 DWD 4]
+[58 ASW 90]
+[32 DAA 58]
+[84 FDE 87]
+Comparacoes=4
+Comparacoes=7
+Comparacoes=10
+Comparacoes=4
+[58 ASW 90]
+[32 DAA 58]
+[46 DWD 4]
+[84 FDE 87]
+[17 WAA 82]
+[87 FWA 70]
+[82 SAE 10]
+Pos=4
+[58 ASW 90]
+[32 DAA 58]
+[46 DWD 4]
+[84 FDE 87]
+[17 WAA 82]
+[87 FWA 70]
+[82 SAE 10]
+[42 DEW 98]
+Comparacoes=67
+Pos=13
+Pos=7
+Comparacoes=136
+Pos=12
+Pos=9

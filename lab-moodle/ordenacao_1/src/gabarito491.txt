@@ -1,0 +1,7 @@
+Pos=0
+Comparacoes=3
+Comparacoes=3
+Comparacoes=3
+[37 ADS 54]
+[54 AWE 34]
+[48 DAA 67]

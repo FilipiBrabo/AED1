@@ -1,0 +1,18 @@
+Pos=1
+[68 SFW 34]
+[53 ASF 56]
+[63 SEW 87]
+[59 WFD 32]
+Comparacoes=21
+Comparacoes=28
+Comparacoes=17
+Comparacoes=36
+[14 ADA 71]
+[20 ASA 45]
+[36 WWS 95]
+[53 ASF 56]
+[59 WFD 32]
+[62 DSF 59]
+[63 SEW 87]
+[68 SFW 34]
+[74 EFE 77]

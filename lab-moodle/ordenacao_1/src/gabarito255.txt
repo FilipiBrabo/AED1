@@ -1,0 +1,18 @@
+[87 EWW 95]
+[26 SAD 66]
+[42 SDF 46]
+Pos=5
+Pos=3
+Pos=3
+[87 EWW 95]
+[26 SAD 66]
+[42 SDF 46]
+[11 SAE 90]
+[8 EWS 60]
+[2 AAW 36]
+[15 AEA 88]
+[76 WWA 69]
+[59 FWS 30]
+[24 SSS 73]
+[39 SAA 55]
+Comparacoes=100

@@ -1,0 +1,13 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=6
+[23 SFA 61]
+[42 DDE 83]
+[56 DDW 75]
+[57 EAA 15]
+[30 SED 6]
+[7 DAF 94]
+Comparacoes=21
+Pos=-1
+Pos=3
+Comparacoes=17

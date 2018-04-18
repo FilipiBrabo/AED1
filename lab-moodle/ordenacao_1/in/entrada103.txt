@@ -1,0 +1,15 @@
+I 2 WWS 70
+I 4 WEF 51
+I 74 AEA 67
+I 24 ASE 89
+B 66
+I 20 AAF 30
+M
+B 74
+M
+B 58
+O 1 1
+B 38
+B 4
+O 1 2
+P

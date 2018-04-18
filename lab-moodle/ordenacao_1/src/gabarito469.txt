@@ -1,0 +1,10 @@
+Pos=0
+Comparacoes=6
+Pos=3
+Pos=-1
+[6 ADS 29]
+[25 AWS 54]
+[62 EFS 72]
+[12 SDA 64]
+Comparacoes=6
+Pos=-1

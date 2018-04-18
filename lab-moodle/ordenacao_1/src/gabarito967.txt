@@ -1,0 +1,15 @@
+Pos=0
+Pos=0
+Pos=0
+Pos=1
+[77 DDA 59]
+[94 SAW 84]
+[54 DAD 72]
+[77 DDA 59]
+[94 SAW 84]
+[54 DAD 72]
+[58 ESD 30]
+[72 DFA 47]
+[4 WSA 29]
+Pos=13
+Comparacoes=67

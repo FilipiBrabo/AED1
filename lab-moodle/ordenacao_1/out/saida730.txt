@@ -1,0 +1,4 @@
+Pos=-1
+Comparacoes=1
+[48 EAE 52]
+[66 AES 64]

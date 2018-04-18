@@ -1,0 +1,27 @@
+Comparacoes=0
+Pos=0
+[80 AAW 1]
+[17 SFA 5]
+Comparacoes=1
+Comparacoes=10
+Pos=2
+[5 WWE 15]
+[17 SFA 5]
+[51 SDS 14]
+[80 AAW 1]
+[86 SWE 43]
+Comparacoes=8
+Pos=-1
+Pos=5
+Comparacoes=28
+Comparacoes=33
+[5 WWE 15]
+[17 SFA 5]
+[22 WDE 57]
+[25 EEF 61]
+[51 SDS 14]
+[54 ADA 85]
+[73 SWF 6]
+[73 ESS 14]
+[80 AAW 1]
+[86 SWE 43]

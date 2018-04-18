@@ -1,0 +1,28 @@
+O 2 2
+O 2 1
+M
+I 20 DDA 34
+B 2
+I 9 DWS 61
+I 97 ASA 80
+O 1 2
+O 1 2
+B 1
+M
+I 57 DAS 44
+B 97
+I 76 DAW 78
+I 6 WDA 99
+M
+M
+B 1
+B 20
+I 96 SDA 93
+O 1 2
+O 1 1
+I 2 DAW 86
+B 96
+O 1 2
+M
+B 34
+P

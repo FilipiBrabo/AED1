@@ -1,0 +1,15 @@
+[2 SAA 97]
+[43 SAF 43]
+[2 SAA 97]
+[43 SAF 43]
+Pos=0
+Pos=5
+Pos=5
+Pos=4
+Comparacoes=50
+Comparacoes=105
+Comparacoes=88
+Comparacoes=120
+Pos=-1
+Comparacoes=89
+Comparacoes=136

@@ -1,0 +1,43 @@
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
+[74 EDW 15]
+[34 WWS 35]
+Pos=-1
+Pos=-1
+[74 EDW 15]
+[34 WWS 35]
+[74 WSA 9]
+[22 EAA 42]
+[78 WFW 30]
+[27 WDS 45]
+[23 WWS 60]
+[1 AWD 82]
+[45 DWW 45]
+[77 SFD 62]
+[21 AWD 37]
+[91 ASE 88]
+Pos=9
+Pos=-1
+Pos=-1
+[74 EDW 15]
+[34 WWS 35]
+[74 WSA 9]
+[22 EAA 42]
+[78 WFW 30]
+[27 WDS 45]
+[23 WWS 60]
+[1 AWD 82]
+[45 DWW 45]
+[77 SFD 62]
+[21 AWD 37]
+[91 ASE 88]
+[48 ASW 78]
+[54 DWS 12]
+[85 DAW 14]
+[20 AEE 59]

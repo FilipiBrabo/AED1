@@ -1,0 +1,6 @@
+I 6 ADW 29
+I 88 SWS 77
+I 9 SAD 19
+I 49 WSS 41
+B 9
+P

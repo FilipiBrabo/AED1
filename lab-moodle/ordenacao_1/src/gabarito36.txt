@@ -1,0 +1,37 @@
+Pos=0
+[55 ADW 6]
+[79 SSA 18]
+[93 AWA 14]
+[8 DWD 56]
+Pos=-1
+Comparacoes=6
+Comparacoes=5
+Comparacoes=4
+[55 ADW 6]
+[93 AWA 14]
+[8 DWD 56]
+[17 FSF 79]
+[79 SSA 18]
+[50 DSA 28]
+Pos=-1
+Comparacoes=19
+[8 DWD 56]
+[17 FSF 79]
+[50 DSA 28]
+[53 WAA 64]
+[55 ADW 6]
+[62 WSW 27]
+[79 SSA 18]
+[93 AWA 14]
+Comparacoes=24
+Comparacoes=36
+Pos=-1
+Comparacoes=78
+Pos=2
+Comparacoes=91
+Comparacoes=91
+Pos=3
+Pos=-1
+Pos=-1
+Comparacoes=97
+Comparacoes=210

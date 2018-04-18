@@ -1,0 +1,10 @@
+[60 AWA 57]
+Comparacoes=0
+Pos=0
+Pos=3
+Comparacoes=6
+[60 AWA 57]
+[1 FAA 37]
+[23 SWF 67]
+[25 WFA 58]
+Pos=2

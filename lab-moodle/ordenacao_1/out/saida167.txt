@@ -1,0 +1,12 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=28
+[13 FAW 29]
+[18 ADW 95]
+[21 EWF 7]
+[23 FSE 30]
+[30 DAF 75]
+[55 WSS 78]
+[60 AWS 69]
+[98 WWA 29]
+Pos=3

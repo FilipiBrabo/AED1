@@ -1,0 +1,43 @@
+Pos=-1
+Pos=-1
+Comparacoes=0
+[23 SWW 56]
+Comparacoes=6
+Pos=-1
+[23 SWW 56]
+[23 SSE 3]
+[94 AAD 41]
+[95 AWD 65]
+[26 FSF 36]
+[32 FAA 16]
+[26 FFS 11]
+[3 AWS 29]
+Comparacoes=23
+Comparacoes=55
+Comparacoes=10
+[94 AAD 41]
+[95 AWD 65]
+[3 AWS 29]
+[32 FAA 16]
+[1 FDA 26]
+[26 FFS 11]
+[14 FSA 26]
+[26 FSF 36]
+[23 SSE 3]
+[23 SWW 56]
+[89 WSA 86]
+Comparacoes=55
+[94 AAD 41]
+[95 AWD 65]
+[3 AWS 29]
+[32 FAA 16]
+[1 FDA 26]
+[26 FFS 11]
+[14 FSA 26]
+[26 FSF 36]
+[23 SSE 3]
+[23 SWW 56]
+[89 WSA 86]
+Pos=1
+Pos=-1
+Comparacoes=105

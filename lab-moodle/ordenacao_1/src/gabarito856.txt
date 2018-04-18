@@ -1,0 +1,41 @@
+Pos=-1
+Pos=0
+Comparacoes=0
+Comparacoes=4
+Pos=-1
+Comparacoes=53
+Pos=-1
+Pos=12
+Pos=-1
+[43 AAD 5]
+[74 AAS 74]
+[59 AFW 24]
+[49 ASS 64]
+[89 DWS 68]
+[43 FDD 14]
+[44 SAS 1]
+[81 SEA 15]
+[83 WDE 47]
+[81 WSF 37]
+[52 WWD 17]
+[8 WWW 75]
+[55 WWW 13]
+[94 FDS 23]
+[22 FDF 34]
+[56 AEW 3]
+[34 WFW 86]
+[12 AAW 44]
+[73 SWF 78]
+[56 ASA 27]
+[26 DFW 89]
+[9 FSS 31]
+[45 SWF 5]
+Comparacoes=173
+Comparacoes=153
+Comparacoes=157
+Pos=4
+Comparacoes=276
+Pos=-1
+Comparacoes=325
+Comparacoes=208
+Pos=2

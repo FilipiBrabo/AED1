@@ -1,0 +1,41 @@
+Comparacoes=1
+[58 FDA 13]
+[24 FED 38]
+[68 DAE 78]
+[3 EWA 32]
+[22 AEF 82]
+[38 ASW 67]
+[68 ADF 19]
+[13 DWD 57]
+Comparacoes=28
+Comparacoes=45
+Comparacoes=66
+Comparacoes=36
+Comparacoes=120
+Comparacoes=15
+Comparacoes=65
+[3 EWA 32]
+[7 FFA 16]
+[11 WWA 91]
+[13 DWD 57]
+[22 AEF 82]
+[22 DAW 47]
+[24 FED 38]
+[38 ASW 67]
+[40 FSS 36]
+[58 FDA 13]
+[68 ADF 19]
+[68 DAE 78]
+[77 SSW 82]
+[79 EDS 43]
+[88 WEA 72]
+[91 WAD 56]
+Pos=19
+Pos=-1
+Pos=6
+Comparacoes=210
+Pos=-1
+Comparacoes=231
+Comparacoes=253
+Pos=-1
+Pos=0

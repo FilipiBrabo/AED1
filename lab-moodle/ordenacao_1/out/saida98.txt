@@ -1,0 +1,46 @@
+Pos=0
+Pos=0
+[40 ADW 52]
+[49 WWA 62]
+[73 SWE 63]
+[93 AWS 6]
+[54 AEA 17]
+Pos=1
+Comparacoes=10
+Pos=0
+[40 ADW 52]
+[49 WWA 62]
+[54 AEA 17]
+[73 SWE 63]
+[93 AWS 6]
+[24 ASA 16]
+Comparacoes=9
+Comparacoes=15
+[24 ASA 16]
+[40 ADW 52]
+[49 WWA 62]
+[54 AEA 17]
+[73 SWE 63]
+[93 AWS 6]
+[24 ASA 16]
+[40 ADW 52]
+[49 WWA 62]
+[54 AEA 17]
+[73 SWE 63]
+[93 AWS 6]
+[24 ASA 16]
+[40 ADW 52]
+[49 WWA 62]
+[54 AEA 17]
+[73 SWE 63]
+[93 AWS 6]
+Comparacoes=17
+Pos=4
+[40 ADW 52]
+[54 AEA 17]
+[24 ASA 16]
+[4 ASE 92]
+[93 AWS 6]
+[44 SFS 8]
+[73 SWE 63]
+[49 WWA 62]

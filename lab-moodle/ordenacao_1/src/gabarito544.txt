@@ -1,0 +1,19 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=0
+Pos=-1
+Pos=-1
+Comparacoes=2
+Comparacoes=3
+Pos=-1
+[14 DWW 17]
+[39 SAA 71]
+[88 DWD 17]
+[28 AEW 11]
+[75 AAE 95]
+[60 AAS 28]
+[20 WAE 71]
+Pos=2
+Comparacoes=52
+Comparacoes=15

@@ -1,0 +1,6 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+[86 ADA 1]

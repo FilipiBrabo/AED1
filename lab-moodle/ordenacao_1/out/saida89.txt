@@ -1,0 +1,52 @@
+Pos=2
+Pos=-1
+[69 SAF 80]
+[76 ASE 43]
+[24 AED 98]
+[51 DWS 94]
+[60 WSW 90]
+Pos=2
+[69 SAF 80]
+[76 ASE 43]
+[24 AED 98]
+[51 DWS 94]
+[60 WSW 90]
+Comparacoes=10
+[24 AED 98]
+[76 ASE 43]
+[51 DWS 94]
+[69 SAF 80]
+[60 WSW 90]
+[24 AED 98]
+[76 ASE 43]
+[51 DWS 94]
+[69 SAF 80]
+[60 WSW 90]
+[20 WDS 4]
+Comparacoes=15
+Pos=-1
+Pos=5
+Comparacoes=55
+Pos=-1
+Comparacoes=55
+Pos=2
+Comparacoes=55
+Pos=-1
+Comparacoes=66
+[15 WWF 3]
+[16 EWW 78]
+[20 WDS 4]
+[22 ADS 69]
+[24 AED 98]
+[51 DWS 94]
+[60 WSW 90]
+[69 SAF 80]
+[73 WAW 59]
+[76 ASE 43]
+[90 SFA 6]
+[92 SWF 45]
+[29 WSD 51]
+[18 AED 26]
+[52 WSW 22]
+Pos=-1
+Pos=-1

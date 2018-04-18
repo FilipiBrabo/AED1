@@ -1,0 +1,33 @@
+Pos=0
+Pos=0
+Comparacoes=0
+Pos=-1
+[86 FDW 46]
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Pos=0
+Pos=1
+Comparacoes=6
+[41 DAS 14]
+[58 DSS 26]
+[86 FDW 46]
+[28 WWE 75]
+[93 SSA 77]
+Comparacoes=10
+Pos=-1
+Pos=3
+Comparacoes=21
+[41 DAS 14]
+[85 DEW 9]
+[58 DSS 26]
+[86 FDW 46]
+[43 SDD 33]
+[93 SSA 77]
+[28 WWE 75]
+[61 EAD 43]
+Pos=-1
+Pos=9
+Comparacoes=45
+Comparacoes=30
+Pos=5

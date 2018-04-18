@@ -1,0 +1,16 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=1
+Comparacoes=1
+[85 DSE 3]
+[46 SAE 37]
+[30 SFW 77]
+[85 DSE 3]
+[46 SAE 37]
+[30 SFW 77]
+[23 AAF 96]
+Comparacoes=5
+Pos=-1
+Pos=0

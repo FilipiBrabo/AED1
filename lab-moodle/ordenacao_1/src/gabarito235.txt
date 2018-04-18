@@ -1,0 +1,7 @@
+Pos=-1
+[71 WSD 99]
+[22 DWA 30]
+Comparacoes=3
+Comparacoes=12
+Comparacoes=36
+Pos=8

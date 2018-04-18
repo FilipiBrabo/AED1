@@ -1,0 +1,26 @@
+Comparacoes=1
+Comparacoes=3
+Comparacoes=3
+Comparacoes=3
+Pos=-1
+[7 AAE 5]
+[20 WSD 71]
+[21 DDE 7]
+[85 ESA 92]
+[81 AWW 82]
+Comparacoes=8
+[7 AAE 5]
+[20 WSD 71]
+[21 DDE 7]
+[33 ASS 27]
+[81 AWW 82]
+[85 ESA 92]
+[74 WAS 36]
+Pos=-1
+Pos=4
+Comparacoes=53
+Pos=9
+Pos=6
+Comparacoes=32
+Pos=16
+Comparacoes=125

@@ -1,0 +1,14 @@
+B 1
+B 73
+B 8
+M
+I 58 SAW 97
+I 71 SAW 14
+O 2 1
+O 2 2
+B 88
+I 8 SWA 68
+I 97 AWE 66
+O 1 1
+O 2 2
+P

@@ -1,0 +1,8 @@
+Pos=-1
+Pos=-1
+[4 SAD 72]
+[51 ASA 36]
+Pos=0
+Pos=1
+Comparacoes=6
+Comparacoes=10

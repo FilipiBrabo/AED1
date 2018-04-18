@@ -1,0 +1,28 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+[22 SWS 82]
+Pos=5
+Pos=2
+Comparacoes=13
+[39 ADS 23]
+[61 DDF 75]
+[43 DWD 24]
+[56 SDS 75]
+[98 SFE 93]
+[22 SWS 82]
+[57 WAA 43]
+[35 WSW 87]
+[6 EAA 56]
+[39 ADS 23]
+[61 DDF 75]
+[43 DWD 24]
+[56 SDS 75]
+[98 SFE 93]
+[22 SWS 82]
+[57 WAA 43]
+[35 WSW 87]
+[6 EAA 56]
+Comparacoes=36

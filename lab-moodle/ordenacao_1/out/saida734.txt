@@ -1,0 +1,21 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=1
+Pos=0
+Pos=-1
+Pos=0
+Pos=-1
+[2 ASD 26]
+[13 WAE 58]
+[42 DSF 10]
+[35 SFF 53]
+[62 EWW 98]
+[4 FAE 57]
+Comparacoes=15
+Pos=4
+Pos=1
+Comparacoes=16
+Comparacoes=36
+Comparacoes=29
+Pos=12
+Comparacoes=70

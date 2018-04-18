@@ -1,0 +1,5 @@
+[97 SDA 38]
+Pos=-1
+Pos=2
+Comparacoes=36
+Comparacoes=36

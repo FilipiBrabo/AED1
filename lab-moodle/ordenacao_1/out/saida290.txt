@@ -1,0 +1,29 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+Comparacoes=15
+[5 DAA 81]
+[43 EDF 20]
+[50 AAD 91]
+[68 FSS 20]
+[73 AWS 79]
+[77 ESA 72]
+[97 DAA 29]
+Pos=-1
+Pos=6
+Comparacoes=9
+Pos=-1
+Comparacoes=66
+Pos=-1
+[5 DAA 81]
+[27 WDD 80]
+[32 DAS 63]
+[43 EDF 20]
+[50 AAD 91]
+[68 FSS 20]
+[73 AWS 79]
+[77 ESA 72]
+[84 DWW 83]
+[85 SDA 90]
+[97 DAA 29]
+[99 SAW 49]

@@ -1,0 +1,7 @@
+Comparacoes=5
+Comparacoes=4
+[10 ADD 69]
+[16 ADW 89]
+[54 ADF 85]
+[94 WFW 11]
+Pos=4

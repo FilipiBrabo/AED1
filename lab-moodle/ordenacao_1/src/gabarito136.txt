@@ -1,0 +1,20 @@
+Pos=-1
+Pos=-1
+Pos=0
+Pos=2
+Comparacoes=21
+Pos=7
+Comparacoes=36
+[96 DAF 66]
+[43 DDW 90]
+[88 DWW 54]
+[91 EAF 2]
+[15 ESE 21]
+[88 EWA 81]
+[76 SDS 64]
+[16 SSA 64]
+[60 WAS 72]
+[23 WAF 17]
+Pos=3
+Pos=2
+Comparacoes=55

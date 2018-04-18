@@ -1,0 +1,24 @@
+[86 ASD 49]
+[8 WAW 37]
+[80 EDS 78]
+[86 ASD 49]
+[8 WAW 37]
+[80 EDS 78]
+Pos=2
+[86 ASD 49]
+[8 WAW 37]
+[80 EDS 78]
+[86 ASD 49]
+[8 WAW 37]
+[80 EDS 78]
+Pos=2
+Comparacoes=15
+Pos=3
+Comparacoes=8
+Comparacoes=21
+Pos=-1
+Pos=2
+Comparacoes=13
+Pos=2
+Comparacoes=7
+Pos=0

@@ -1,0 +1,78 @@
+Comparacoes=0
+[87 FAD 65]
+Comparacoes=0
+Pos=0
+Comparacoes=1
+[21 ADS 31]
+[87 FAD 65]
+[48 FSA 40]
+Pos=1
+Comparacoes=10
+Pos=-1
+[5 ASA 60]
+[21 ADS 31]
+[48 FSA 40]
+[75 DFW 50]
+[87 FAD 65]
+[5 ASA 60]
+[21 ADS 31]
+[48 FSA 40]
+[75 DFW 50]
+[87 FAD 65]
+Pos=-1
+Pos=3
+Pos=2
+Comparacoes=190
+Pos=20
+Comparacoes=122
+Pos=10
+Comparacoes=40
+[5 ASA 60]
+[21 ADS 31]
+[21 AED 66]
+[21 AWA 55]
+[28 AFW 72]
+[30 SWD 15]
+[34 ASS 78]
+[44 WAA 85]
+[48 DDA 94]
+[48 FSA 40]
+[51 SAS 12]
+[52 EDW 16]
+[57 AWE 4]
+[66 SAD 29]
+[73 FAE 13]
+[75 DFW 50]
+[76 AAA 40]
+[78 AAA 59]
+[78 FAW 2]
+[78 AFE 76]
+[79 AAE 70]
+[87 FAD 65]
+[89 DFF 92]
+[5 ASA 60]
+[21 ADS 31]
+[21 AED 66]
+[21 AWA 55]
+[28 AFW 72]
+[30 SWD 15]
+[34 ASS 78]
+[44 WAA 85]
+[48 DDA 94]
+[48 FSA 40]
+[51 SAS 12]
+[52 EDW 16]
+[57 AWE 4]
+[66 SAD 29]
+[73 FAE 13]
+[75 DFW 50]
+[76 AAA 40]
+[78 AAA 59]
+[78 FAW 2]
+[78 AFE 76]
+[79 AAE 70]
+[87 FAD 65]
+[89 DFF 92]
+[78 DAA 11]
+Comparacoes=300
+Pos=0

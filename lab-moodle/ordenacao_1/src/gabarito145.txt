@@ -1,0 +1,23 @@
+[72 DEF 79]
+[15 FWA 27]
+[99 DSA 54]
+[45 EAA 71]
+[46 FSA 85]
+[18 WAA 62]
+Comparacoes=15
+[15 FWA 27]
+[18 WAA 62]
+[45 EAA 71]
+[46 FSA 85]
+[72 DEF 79]
+[99 DSA 54]
+[15 FWA 27]
+[18 WAA 62]
+[45 EAA 71]
+[46 FSA 85]
+[72 DEF 79]
+[99 DSA 54]
+Comparacoes=15
+Comparacoes=15
+Comparacoes=21
+Comparacoes=36

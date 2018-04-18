@@ -1,0 +1,13 @@
+Comparacoes=1
+Pos=2
+Comparacoes=6
+Pos=1
+[41 SAD 10]
+[50 AWS 80]
+[61 DSA 20]
+[99 DSS 87]
+[2 WAW 89]
+Pos=4
+Comparacoes=10
+Comparacoes=9
+Comparacoes=10

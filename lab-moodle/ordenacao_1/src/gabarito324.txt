@@ -1,0 +1,10 @@
+Comparacoes=0
+Comparacoes=1
+Pos=-1
+Pos=-1
+Comparacoes=1
+[15 EAA 21]
+[5 SEW 77]
+[62 DAA 11]
+[37 SWW 65]
+[51 DFW 65]

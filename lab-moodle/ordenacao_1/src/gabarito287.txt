@@ -1,0 +1,15 @@
+Comparacoes=0
+Comparacoes=5
+Comparacoes=7
+[17 SAA 98]
+[67 EAF 58]
+[72 AWD 39]
+[78 DAA 10]
+[92 WDA 3]
+[80 SAA 92]
+[87 FWA 66]
+[42 WWA 79]
+[72 FFE 16]
+Pos=-1
+Comparacoes=36
+Pos=-1

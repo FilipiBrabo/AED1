@@ -1,0 +1,43 @@
+Comparacoes=0
+Comparacoes=0
+Pos=2
+Pos=-1
+Pos=-1
+Comparacoes=3
+[64 DAF 33]
+[97 EAD 42]
+[50 SES 92]
+Pos=2
+Pos=-1
+Comparacoes=20
+Comparacoes=13
+[45 AAS 44]
+[16 AWW 46]
+[64 DAF 33]
+[4 EAA 73]
+[97 EAD 42]
+[34 FAD 83]
+[98 FSE 45]
+[50 SES 92]
+[36 WAS 37]
+[51 WED 17]
+[58 WAS 16]
+Pos=1
+[45 AAS 44]
+[16 AWW 46]
+[64 DAF 33]
+[4 EAA 73]
+[97 EAD 42]
+[34 FAD 83]
+[98 FSE 45]
+[50 SES 92]
+[36 WAS 37]
+[51 WED 17]
+[58 WAS 16]
+[45 WAD 30]
+[20 EWS 11]
+[16 EAD 11]
+[35 AWA 14]
+[85 SAS 72]
+Pos=-1
+Pos=3

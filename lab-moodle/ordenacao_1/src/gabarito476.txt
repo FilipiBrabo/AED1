@@ -1,0 +1,13 @@
+Pos=0
+[50 ADF 96]
+Pos=1
+[50 ADF 96]
+[23 WDS 37]
+[93 DFD 2]
+[87 WAS 33]
+Comparacoes=6
+[23 WDS 37]
+[50 ADF 96]
+[87 SSS 35]
+[93 DFD 2]
+Comparacoes=3

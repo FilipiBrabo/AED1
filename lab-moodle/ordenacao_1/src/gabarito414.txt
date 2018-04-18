@@ -1,0 +1,4 @@
+Pos=0
+Comparacoes=0
+[21 SSS 86]
+[17 WDS 87]

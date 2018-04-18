@@ -1,0 +1,27 @@
+Pos=0
+Pos=0
+Comparacoes=1
+Pos=0
+Comparacoes=21
+[37 AWF 19]
+[44 SWS 6]
+[64 SDA 49]
+[64 SDW 11]
+[97 FFW 27]
+[98 SSA 29]
+[99 DAW 8]
+[34 SFA 87]
+Comparacoes=13
+Comparacoes=29
+Comparacoes=8
+[37 AWF 19]
+[99 DAW 8]
+[77 FDA 40]
+[97 FFW 27]
+[64 SDA 49]
+[64 SDW 11]
+[34 SFA 87]
+[98 SSA 29]
+[44 SWS 6]
+Pos=0
+Comparacoes=37

@@ -1,0 +1,19 @@
+Comparacoes=1
+Pos=-1
+Pos=-1
+Pos=1
+Comparacoes=6
+Pos=3
+Comparacoes=28
+[19 DDA 25]
+[28 DAS 43]
+[45 EAS 79]
+[67 FEF 96]
+[76 WSE 62]
+[84 AAD 87]
+[88 SAA 44]
+[99 FAD 89]
+[5 AWS 92]
+[87 DSW 58]
+Pos=7
+Comparacoes=45

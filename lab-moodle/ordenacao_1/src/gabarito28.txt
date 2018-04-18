@@ -1,0 +1,9 @@
+Comparacoes=0
+Pos=1
+Pos=1
+[62 SSD 4]
+[42 WWA 12]
+[60 DDW 48]
+Pos=-1
+Pos=-1
+Comparacoes=15

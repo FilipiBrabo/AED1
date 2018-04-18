@@ -1,0 +1,14 @@
+Pos=1
+Comparacoes=3
+Comparacoes=3
+Pos=1
+[60 SDA 72]
+[40 WAS 86]
+[69 WAW 81]
+Comparacoes=2
+[60 SDA 72]
+[40 WAS 86]
+[69 WAW 81]
+[20 AES 47]
+[16 SAA 91]
+Comparacoes=9

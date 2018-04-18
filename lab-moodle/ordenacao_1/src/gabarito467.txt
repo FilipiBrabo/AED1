@@ -1,0 +1,37 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=1
+Pos=-1
+[36 SAA 56]
+[92 WDA 75]
+Pos=0
+[36 SAA 56]
+[92 WDA 75]
+[8 DAF 77]
+Comparacoes=6
+[8 DAF 77]
+[19 ESA 49]
+[36 SAA 56]
+[92 WDA 75]
+[63 DAD 34]
+Comparacoes=15
+Pos=5
+[8 DAF 77]
+[12 DAE 84]
+[19 ESA 49]
+[36 SAA 56]
+[63 DAD 34]
+[92 WDA 75]
+[8 DAF 77]
+[12 DAE 84]
+[19 ESA 49]
+[36 SAA 56]
+[63 DAD 34]
+[92 WDA 75]
+[18 WAA 32]
+Pos=4
+Comparacoes=10
+Pos=-1
+Pos=6
+Comparacoes=36
+Comparacoes=36

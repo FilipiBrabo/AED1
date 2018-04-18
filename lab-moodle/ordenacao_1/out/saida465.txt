@@ -1,0 +1,33 @@
+Comparacoes=6
+Pos=0
+Pos=-1
+[87 AAF 51]
+[60 ASA 48]
+[51 DAE 48]
+[42 FSS 99]
+Pos=1
+[87 AAF 51]
+[60 ASA 48]
+[51 DAE 48]
+[42 FSS 99]
+[75 WSD 82]
+[28 WWS 2]
+Pos=-1
+Comparacoes=11
+Pos=-1
+Pos=2
+Comparacoes=35
+Comparacoes=45
+[9 FWE 92]
+[28 WWS 2]
+[30 AWA 23]
+[42 FSS 99]
+[45 SWD 21]
+[48 SSS 36]
+[51 DAE 48]
+[60 ASA 48]
+[75 WSD 82]
+[87 AAF 51]
+Comparacoes=45
+Comparacoes=42
+Comparacoes=68

@@ -1,0 +1,10 @@
+Comparacoes=0
+[12 FWA 5]
+[79 SAD 83]
+Comparacoes=1
+[12 FWA 5]
+[79 SAD 83]
+[7 ASA 6]
+[57 DAD 31]
+[26 DSE 48]
+Pos=3

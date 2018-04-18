@@ -1,0 +1,43 @@
+Comparacoes=0
+Pos=1
+[74 FFW 90]
+[35 WSA 72]
+Comparacoes=10
+Comparacoes=6
+[5 AES 80]
+[35 WSA 72]
+[53 WAF 14]
+[58 DDW 52]
+[71 AAW 6]
+[74 FFW 90]
+[71 FSD 3]
+Comparacoes=21
+Comparacoes=36
+Pos=3
+[5 AES 80]
+[13 SES 14]
+[35 WSA 72]
+[53 WAF 14]
+[58 DDW 52]
+[71 FSD 3]
+[71 AAW 6]
+[74 FFW 90]
+[90 ASD 21]
+[5 AES 80]
+[13 SES 14]
+[35 WSA 72]
+[53 WAF 14]
+[58 DDW 52]
+[71 FSD 3]
+[71 AAW 6]
+[74 FFW 90]
+[90 ASD 21]
+[5 AES 80]
+[13 SES 14]
+[35 WSA 72]
+[53 WAF 14]
+[58 DDW 52]
+[71 FSD 3]
+[71 AAW 6]
+[74 FFW 90]
+[90 ASD 21]

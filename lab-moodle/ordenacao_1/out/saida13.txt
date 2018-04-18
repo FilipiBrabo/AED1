@@ -1,0 +1,33 @@
+Comparacoes=0
+Comparacoes=1
+[80 DEW 84]
+[43 WWD 60]
+[97 AEF 67]
+[93 EFS 75]
+[80 DEW 84]
+[43 WWD 60]
+[97 AEF 67]
+[93 EFS 75]
+[80 DEW 84]
+[43 WWD 60]
+[97 AEF 67]
+[93 EFS 75]
+[80 DEW 84]
+[43 WWD 60]
+[97 AEF 67]
+[93 EFS 75]
+[86 DSF 47]
+[37 DSD 45]
+Comparacoes=15
+[37 DSD 45]
+[43 WWD 60]
+[80 DEW 84]
+[86 DSF 47]
+[93 EFS 75]
+[97 AEF 67]
+Pos=5
+Pos=4
+Comparacoes=21
+Comparacoes=15
+Pos=5
+Pos=0

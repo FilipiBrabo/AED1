@@ -1,0 +1,43 @@
+Pos=-1
+Pos=0
+Comparacoes=0
+[11 FDA 26]
+Comparacoes=1
+[11 FDA 26]
+[52 EDS 76]
+Pos=-1
+Comparacoes=10
+[11 FDA 26]
+[52 EDS 76]
+[61 ADA 87]
+[84 DDA 26]
+[96 DSD 26]
+[11 FDA 26]
+[52 EDS 76]
+[61 ADA 87]
+[84 DDA 26]
+[96 DSD 26]
+[26 WFW 56]
+Comparacoes=9
+Pos=-1
+[11 FDA 26]
+[26 WFW 56]
+[52 EDS 76]
+[61 ADA 87]
+[84 DDA 26]
+[96 DSD 26]
+[56 AWF 33]
+[50 WAE 32]
+Pos=-1
+Pos=-1
+Pos=5
+Pos=1
+Pos=-1
+Pos=2
+Pos=9
+Comparacoes=48
+Pos=4
+Pos=1
+Comparacoes=66
+Comparacoes=80
+Pos=-1

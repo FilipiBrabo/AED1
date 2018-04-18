@@ -1,0 +1,4 @@
+Pos=-1
+Comparacoes=3
+Pos=2
+Pos=3

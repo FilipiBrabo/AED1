@@ -1,0 +1,20 @@
+[44 WSW 67]
+[41 SDS 35]
+[25 SSA 3]
+[44 WSW 67]
+[41 SDS 35]
+[25 SSA 3]
+[44 WSW 67]
+[41 SDS 35]
+[25 SSA 3]
+[44 WSW 67]
+[41 SDS 35]
+[25 SSA 3]
+Comparacoes=10
+Comparacoes=15
+Pos=-1
+Comparacoes=5
+Pos=-1
+Pos=-1
+Comparacoes=105
+Comparacoes=105

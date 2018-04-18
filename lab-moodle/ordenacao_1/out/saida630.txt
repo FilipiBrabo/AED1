@@ -1,0 +1,54 @@
+Pos=1
+Comparacoes=10
+Comparacoes=21
+Pos=6
+Comparacoes=21
+Pos=0
+Comparacoes=11
+Pos=0
+Comparacoes=8
+Comparacoes=20
+Pos=-1
+Comparacoes=49
+Comparacoes=16
+Comparacoes=105
+[8 SFD 95]
+[9 AEA 95]
+[14 SWA 77]
+[19 DWS 90]
+[22 ADA 63]
+[27 AAA 86]
+[28 EAA 8]
+[30 EFW 55]
+[33 ADD 24]
+[45 WWD 40]
+[55 SFA 84]
+[58 AAS 66]
+[83 WEA 91]
+[91 SDA 92]
+[98 WWS 33]
+[33 AAA 6]
+[39 WAA 7]
+[4 ASD 96]
+[8 SFD 95]
+[9 AEA 95]
+[14 SWA 77]
+[19 DWS 90]
+[22 ADA 63]
+[27 AAA 86]
+[28 EAA 8]
+[30 EFW 55]
+[33 ADD 24]
+[45 WWD 40]
+[55 SFA 84]
+[58 AAS 66]
+[83 WEA 91]
+[91 SDA 92]
+[98 WWS 33]
+[33 AAA 6]
+[39 WAA 7]
+[4 ASD 96]
+[10 WWA 95]
+[46 SSA 44]
+[54 DED 37]
+Comparacoes=107

@@ -1,0 +1,67 @@
+Pos=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=3
+Comparacoes=2
+Pos=-1
+Comparacoes=3
+Comparacoes=3
+Comparacoes=2
+[81 ASS 9]
+[64 FDD 47]
+[62 WWD 48]
+[6 DSW 68]
+[91 EAF 74]
+[45 WSD 56]
+[84 WDE 85]
+[47 EAF 55]
+Pos=1
+Pos=-1
+Comparacoes=18
+[81 ASS 9]
+[6 DSW 68]
+[91 EAF 74]
+[47 EAF 55]
+[64 FDD 47]
+[84 WDE 85]
+[45 WSD 56]
+[62 WWD 48]
+[27 ADW 22]
+[92 AAD 40]
+[81 ASS 9]
+[6 DSW 68]
+[91 EAF 74]
+[47 EAF 55]
+[64 FDD 47]
+[84 WDE 85]
+[45 WSD 56]
+[62 WWD 48]
+[27 ADW 22]
+[92 AAD 40]
+[54 DWA 31]
+Pos=12
+Pos=-1
+Pos=12
+[81 ASS 9]
+[6 DSW 68]
+[91 EAF 74]
+[47 EAF 55]
+[64 FDD 47]
+[84 WDE 85]
+[45 WSD 56]
+[62 WWD 48]
+[27 ADW 22]
+[92 AAD 40]
+[54 DWA 31]
+[7 DSD 71]
+[15 AEA 96]
+[85 WAS 93]
+[10 ASW 93]
+[30 AAD 79]
+[1 SWW 69]
+Comparacoes=108
+Pos=19
+Pos=0
+Comparacoes=231

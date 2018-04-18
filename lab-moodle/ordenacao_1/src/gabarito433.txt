@@ -1,0 +1,45 @@
+Comparacoes=3
+Comparacoes=3
+Comparacoes=3
+Comparacoes=15
+Pos=0
+Pos=4
+[71 AFS 15]
+[11 DSA 8]
+[79 EAD 52]
+[16 SAD 21]
+[45 SAW 90]
+[16 WWF 73]
+[57 AWD 80]
+[17 AAD 31]
+Comparacoes=24
+[11 DSA 8]
+[16 SAD 21]
+[16 WWF 73]
+[17 AAD 31]
+[45 SAW 90]
+[48 ASS 86]
+[57 AWD 80]
+[71 AFS 15]
+[79 EAD 52]
+Comparacoes=55
+[17 AAD 31]
+[71 AFS 15]
+[48 ASS 86]
+[57 AWD 80]
+[3 DDD 72]
+[11 DSA 8]
+[79 EAD 52]
+[16 SAD 21]
+[28 SAD 23]
+[45 SAW 90]
+[16 WWF 73]
+[64 WSS 3]
+[94 FDA 46]
+[98 AWW 60]
+Pos=-1
+Pos=8
+Comparacoes=86
+Comparacoes=231
+Comparacoes=300
+Pos=23

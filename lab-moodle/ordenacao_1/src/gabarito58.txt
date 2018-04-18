@@ -1,0 +1,74 @@
+Comparacoes=0
+Comparacoes=0
+[12 SSW 92]
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=0
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=6
+Comparacoes=6
+Comparacoes=15
+[12 SSW 92]
+[32 FFS 66]
+[44 AWD 23]
+[64 SDD 82]
+[88 AAS 7]
+[97 AWE 74]
+[84 ASW 61]
+[80 SAA 72]
+[30 FAF 9]
+Comparacoes=49
+[88 AAS 7]
+[71 AFA 71]
+[84 ASW 61]
+[44 AWD 23]
+[97 AWE 74]
+[40 DAF 90]
+[70 DFE 71]
+[30 FAF 9]
+[32 FFS 66]
+[80 SAA 72]
+[64 SDD 82]
+[12 SSW 92]
+Pos=-1
+Pos=13
+[88 AAS 7]
+[71 AFA 71]
+[84 ASW 61]
+[44 AWD 23]
+[97 AWE 74]
+[40 DAF 90]
+[70 DFE 71]
+[30 FAF 9]
+[32 FFS 66]
+[80 SAA 72]
+[64 SDD 82]
+[12 SSW 92]
+[28 ADF 97]
+[22 ESA 25]
+[10 DSE 89]
+Pos=1
+Comparacoes=57
+Comparacoes=153
+[10 DSE 89]
+[12 SSW 92]
+[14 DSA 19]
+[22 ESA 25]
+[28 ADF 97]
+[30 FAF 9]
+[32 FFS 66]
+[40 DAF 90]
+[44 AWD 23]
+[45 AFW 46]
+[64 SDD 82]
+[68 EWF 50]
+[70 DFE 71]
+[71 AFA 71]
+[80 SAA 72]
+[84 ASW 61]
+[88 AAS 7]
+[97 AWE 74]

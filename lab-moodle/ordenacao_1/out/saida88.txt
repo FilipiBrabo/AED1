@@ -1,0 +1,17 @@
+Comparacoes=10
+Pos=-1
+Comparacoes=28
+Pos=1
+[5 DDA 83]
+[18 WAW 93]
+[27 DDW 40]
+[33 WDA 45]
+[42 WWS 73]
+[48 WFW 84]
+[63 SSD 51]
+[64 SAA 38]
+[8 FDA 85]
+Pos=6
+Pos=11
+Comparacoes=105
+Pos=-1

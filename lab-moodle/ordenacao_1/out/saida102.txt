@@ -1,0 +1,12 @@
+Pos=-1
+Pos=-1
+Pos=0
+Pos=2
+Comparacoes=15
+[4 AWA 54]
+[6 AWW 48]
+[28 FSA 13]
+[57 SSD 50]
+[74 AAE 40]
+[79 DAW 50]
+Pos=-1

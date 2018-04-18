@@ -1,0 +1,33 @@
+Comparacoes=0
+Pos=-1
+[11 AAS 37]
+[29 DSA 99]
+Pos=-1
+Comparacoes=15
+Comparacoes=7
+[11 AAS 37]
+[27 ASW 46]
+[29 DSA 99]
+[43 ESW 27]
+[54 AAE 42]
+[55 WED 20]
+[57 DAW 28]
+[79 EAA 83]
+[11 AAS 37]
+[27 ASW 46]
+[29 DSA 99]
+[43 ESW 27]
+[54 AAE 42]
+[55 WED 20]
+[57 DAW 28]
+[79 EAA 83]
+[41 WWS 79]
+[53 SWA 68]
+[99 ASD 60]
+Pos=5
+Pos=1
+Pos=1
+Comparacoes=105
+Pos=14
+Comparacoes=80
+Pos=9

@@ -1,0 +1,14 @@
+[21 AWS 14]
+Pos=0
+Comparacoes=1
+Pos=-1
+Pos=-1
+Comparacoes=10
+Pos=-1
+Pos=6
+Comparacoes=36
+Comparacoes=36
+Comparacoes=66
+Pos=10
+Pos=-1
+Comparacoes=120

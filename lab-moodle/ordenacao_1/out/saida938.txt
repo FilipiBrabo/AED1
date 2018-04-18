@@ -1,0 +1,30 @@
+Comparacoes=0
+Pos=2
+[94 WAA 54]
+[26 ASD 5]
+[69 AWA 44]
+Comparacoes=6
+[26 ASD 5]
+[69 AWA 44]
+[38 DWA 1]
+[94 WAA 54]
+[3 WWA 3]
+Comparacoes=7
+Pos=5
+[26 ASD 5]
+[69 AWA 44]
+[38 DWA 1]
+[10 SDS 42]
+[94 WAA 54]
+[3 WWA 3]
+[13 AFS 22]
+[84 AAW 55]
+[28 ADA 28]
+[72 ADW 60]
+[24 ASA 12]
+[41 ASF 74]
+[95 ADS 31]
+[90 SEA 22]
+[51 ADA 85]
+Comparacoes=74
+Pos=2

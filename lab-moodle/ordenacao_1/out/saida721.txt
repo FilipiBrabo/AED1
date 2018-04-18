@@ -1,0 +1,23 @@
+Comparacoes=0
+Pos=-1
+[19 SSS 12]
+[56 DEW 18]
+Pos=0
+Comparacoes=10
+Pos=-1
+Pos=-1
+Comparacoes=15
+Comparacoes=15
+Comparacoes=11
+Comparacoes=21
+Comparacoes=21
+Pos=5
+Comparacoes=14
+[22 AAW 68]
+[34 DAS 61]
+[56 DEW 18]
+[66 DWS 28]
+[88 SAD 43]
+[40 SDD 22]
+[19 SSS 12]
+[43 SAA 50]

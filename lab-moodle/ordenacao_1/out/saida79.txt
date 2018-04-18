@@ -1,0 +1,28 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=3
+Pos=3
+Comparacoes=7
+Pos=1
+Comparacoes=4
+Comparacoes=6
+Comparacoes=10
+Comparacoes=10
+Comparacoes=10
+Pos=-1
+[15 AAA 25]
+[1 ESD 23]
+[53 SAF 89]
+[90 SWF 43]
+[50 WAE 3]
+[52 DSD 4]
+[28 DFF 41]
+[32 DDW 13]
+[46 ADA 90]
+[73 EDA 87]
+[82 DSA 46]
+Pos=4
+Comparacoes=28
+Pos=7
+Pos=-1
+Pos=11

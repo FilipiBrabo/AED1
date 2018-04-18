@@ -1,0 +1,26 @@
+Comparacoes=1
+Comparacoes=3
+Pos=-1
+[62 AAS 13]
+[12 ADA 54]
+[14 EFS 16]
+[59 FFW 40]
+[82 AFA 77]
+Pos=-1
+Pos=4
+Pos=2
+Pos=2
+Comparacoes=21
+Comparacoes=6
+Comparacoes=36
+[62 AAS 13]
+[12 ADA 54]
+[68 AED 84]
+[82 AFA 77]
+[78 DSD 73]
+[14 EFS 16]
+[35 FAA 16]
+[59 FFW 40]
+[99 WAE 10]
+Pos=-1
+Pos=4

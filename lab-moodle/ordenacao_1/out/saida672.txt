@@ -1,0 +1,9 @@
+Pos=-1
+Comparacoes=6
+[10 FAF 24]
+[48 AFW 44]
+[73 AAA 81]
+[95 FSF 16]
+[59 AWW 36]
+Comparacoes=7
+Comparacoes=5

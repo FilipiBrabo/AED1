@@ -1,0 +1,25 @@
+Pos=-1
+Comparacoes=0
+[23 SSD 98]
+[23 SSD 98]
+[13 ADF 23]
+[73 ADS 31]
+Comparacoes=9
+Comparacoes=9
+Pos=1
+[13 ADF 23]
+[23 SSD 98]
+[29 SEW 41]
+[30 ADA 75]
+[73 ADS 31]
+[43 WWW 77]
+Pos=3
+Pos=4
+Comparacoes=19
+Comparacoes=18
+Pos=2
+Comparacoes=7
+Comparacoes=23
+Pos=-1
+Pos=8
+Pos=-1

@@ -1,0 +1,32 @@
+Pos=-1
+Pos=3
+Comparacoes=6
+Comparacoes=5
+Pos=4
+Pos=5
+Comparacoes=21
+Comparacoes=6
+Pos=-1
+Pos=-1
+Pos=3
+[15 DAD 41]
+[37 EFE 41]
+[98 SSA 28]
+[13 WAS 41]
+[37 WAW 81]
+[80 WWE 83]
+[29 WWS 92]
+[42 SDA 63]
+[7 WWA 30]
+[15 DAD 41]
+[37 EFE 41]
+[98 SSA 28]
+[13 WAS 41]
+[37 WAW 81]
+[80 WWE 83]
+[29 WWS 92]
+[42 SDA 63]
+[7 WWA 30]
+Pos=-1
+Comparacoes=45
+Comparacoes=66

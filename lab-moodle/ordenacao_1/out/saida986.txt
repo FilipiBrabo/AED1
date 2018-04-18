@@ -1,0 +1,10 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=1
+[72 AWA 67]
+[80 FAA 3]
+Comparacoes=3
+Comparacoes=2
+Pos=-1
+Pos=-1
+Comparacoes=8

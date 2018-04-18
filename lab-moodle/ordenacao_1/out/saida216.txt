@@ -1,0 +1,21 @@
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=2
+Comparacoes=3
+Pos=-1
+Pos=2
+Comparacoes=9
+[61 AAA 38]
+[16 ADA 59]
+[21 EDE 49]
+[68 WES 36]
+[17 WSF 55]
+[61 AAA 38]
+[16 ADA 59]
+[21 EDE 49]
+[68 WES 36]
+[17 WSF 55]
+[13 DSW 34]
+[49 DSS 15]
+Comparacoes=13

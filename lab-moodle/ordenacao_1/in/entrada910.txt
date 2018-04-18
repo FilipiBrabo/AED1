@@ -1,0 +1,11 @@
+B 40
+I 17 AAW 72
+I 54 DES 82
+O 2 1
+I 98 AWD 87
+O 2 2
+I 32 WAS 17
+M
+B 2
+B 2
+P

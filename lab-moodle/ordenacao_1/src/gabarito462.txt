@@ -1,0 +1,6 @@
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+[85 EWS 99]
+[68 ASW 33]
+[83 SDS 68]

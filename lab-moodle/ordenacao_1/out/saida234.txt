@@ -1,0 +1,23 @@
+Comparacoes=0
+Comparacoes=10
+Comparacoes=9
+Pos=-1
+Comparacoes=10
+Pos=4
+Pos=2
+[29 AAF 8]
+[7 EDS 53]
+[70 FAA 16]
+[24 SWA 17]
+[20 SWD 96]
+Comparacoes=10
+Comparacoes=10
+[7 EDS 53]
+[20 SWD 96]
+[24 SWA 17]
+[29 AAF 8]
+[70 FAA 16]
+[40 DDE 43]
+Comparacoes=17
+Pos=-1
+Comparacoes=40

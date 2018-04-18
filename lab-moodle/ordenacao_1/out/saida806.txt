@@ -1,0 +1,27 @@
+Pos=0
+Comparacoes=1
+Comparacoes=5
+Comparacoes=13
+Comparacoes=15
+Pos=-1
+Pos=4
+Pos=-1
+Comparacoes=45
+[27 AAE 73]
+[27 ADD 54]
+[82 EAE 26]
+[55 EDE 87]
+[39 EFS 78]
+[14 EFW 3]
+[90 FSS 7]
+[59 FWD 73]
+[54 FWF 68]
+[88 SSA 70]
+[91 WEF 76]
+Pos=3
+Comparacoes=66
+Pos=2
+Pos=14
+Pos=12
+Pos=-1
+Comparacoes=120

@@ -1,0 +1,14 @@
+Comparacoes=0
+Pos=-1
+Comparacoes=3
+Comparacoes=2
+Pos=-1
+[29 DFE 95]
+[20 DSW 66]
+[57 ESA 84]
+[41 DSE 38]
+Comparacoes=15
+Comparacoes=21
+Pos=-1
+Pos=-1
+Comparacoes=45

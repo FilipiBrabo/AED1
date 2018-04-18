@@ -1,0 +1,6 @@
+Pos=0
+[95 ADD 20]
+[98 FSA 2]
+Comparacoes=3
+Comparacoes=2
+Pos=2

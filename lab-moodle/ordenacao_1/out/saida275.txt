@@ -1,0 +1,18 @@
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=1
+Pos=1
+Pos=3
+[55 AWW 35]
+[4 WAE 41]
+[11 SSS 99]
+[45 AWW 39]
+[55 AWW 35]
+[4 WAE 41]
+[11 SSS 99]
+[45 AWW 39]
+[51 AAW 90]
+Comparacoes=26

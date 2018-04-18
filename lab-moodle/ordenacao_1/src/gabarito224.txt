@@ -1,0 +1,24 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=0
+[13 SAA 2]
+[20 WDA 7]
+Pos=-1
+Pos=4
+Comparacoes=15
+Pos=4
+Comparacoes=10
+Pos=-1
+[47 ADA 83]
+[49 AEF 47]
+[93 DDE 80]
+[60 DWA 53]
+[60 ESF 40]
+[20 FSA 13]
+[13 SAA 2]
+[15 SEF 19]
+[69 DAW 3]
+Pos=-1
+Comparacoes=15

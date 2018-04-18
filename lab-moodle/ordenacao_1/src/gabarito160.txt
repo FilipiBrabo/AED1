@@ -1,0 +1,17 @@
+Comparacoes=0
+[34 WWS 18]
+Comparacoes=1
+Pos=0
+Comparacoes=3
+Pos=-1
+Comparacoes=5
+Pos=5
+Pos=-1
+[23 SDD 19]
+[34 WWS 18]
+[39 DAS 61]
+[44 DAS 89]
+[33 WAA 37]
+[25 SSS 61]
+Comparacoes=15
+Pos=2

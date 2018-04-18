@@ -1,0 +1,25 @@
+Pos=-1
+Pos=0
+Comparacoes=3
+Pos=2
+Pos=5
+Pos=4
+[17 AAW 90]
+[17 EWD 42]
+[88 WAF 88]
+[67 AWW 14]
+[45 EAF 9]
+[30 AAW 43]
+[91 DAD 90]
+[99 ADA 51]
+[17 AAW 90]
+[17 EWD 42]
+[88 WAF 88]
+[67 AWW 14]
+[45 EAF 9]
+[30 AAW 43]
+[91 DAD 90]
+[99 ADA 51]
+Pos=5
+Pos=2
+Pos=-1

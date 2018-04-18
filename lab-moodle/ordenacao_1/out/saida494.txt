@@ -1,0 +1,51 @@
+Pos=0
+Comparacoes=2
+Comparacoes=6
+[8 SDS 1]
+[51 ADA 4]
+[56 DSE 44]
+[84 WAA 39]
+[24 AEA 1]
+[74 DSD 86]
+[97 EAD 4]
+[73 WDS 55]
+[8 SDS 1]
+[51 ADA 4]
+[56 DSE 44]
+[84 WAA 39]
+[24 AEA 1]
+[74 DSD 86]
+[97 EAD 4]
+[73 WDS 55]
+Pos=6
+Pos=-1
+Comparacoes=55
+Comparacoes=21
+Pos=0
+Comparacoes=105
+Pos=4
+Comparacoes=120
+[8 SDS 1]
+[24 AEA 1]
+[31 SAW 46]
+[35 SDW 72]
+[36 DWW 64]
+[51 ADA 4]
+[55 EES 63]
+[56 DSE 44]
+[60 SWD 67]
+[73 DWF 87]
+[73 WDS 55]
+[74 DSD 86]
+[79 EWW 70]
+[84 WAA 39]
+[91 EAD 42]
+[97 EAD 4]
+[78 AAD 69]
+[35 SAW 56]
+Comparacoes=210
+Comparacoes=325
+Comparacoes=181
+Pos=-1
+Pos=4
+Pos=23

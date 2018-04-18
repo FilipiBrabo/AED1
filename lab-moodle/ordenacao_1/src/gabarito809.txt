@@ -1,0 +1,7 @@
+Pos=0
+[96 ESW 41]
+Pos=-1
+Comparacoes=3
+Comparacoes=10
+Pos=3
+Pos=0

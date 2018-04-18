@@ -1,0 +1,45 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
+[25 WDE 63]
+[29 FAS 84]
+[25 WDE 63]
+[29 FAS 84]
+[60 ASA 31]
+[99 AWS 74]
+[48 AED 75]
+[56 DAD 25]
+[34 EAD 78]
+[56 WSA 29]
+[25 WDE 63]
+[29 FAS 84]
+[60 ASA 31]
+[99 AWS 74]
+[48 AED 75]
+[56 DAD 25]
+[34 EAD 78]
+[56 WSA 29]
+[54 AAD 69]
+[39 SWA 46]
+Pos=-1
+Pos=2
+Pos=9
+Pos=4
+[25 WDE 63]
+[29 FAS 84]
+[60 ASA 31]
+[99 AWS 74]
+[48 AED 75]
+[56 DAD 25]
+[34 EAD 78]
+[56 WSA 29]
+[54 AAD 69]
+[39 SWA 46]
+[28 AES 95]
+[49 ADW 63]
+[56 EAD 18]
+[26 SDF 14]
+[5 AAD 4]
+[53 DWA 4]
+Pos=-1
+Comparacoes=120

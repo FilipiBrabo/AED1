@@ -1,0 +1,17 @@
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=6
+[26 ASS 10]
+[33 ADD 38]
+[68 DAA 5]
+[88 DSS 75]
+[31 ASD 21]
+[65 AWD 61]
+[26 ASS 10]
+[33 ADD 38]
+[68 DAA 5]
+[88 DSS 75]
+[31 ASD 21]
+[65 AWD 61]
+Pos=5

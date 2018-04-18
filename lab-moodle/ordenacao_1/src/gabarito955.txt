@@ -1,0 +1,31 @@
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=-1
+Comparacoes=0
+Pos=-1
+[45 DWD 49]
+[75 AFE 10]
+Comparacoes=1
+Pos=-1
+Comparacoes=1
+Pos=0
+Comparacoes=1
+Comparacoes=5
+[21 ADD 37]
+[45 DWD 49]
+[56 AAF 42]
+[75 AFE 10]
+[14 DSA 41]
+Pos=3
+Comparacoes=36
+Comparacoes=8
+Comparacoes=36
+Comparacoes=16
+Comparacoes=36
+Pos=-1
+Comparacoes=9

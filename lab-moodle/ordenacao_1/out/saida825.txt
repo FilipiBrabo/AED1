@@ -1,0 +1,6 @@
+[96 DWW 34]
+[86 DDW 43]
+Comparacoes=1
+Comparacoes=3
+Pos=-1
+Pos=-1

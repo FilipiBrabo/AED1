@@ -1,0 +1,2 @@
+[26 AAA 79]
+Comparacoes=0

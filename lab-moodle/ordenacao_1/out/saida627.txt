@@ -1,0 +1,10 @@
+Pos=0
+[50 SAS 9]
+[57 EWS 40]
+[86 WWS 14]
+[22 DFE 84]
+[50 SAS 9]
+[57 EWS 40]
+[86 WWS 14]
+[22 DFE 84]
+Comparacoes=10

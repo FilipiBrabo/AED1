@@ -1,0 +1,43 @@
+Comparacoes=0
+[40 SWD 93]
+[18 ESD 61]
+Pos=-1
+Comparacoes=10
+Comparacoes=24
+Pos=3
+Pos=7
+Pos=-1
+[93 AAD 63]
+[71 AAD 79]
+[56 AAD 54]
+[88 DEA 34]
+[95 EFD 93]
+[18 ESD 61]
+[88 FDS 95]
+[22 SFS 26]
+[40 SWD 93]
+[12 ESA 63]
+[93 AAD 63]
+[71 AAD 79]
+[56 AAD 54]
+[88 DEA 34]
+[95 EFD 93]
+[18 ESD 61]
+[88 FDS 95]
+[22 SFS 26]
+[40 SWD 93]
+[12 ESA 63]
+[48 SDD 99]
+Comparacoes=66
+Comparacoes=105
+Comparacoes=14
+Comparacoes=105
+Pos=7
+Pos=13
+Pos=-1
+Pos=-1
+Pos=7
+Pos=11
+Pos=5
+Comparacoes=136
+Pos=15

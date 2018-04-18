@@ -1,0 +1,56 @@
+[54 AES 14]
+Comparacoes=0
+[54 AES 14]
+[93 SFA 90]
+Pos=3
+Pos=5
+Pos=1
+Comparacoes=22
+Comparacoes=8
+Pos=5
+Pos=9
+Pos=8
+Pos=3
+Pos=10
+[54 AES 14]
+[25 AFS 84]
+[11 AWA 64]
+[57 DDW 23]
+[8 EWS 68]
+[93 SFA 90]
+[15 WDD 53]
+[77 WEW 27]
+[24 WSA 79]
+[86 AAE 49]
+[2 AAE 76]
+[87 WAA 84]
+[54 AES 14]
+[25 AFS 84]
+[11 AWA 64]
+[57 DDW 23]
+[8 EWS 68]
+[93 SFA 90]
+[15 WDD 53]
+[77 WEW 27]
+[24 WSA 79]
+[86 AAE 49]
+[2 AAE 76]
+[87 WAA 84]
+Pos=10
+Pos=10
+Pos=1
+[54 AES 14]
+[25 AFS 84]
+[11 AWA 64]
+[57 DDW 23]
+[8 EWS 68]
+[93 SFA 90]
+[15 WDD 53]
+[77 WEW 27]
+[24 WSA 79]
+[86 AAE 49]
+[2 AAE 76]
+[87 WAA 84]
+[14 ESA 99]
+Comparacoes=78
+Pos=-1

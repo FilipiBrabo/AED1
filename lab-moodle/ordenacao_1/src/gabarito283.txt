@@ -1,0 +1,32 @@
+Comparacoes=0
+[11 ADS 22]
+Comparacoes=0
+[11 ADS 22]
+[11 ADS 22]
+[11 ADS 22]
+Comparacoes=0
+Pos=-1
+Comparacoes=6
+[11 ADS 22]
+[26 WEE 27]
+[66 FSS 49]
+[80 AAA 20]
+Pos=-1
+[11 ADS 22]
+[26 WEE 27]
+[66 FSS 49]
+[80 AAA 20]
+[92 AES 14]
+[2 EAA 4]
+[3 AFS 23]
+Comparacoes=21
+Comparacoes=10
+Comparacoes=28
+Pos=4
+Comparacoes=45
+Pos=1
+Pos=-1
+Pos=-1
+Comparacoes=91
+Comparacoes=105
+Comparacoes=90

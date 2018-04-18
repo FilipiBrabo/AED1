@@ -1,0 +1,14 @@
+O 1 1
+I 26 AAF 27
+I 56 ESS 9
+B 1
+I 43 ASE 68
+I 78 DEW 62
+O 1 2
+I 62 FFA 99
+M
+B 1
+O 2 2
+M
+O 2 1
+P

@@ -1,0 +1,25 @@
+Comparacoes=0
+Comparacoes=6
+Pos=-1
+Pos=7
+Pos=8
+Comparacoes=91
+[1 DED 15]
+[14 DSS 2]
+[23 SED 6]
+[28 WAS 9]
+[29 WED 53]
+[40 ADW 96]
+[41 WEA 38]
+[53 WFF 49]
+[61 SWD 41]
+[61 SAA 84]
+[75 WFA 23]
+[83 SDF 10]
+[84 DSW 9]
+[97 WSE 73]
+[84 SAS 99]
+Comparacoes=15
+Pos=10
+Comparacoes=190
+Comparacoes=19

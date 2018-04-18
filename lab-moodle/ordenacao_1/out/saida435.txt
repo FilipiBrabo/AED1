@@ -1,0 +1,49 @@
+Pos=-1
+Pos=1
+Pos=2
+Pos=0
+Comparacoes=12
+[18 AAD 29]
+[12 ASF 9]
+[8 DED 18]
+[76 DWS 57]
+[75 EAD 51]
+[87 WES 94]
+[89 SAS 32]
+[60 ASS 46]
+[85 FWF 40]
+[18 AAD 29]
+[12 ASF 9]
+[8 DED 18]
+[76 DWS 57]
+[75 EAD 51]
+[87 WES 94]
+[89 SAS 32]
+[60 ASS 46]
+[85 FWF 40]
+[18 AAD 29]
+[12 ASF 9]
+[8 DED 18]
+[76 DWS 57]
+[75 EAD 51]
+[87 WES 94]
+[89 SAS 32]
+[60 ASS 46]
+[85 FWF 40]
+[47 SDW 91]
+[43 WSS 10]
+Comparacoes=32
+Comparacoes=31
+Pos=3
+Pos=6
+Pos=-1
+Comparacoes=54
+Comparacoes=117
+Comparacoes=20
+Pos=3
+Comparacoes=122
+Comparacoes=155
+Pos=-1
+Comparacoes=300
+Pos=-1
+Pos=-1

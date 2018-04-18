@@ -1,0 +1,32 @@
+Comparacoes=0
+Comparacoes=1
+Comparacoes=2
+[10 ADE 48]
+[16 ADW 87]
+[82 AWS 18]
+[14 AFA 72]
+[74 WDS 32]
+[10 ADE 48]
+[16 ADW 87]
+[82 AWS 18]
+[14 AFA 72]
+[74 WDS 32]
+Pos=-1
+Comparacoes=18
+Comparacoes=20
+Pos=0
+Comparacoes=27
+[9 DAE 27]
+[10 ADE 48]
+[14 AFA 72]
+[16 ADW 87]
+[31 AWF 60]
+[32 DSS 85]
+[37 SAS 17]
+[59 DDA 53]
+[72 AAW 78]
+[74 WDS 32]
+[82 AWS 18]
+[88 AWD 91]
+Comparacoes=36
+Pos=-1

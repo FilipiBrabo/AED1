@@ -1,0 +1,22 @@
+O 2 2
+M
+M
+M
+O 1 1
+M
+I 25 ASS 54
+O 1 1
+I 71 WFS 64
+O 1 1
+I 83 SSF 8
+I 9 ADD 79
+I 10 WDD 34
+O 2 2
+I 11 AWS 7
+O 2 2
+B 1
+B 12
+I 24 DFE 64
+O 1 1
+B 27
+P

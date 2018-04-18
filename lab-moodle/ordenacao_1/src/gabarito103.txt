@@ -1,0 +1,17 @@
+Pos=-1
+[2 WWS 70]
+[4 WEF 51]
+[74 AEA 67]
+[24 ASE 89]
+[20 AAF 30]
+Pos=2
+[2 WWS 70]
+[4 WEF 51]
+[74 AEA 67]
+[24 ASE 89]
+[20 AAF 30]
+Pos=-1
+Comparacoes=10
+Pos=-1
+Pos=1
+Comparacoes=10

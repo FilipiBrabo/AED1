@@ -1,0 +1,43 @@
+Pos=-1
+Comparacoes=1
+Comparacoes=6
+Pos=-1
+[9 AFA 37]
+[17 EAS 16]
+[29 WAA 23]
+[90 AAW 22]
+[59 AEW 77]
+[80 WAD 15]
+Pos=4
+Comparacoes=21
+Comparacoes=13
+Pos=-1
+Comparacoes=10
+Pos=-1
+Pos=3
+Comparacoes=66
+Comparacoes=78
+Pos=9
+Comparacoes=35
+Comparacoes=67
+Comparacoes=67
+[9 AFA 37]
+[11 ASS 96]
+[15 WSA 14]
+[17 EAS 16]
+[21 AAA 94]
+[29 WAA 23]
+[32 EWS 25]
+[43 FAS 26]
+[57 AEW 79]
+[59 AEW 77]
+[62 SSA 1]
+[63 WSA 79]
+[70 WWA 33]
+[73 AWS 66]
+[80 WAD 15]
+[90 AAW 22]
+[94 WSW 75]
+[27 ASE 1]
+[53 DSS 14]
+Comparacoes=171

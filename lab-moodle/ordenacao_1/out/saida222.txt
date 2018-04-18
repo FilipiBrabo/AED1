@@ -1,0 +1,41 @@
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Comparacoes=1
+Pos=-1
+[5 EES 99]
+[51 SAD 13]
+[62 SSD 69]
+[43 FAA 6]
+[92 FAA 24]
+[37 WAA 77]
+[39 ADA 17]
+[20 SSD 20]
+[3 ADS 97]
+[5 EES 99]
+[51 SAD 13]
+[62 SSD 69]
+[43 FAA 6]
+[92 FAA 24]
+[37 WAA 77]
+[39 ADA 17]
+[20 SSD 20]
+[3 ADS 97]
+Pos=8
+Comparacoes=27
+Comparacoes=10
+Comparacoes=36
+[3 ADS 97]
+[5 EES 99]
+[20 SSD 20]
+[34 WWW 17]
+[37 WAA 77]
+[39 ADA 17]
+[43 FAA 6]
+[43 AFF 55]
+[51 SAD 13]
+[62 SSD 69]
+[82 WSW 30]
+[92 FAA 24]
+Comparacoes=66
+Pos=-1

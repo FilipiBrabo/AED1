@@ -1,0 +1,28 @@
+Comparacoes=0
+Comparacoes=0
+Pos=0
+Pos=0
+[69 DFE 99]
+[38 SAA 72]
+[43 AWW 2]
+[31 ADS 16]
+Pos=3
+Comparacoes=6
+[31 ADS 16]
+[38 SAA 72]
+[43 AWW 2]
+[69 DFE 99]
+Comparacoes=10
+Comparacoes=8
+Comparacoes=15
+Comparacoes=21
+Comparacoes=21
+[31 ADS 16]
+[51 ASD 44]
+[43 AWW 2]
+[50 AWW 27]
+[69 DFE 99]
+[38 SAA 72]
+[45 SSA 4]
+Pos=-1
+Comparacoes=21

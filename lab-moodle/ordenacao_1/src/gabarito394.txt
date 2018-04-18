@@ -1,0 +1,26 @@
+Comparacoes=0
+Pos=1
+Pos=-1
+Pos=1
+Pos=0
+Pos=0
+Pos=2
+Pos=0
+Pos=3
+[72 DSF 10]
+[32 DAD 7]
+[5 DWD 44]
+[19 AEE 39]
+[54 ADD 53]
+Pos=-1
+[72 DSF 10]
+[32 DAD 7]
+[5 DWD 44]
+[19 AEE 39]
+[54 ADD 53]
+[31 EWD 99]
+Pos=2
+Comparacoes=48
+Comparacoes=91
+Pos=-1
+Comparacoes=120

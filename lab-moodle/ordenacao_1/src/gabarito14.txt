@@ -1,0 +1,55 @@
+[20 FAF 46]
+[34 AFS 48]
+[31 ADD 40]
+[89 SAF 45]
+Pos=1
+Comparacoes=10
+Comparacoes=10
+[31 ADD 40]
+[34 AFS 48]
+[67 ASA 78]
+[20 FAF 46]
+[89 SAF 45]
+Pos=3
+Pos=-1
+[31 ADD 40]
+[34 AFS 48]
+[67 ASA 78]
+[20 FAF 46]
+[89 SAF 45]
+[43 SWD 20]
+Pos=-1
+Comparacoes=28
+Comparacoes=28
+[20 FAF 46]
+[31 ADD 40]
+[34 AFS 48]
+[43 SWD 20]
+[46 ADE 43]
+[67 ASA 78]
+[68 AAA 51]
+[89 SAF 45]
+[20 FAF 46]
+[31 ADD 40]
+[34 AFS 48]
+[43 SWD 20]
+[46 ADE 43]
+[67 ASA 78]
+[68 AAA 51]
+[89 SAF 45]
+[65 FFA 40]
+[19 EWS 30]
+[93 SWD 51]
+[20 FAF 46]
+[31 ADD 40]
+[34 AFS 48]
+[43 SWD 20]
+[46 ADE 43]
+[67 ASA 78]
+[68 AAA 51]
+[89 SAF 45]
+[65 FFA 40]
+[19 EWS 30]
+[93 SWD 51]
+Comparacoes=21
+Comparacoes=66

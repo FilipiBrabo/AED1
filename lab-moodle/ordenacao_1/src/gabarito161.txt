@@ -1,0 +1,44 @@
+[87 AAS 78]
+Comparacoes=0
+Comparacoes=1
+Pos=0
+Comparacoes=2
+Pos=-1
+Comparacoes=3
+Pos=2
+Comparacoes=8
+Pos=0
+Pos=0
+Comparacoes=14
+[87 AAS 78]
+[87 ASS 1]
+[5 AWW 22]
+[51 DDD 53]
+[48 ESA 46]
+[19 FDS 72]
+[55 SDA 49]
+[74 SWW 81]
+Comparacoes=36
+Comparacoes=30
+Comparacoes=55
+Pos=9
+Pos=-1
+Pos=12
+Comparacoes=91
+Pos=3
+[87 AAS 78]
+[68 ADE 95]
+[87 ASS 1]
+[52 ASS 41]
+[5 AWW 22]
+[1 DAD 90]
+[51 DDD 53]
+[52 EAW 7]
+[48 ESA 46]
+[19 FDS 72]
+[55 SDA 49]
+[80 SWD 17]
+[74 SWW 81]
+[12 WSA 7]
+[41 WDS 86]
+Pos=0

@@ -1,0 +1,4 @@
+Pos=-1
+Comparacoes=0
+[4 EDA 51]
+Pos=1

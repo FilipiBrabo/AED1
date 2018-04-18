@@ -1,0 +1,9 @@
+Comparacoes=1
+Pos=1
+Pos=-1
+Comparacoes=3
+Comparacoes=2
+[28 AWE 5]
+[91 DAA 61]
+[32 WWA 18]
+[50 WAD 27]

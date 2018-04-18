@@ -1,0 +1,25 @@
+Comparacoes=0
+Comparacoes=6
+Pos=-1
+Pos=1
+Pos=-1
+Comparacoes=7
+Pos=1
+Comparacoes=4
+Comparacoes=15
+[10 ADD 70]
+[35 ADF 14]
+[75 AWE 56]
+[99 DAS 61]
+[21 EFD 41]
+[14 SSS 70]
+[66 DDW 29]
+[10 ADD 70]
+[35 ADF 14]
+[75 AWE 56]
+[99 DAS 61]
+[21 EFD 41]
+[14 SSS 70]
+[66 DDW 29]
+Comparacoes=21
+Pos=4

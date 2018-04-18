@@ -1,0 +1,25 @@
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=4
+Comparacoes=21
+Comparacoes=13
+[20 AAF 14]
+[37 AAS 73]
+[83 AWA 99]
+[82 DSW 62]
+[26 FWE 25]
+[1 SWA 82]
+[72 SWS 32]
+[88 WDW 74]
+[20 AAF 14]
+[37 AAS 73]
+[83 AWA 99]
+[82 DSW 62]
+[26 FWE 25]
+[1 SWA 82]
+[72 SWS 32]
+[88 WDW 74]
+Comparacoes=28
+Comparacoes=7
+Comparacoes=36

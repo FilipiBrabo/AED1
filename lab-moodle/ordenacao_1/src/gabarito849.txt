@@ -1,0 +1,8 @@
+Pos=-1
+Pos=0
+Pos=-1
+[64 EWW 23]
+[46 ESA 24]
+[32 AEA 64]
+[93 SAA 95]
+Comparacoes=4

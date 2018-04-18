@@ -1,0 +1,30 @@
+[77 SAF 48]
+Comparacoes=0
+Pos=1
+[77 SAF 48]
+[21 AAD 53]
+[43 DWW 15]
+[78 WWE 17]
+[52 DSS 93]
+Comparacoes=10
+[21 AAD 53]
+[43 DWW 15]
+[52 DSS 93]
+[77 SAF 48]
+[78 WWE 17]
+Pos=2
+[21 AAD 53]
+[43 DWW 15]
+[52 DSS 93]
+[77 SAF 48]
+[78 WWE 17]
+Pos=4
+Comparacoes=13
+Comparacoes=12
+Pos=3
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=40
+Comparacoes=91
+Comparacoes=74

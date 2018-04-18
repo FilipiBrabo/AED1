@@ -1,0 +1,38 @@
+Comparacoes=0
+Pos=0
+Comparacoes=1
+Pos=1
+Comparacoes=1
+Pos=1
+Pos=1
+[7 SDS 60]
+[77 AAE 3]
+Comparacoes=1
+Comparacoes=3
+Comparacoes=3
+Pos=-1
+Pos=-1
+Comparacoes=4
+Pos=3
+[77 AAE 3]
+[87 AAS 25]
+[7 SDS 60]
+[19 WFA 8]
+[68 FFA 93]
+[77 AAE 3]
+[87 AAS 25]
+[7 SDS 60]
+[19 WFA 8]
+[68 FFA 93]
+[12 FAW 35]
+[77 AAE 3]
+[87 AAS 25]
+[7 SDS 60]
+[19 WFA 8]
+[68 FFA 93]
+[12 FAW 35]
+Pos=-1
+Pos=-1
+Pos=3
+Pos=-1
+Pos=3

@@ -1,0 +1,6 @@
+Comparacoes=0
+Pos=-1
+Pos=0
+[38 EDA 6]
+[39 EAE 24]
+Comparacoes=10

@@ -1,0 +1,10 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
+Comparacoes=6
+[17 WAF 5]
+[24 EAS 31]
+[36 AES 4]
+[56 DAW 35]
+[43 WAW 65]
+Comparacoes=10

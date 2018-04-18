@@ -1,0 +1,43 @@
+Pos=0
+Pos=0
+Comparacoes=15
+Pos=-1
+Comparacoes=21
+[7 ADD 81]
+[70 FAA 74]
+[63 SAW 78]
+[53 SFS 39]
+[76 SWW 73]
+[25 WAA 51]
+[52 WWA 80]
+[25 WAF 71]
+[58 DSA 15]
+[51 EDD 51]
+[70 AFE 31]
+[35 SWW 50]
+[21 AAF 63]
+Pos=12
+[7 ADD 81]
+[70 FAA 74]
+[63 SAW 78]
+[53 SFS 39]
+[76 SWW 73]
+[25 WAA 51]
+[52 WWA 80]
+[25 WAF 71]
+[58 DSA 15]
+[51 EDD 51]
+[70 AFE 31]
+[35 SWW 50]
+[21 AAF 63]
+[4 ADF 54]
+[3 ASE 26]
+Pos=13
+Comparacoes=153
+Comparacoes=171
+Comparacoes=18
+Pos=11
+Pos=2
+Pos=1
+Comparacoes=210
+Pos=15

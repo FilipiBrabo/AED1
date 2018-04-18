@@ -1,0 +1,45 @@
+Comparacoes=5
+[18 AAD 89]
+[27 ADA 27]
+[79 FAA 67]
+[32 SSS 56]
+Comparacoes=3
+Comparacoes=8
+Comparacoes=9
+Pos=-1
+Pos=-1
+Comparacoes=21
+Comparacoes=21
+[18 AAD 89]
+[27 ADA 27]
+[32 SSS 56]
+[41 EAS 85]
+[67 FDA 68]
+[79 FAA 67]
+[98 DSA 68]
+Comparacoes=6
+Pos=-1
+Comparacoes=36
+[18 AAD 89]
+[27 ADA 27]
+[52 ADE 11]
+[65 AFD 35]
+[98 DSA 68]
+[41 EAS 85]
+[79 FAA 67]
+[67 FDA 68]
+[32 SSS 56]
+[18 AAD 89]
+[27 ADA 27]
+[52 ADE 11]
+[65 AFD 35]
+[98 DSA 68]
+[41 EAS 85]
+[79 FAA 67]
+[67 FDA 68]
+[32 SSS 56]
+Comparacoes=36
+Comparacoes=20
+Comparacoes=41
+Comparacoes=45
+Comparacoes=49

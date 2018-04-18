@@ -1,0 +1,55 @@
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Pos=-1
+Pos=-1
+Comparacoes=3
+[40 AAF 23]
+[31 FAW 94]
+[27 SFD 25]
+Pos=2
+Comparacoes=6
+Comparacoes=21
+Comparacoes=6
+Comparacoes=21
+[40 AAF 23]
+[58 ADD 87]
+[31 FAW 94]
+[94 SDS 87]
+[27 SFD 25]
+[39 SWE 64]
+[23 WFD 16]
+Comparacoes=21
+[23 WFD 16]
+[27 SFD 25]
+[31 FAW 94]
+[39 SWE 64]
+[40 AAF 23]
+[58 ADD 87]
+[94 SDS 87]
+Pos=7
+Pos=6
+Comparacoes=63
+Comparacoes=91
+Pos=-1
+Pos=2
+Pos=8
+[14 ADF 99]
+[21 WWD 11]
+[23 WFD 16]
+[27 SFD 25]
+[31 FAW 94]
+[39 SWE 64]
+[40 AAF 23]
+[50 WDE 77]
+[58 ADD 87]
+[59 DSD 14]
+[83 WEW 15]
+[94 SES 25]
+[94 SDS 87]
+[97 AES 5]
+[3 EES 67]
+[82 DWA 70]
+[18 FEA 51]
+[84 DSF 13]

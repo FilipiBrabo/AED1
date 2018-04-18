@@ -1,0 +1,40 @@
+Comparacoes=0
+[23 WDF 70]
+Pos=-1
+Pos=-1
+Comparacoes=10
+Comparacoes=10
+Pos=9
+Comparacoes=45
+[1 EEE 15]
+[8 SEW 62]
+[22 SSA 28]
+[23 WDF 70]
+[39 SDD 58]
+[43 SDE 89]
+[52 AFA 78]
+[63 WAW 72]
+[71 DFW 49]
+[83 WAS 83]
+[9 FDA 32]
+[29 DWW 84]
+[24 SSA 89]
+[12 ASD 44]
+[35 EDA 69]
+[14 AAW 71]
+[1 EEE 15]
+[8 SEW 62]
+[22 SSA 28]
+[23 WDF 70]
+[39 SDD 58]
+[43 SDE 89]
+[52 AFA 78]
+[63 WAW 72]
+[71 DFW 49]
+[83 WAS 83]
+[9 FDA 32]
+[29 DWW 84]
+[24 SSA 89]
+[12 ASD 44]
+[35 EDA 69]
+[14 AAW 71]

@@ -1,0 +1,10 @@
+Pos=0
+Pos=-1
+Comparacoes=0
+Pos=1
+Comparacoes=3
+Comparacoes=2
+[23 DDA 14]
+[59 SAD 72]
+[83 WAA 34]
+Comparacoes=2

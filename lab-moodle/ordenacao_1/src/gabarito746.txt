@@ -1,0 +1,26 @@
+Comparacoes=0
+[86 ASA 30]
+[17 FFA 66]
+[8 DWW 80]
+Pos=2
+Pos=-1
+[86 ASA 30]
+[17 FFA 66]
+[8 DWW 80]
+[93 AWA 61]
+[56 SAF 89]
+Comparacoes=10
+Comparacoes=9
+Pos=-1
+Comparacoes=4
+Comparacoes=10
+Pos=-1
+[8 DWW 80]
+[17 FFA 66]
+[56 SAF 89]
+[86 ASA 30]
+[93 AWA 61]
+[30 SFS 62]
+Comparacoes=21
+Pos=6
+Comparacoes=28

@@ -1,0 +1,47 @@
+Comparacoes=0
+Comparacoes=0
+[94 AAA 96]
+[94 AAA 96]
+[40 DFS 51]
+Pos=-1
+[94 AAA 96]
+[40 DFS 51]
+Pos=-1
+Comparacoes=21
+Pos=4
+Comparacoes=19
+Pos=9
+[66 AAA 33]
+[94 AAA 96]
+[40 DFS 51]
+[72 EDA 96]
+[29 SDS 15]
+[44 SEA 96]
+[19 SFD 32]
+[80 WAD 25]
+[48 SDD 98]
+[42 SSA 14]
+Pos=-1
+Comparacoes=14
+Comparacoes=39
+Pos=5
+Comparacoes=55
+Comparacoes=52
+[19 SFD 32]
+[29 SDS 15]
+[32 EFE 13]
+[40 DFS 51]
+[42 SSA 14]
+[44 SEA 96]
+[48 SAA 47]
+[48 SDD 98]
+[66 AAA 33]
+[72 EDA 96]
+[80 WAD 25]
+[94 AAA 96]
+[44 SSD 74]
+Comparacoes=78
+Comparacoes=15
+Pos=-1
+Pos=15
+Pos=20

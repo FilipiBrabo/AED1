@@ -1,0 +1,30 @@
+Pos=-1
+Comparacoes=1
+Pos=-1
+Pos=0
+Comparacoes=6
+[1 SAD 59]
+[62 FFD 11]
+[74 DAF 78]
+[88 FSS 91]
+[47 ADS 60]
+[31 WSD 32]
+[89 SAF 26]
+Pos=0
+[1 SAD 59]
+[62 FFD 11]
+[74 DAF 78]
+[88 FSS 91]
+[47 ADS 60]
+[31 WSD 32]
+[89 SAF 26]
+[72 AWA 55]
+[1 SAD 59]
+[62 FFD 11]
+[74 DAF 78]
+[88 FSS 91]
+[47 ADS 60]
+[31 WSD 32]
+[89 SAF 26]
+[72 AWA 55]
+[27 AAD 68]

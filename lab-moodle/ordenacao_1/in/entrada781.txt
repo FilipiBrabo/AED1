@@ -1,0 +1,5 @@
+I 89 ESW 44
+I 70 WAS 33
+B 89
+I 60 WSA 19
+P

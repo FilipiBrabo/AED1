@@ -1,0 +1,26 @@
+Comparacoes=4
+Comparacoes=6
+Pos=1
+[46 WAW 2]
+[49 WSS 80]
+[66 WDA 70]
+[99 ASW 81]
+Pos=-1
+[46 WAW 2]
+[49 WSS 80]
+[66 WDA 70]
+[99 ASW 81]
+Comparacoes=3
+Pos=1
+Comparacoes=3
+Comparacoes=6
+Pos=-1
+Pos=-1
+Pos=-1
+[46 WAW 2]
+[49 WSS 80]
+[66 WDA 70]
+[99 ASW 81]
+[26 EDA 98]
+[94 WWD 11]
+[41 AFF 7]

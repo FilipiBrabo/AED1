@@ -1,0 +1,11 @@
+Comparacoes=0
+Pos=-1
+Pos=0
+Comparacoes=1
+[92 ASW 70]
+[68 WSW 5]
+[28 FSA 49]
+Pos=0
+Comparacoes=13
+Pos=-1
+Comparacoes=5

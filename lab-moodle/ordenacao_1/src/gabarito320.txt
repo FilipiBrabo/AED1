@@ -1,0 +1,13 @@
+Pos=1
+Pos=0
+Pos=-1
+[27 WSW 27]
+[2 DDD 41]
+[28 SDA 93]
+Comparacoes=9
+Comparacoes=10
+Comparacoes=10
+Comparacoes=15
+Pos=2
+Comparacoes=21
+Comparacoes=45

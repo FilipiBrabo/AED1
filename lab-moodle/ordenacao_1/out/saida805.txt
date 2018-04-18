@@ -1,0 +1,10 @@
+Pos=-1
+Pos=-1
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+[5 AFS 69]
+[5 AFS 69]
+Comparacoes=0

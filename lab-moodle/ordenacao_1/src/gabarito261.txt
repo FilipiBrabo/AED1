@@ -1,0 +1,35 @@
+[90 AFD 70]
+[89 ESE 5]
+[40 SEA 85]
+Comparacoes=6
+[20 SAW 4]
+[40 SEA 85]
+[89 ESE 5]
+[90 AFD 70]
+[20 SAW 4]
+[40 SEA 85]
+[89 ESE 5]
+[90 AFD 70]
+Pos=-1
+Comparacoes=6
+[20 SAW 4]
+[40 SEA 85]
+[89 ESE 5]
+[90 AFD 70]
+Comparacoes=11
+Comparacoes=36
+Pos=-1
+Comparacoes=8
+Comparacoes=36
+Comparacoes=45
+[9 SDA 56]
+[11 SFD 20]
+[20 SAW 4]
+[30 SWW 47]
+[40 SEA 85]
+[85 AAF 63]
+[89 FDW 51]
+[89 ESE 5]
+[90 AFD 70]
+[91 SAE 65]
+Pos=0

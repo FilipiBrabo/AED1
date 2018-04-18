@@ -1,0 +1,49 @@
+Pos=0
+Pos=1
+Comparacoes=10
+Pos=0
+Comparacoes=8
+Comparacoes=10
+Pos=0
+Pos=1
+[98 AAF 93]
+[1 ASW 96]
+[47 SEF 71]
+[80 SWW 11]
+[58 WWS 88]
+[49 AWA 86]
+[91 FSA 1]
+[60 DDS 91]
+[95 AFW 39]
+[94 DAD 26]
+[58 AAA 20]
+Pos=8
+[98 AAF 93]
+[1 ASW 96]
+[47 SEF 71]
+[80 SWW 11]
+[58 WWS 88]
+[49 AWA 86]
+[91 FSA 1]
+[60 DDS 91]
+[95 AFW 39]
+[94 DAD 26]
+[58 AAA 20]
+[51 AWE 13]
+[8 DWA 31]
+[12 DAD 56]
+[14 DSS 93]
+[73 FSF 30]
+[1 SSS 92]
+[95 AWS 15]
+[68 FAA 63]
+Pos=1
+Comparacoes=171
+Pos=-1
+Pos=0
+Pos=-1
+Comparacoes=152
+Pos=11
+Comparacoes=253
+Pos=17
+Pos=3

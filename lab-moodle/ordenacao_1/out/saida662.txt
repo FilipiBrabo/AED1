@@ -1,0 +1,42 @@
+Comparacoes=0
+[71 DAW 71]
+[67 WFA 11]
+[31 WDS 92]
+[46 WAA 26]
+[71 DAW 71]
+[67 WFA 11]
+[31 WDS 92]
+[46 WAA 26]
+[54 WFF 50]
+[16 DWS 88]
+Pos=-1
+Pos=5
+Pos=4
+Comparacoes=16
+Pos=3
+Pos=10
+[16 DWS 88]
+[31 WDS 92]
+[46 WAA 26]
+[54 WFF 50]
+[67 WFA 11]
+[69 FFF 43]
+[71 DAW 71]
+[73 SWF 76]
+[48 AAD 45]
+[98 FDF 97]
+[81 SDA 14]
+[61 AWW 51]
+Pos=-1
+Pos=11
+Comparacoes=55
+Pos=5
+Comparacoes=19
+Comparacoes=66
+Comparacoes=80
+Comparacoes=120
+Pos=15
+Comparacoes=153
+Comparacoes=122
+Comparacoes=171
+Pos=5

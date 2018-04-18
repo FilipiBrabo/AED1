@@ -1,0 +1,59 @@
+Comparacoes=0
+Pos=-1
+[8 AES 90]
+[31 FDA 77]
+[15 SFS 47]
+[71 SAS 13]
+[86 DAA 97]
+Comparacoes=39
+Comparacoes=55
+Comparacoes=105
+[74 AAD 20]
+[99 ADA 52]
+[25 ADS 4]
+[8 AES 90]
+[86 DAA 97]
+[74 DAD 16]
+[78 DSW 55]
+[49 FAA 23]
+[66 FAW 77]
+[31 FDA 77]
+[71 SAS 13]
+[40 SAW 31]
+[68 SFE 1]
+[15 SFS 47]
+[43 SSA 2]
+Comparacoes=105
+Comparacoes=171
+Pos=8
+Pos=-1
+Comparacoes=171
+Pos=11
+Comparacoes=190
+Comparacoes=210
+Pos=-1
+[74 AAD 20]
+[99 ADA 52]
+[25 ADS 4]
+[13 ADS 59]
+[8 AES 90]
+[86 DAA 97]
+[74 DAD 16]
+[38 DEA 92]
+[78 DSW 55]
+[19 EAA 46]
+[49 FAA 23]
+[66 FAW 77]
+[31 FDA 77]
+[71 SAS 13]
+[40 SAW 31]
+[44 SDW 79]
+[68 SFE 1]
+[15 SFS 47]
+[43 SSA 2]
+[88 WAE 47]
+[22 WWW 77]
+[5 FDA 62]
+Pos=-1
+Comparacoes=276
+Pos=-1

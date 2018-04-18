@@ -1,0 +1,43 @@
+[49 ASW 57]
+[48 DSS 42]
+[87 DAW 22]
+[49 ASW 57]
+[48 DSS 42]
+[87 DAW 22]
+Pos=3
+Pos=-1
+[49 ASW 57]
+[48 DSS 42]
+[87 DAW 22]
+[96 AAA 86]
+[41 WAS 75]
+[15 DWA 92]
+Comparacoes=9
+Comparacoes=17
+[96 AAA 86]
+[49 ASW 57]
+[87 DAW 22]
+[48 DSS 42]
+[15 DWA 92]
+[84 EFA 14]
+[25 FWA 2]
+[39 SSF 76]
+[41 WAS 75]
+[32 WSA 92]
+Comparacoes=20
+Pos=-1
+Comparacoes=78
+[96 AAA 86]
+[49 AEW 14]
+[49 ASW 57]
+[87 DAW 22]
+[49 DDE 52]
+[48 DSS 42]
+[15 DWA 92]
+[84 EFA 14]
+[25 FWA 2]
+[39 SSF 76]
+[29 SSW 19]
+[41 WAS 75]
+[32 WSA 92]
+[81 WDA 98]

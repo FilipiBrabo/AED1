@@ -1,0 +1,27 @@
+Pos=0
+Comparacoes=1
+[55 FAA 15]
+[91 WSD 49]
+[55 FAA 15]
+[91 WSD 49]
+Pos=-1
+Comparacoes=1
+[55 FAA 15]
+[91 WSD 49]
+Pos=0
+Comparacoes=5
+[63 AAF 65]
+[55 FAA 15]
+[8 SWF 98]
+[91 WSD 49]
+[87 SWW 59]
+[63 AAF 65]
+[55 FAA 15]
+[8 SWF 98]
+[91 WSD 49]
+[87 SWW 59]
+Comparacoes=5
+Pos=-1
+Pos=-1
+Pos=6
+Pos=-1

@@ -1,0 +1,28 @@
+Comparacoes=0
+[3 EAA 70]
+Comparacoes=21
+Comparacoes=6
+Comparacoes=21
+Pos=-1
+Pos=-1
+Comparacoes=22
+Comparacoes=9
+[3 EAA 70]
+[5 ADW 96]
+[21 ADS 50]
+[23 ASA 39]
+[29 EAF 9]
+[57 AAA 87]
+[67 FFD 26]
+[75 DWW 41]
+[86 ADW 95]
+[98 WWW 5]
+Pos=-1
+Pos=2
+Pos=7
+Comparacoes=66
+Comparacoes=36
+Comparacoes=78
+Comparacoes=78
+Comparacoes=78
+Pos=-1

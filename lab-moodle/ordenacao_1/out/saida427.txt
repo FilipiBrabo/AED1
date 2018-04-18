@@ -1,0 +1,7 @@
+Pos=-1
+Pos=3
+Pos=0
+Comparacoes=13
+Pos=4
+Pos=-1
+Comparacoes=66

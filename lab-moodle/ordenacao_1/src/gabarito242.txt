@@ -1,0 +1,18 @@
+Comparacoes=0
+Pos=-1
+Pos=-1
+[59 DAW 91]
+[55 DED 98]
+Comparacoes=6
+Pos=3
+[55 DED 98]
+[59 DAW 91]
+[72 WAA 60]
+[98 SAA 47]
+[6 DAA 77]
+[55 DED 98]
+[59 DAW 91]
+[72 WAA 60]
+[98 SAA 47]
+[6 DAA 77]
+[24 FSW 82]

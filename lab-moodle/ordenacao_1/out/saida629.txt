@@ -1,0 +1,62 @@
+Pos=-1
+Comparacoes=3
+Pos=-1
+Pos=1
+[16 SAA 82]
+[55 AWS 97]
+[70 SSD 58]
+[17 ADS 99]
+[4 AWF 11]
+[72 FWW 3]
+[16 SAA 82]
+[55 AWS 97]
+[70 SSD 58]
+[17 ADS 99]
+[4 AWF 11]
+[72 FWW 3]
+[84 FFA 36]
+[16 SAA 82]
+[55 AWS 97]
+[70 SSD 58]
+[17 ADS 99]
+[4 AWF 11]
+[72 FWW 3]
+[84 FFA 36]
+[97 AWE 73]
+[64 SWS 81]
+Pos=5
+Pos=-1
+Comparacoes=55
+[4 AWF 11]
+[16 SAA 82]
+[17 ADS 99]
+[20 AWD 86]
+[55 AWS 97]
+[60 AEW 21]
+[64 SWS 81]
+[70 SSD 58]
+[72 FWW 3]
+[84 FFA 36]
+[97 AWE 73]
+Pos=-1
+Pos=12
+Comparacoes=33
+Comparacoes=91
+[4 AWF 11]
+[16 SAA 82]
+[17 ADS 99]
+[20 AWD 86]
+[27 SSF 26]
+[48 AAD 47]
+[55 AWS 97]
+[60 AEW 21]
+[62 ASD 82]
+[64 SWS 81]
+[70 SSD 58]
+[72 FWW 3]
+[84 FFA 36]
+[97 AWE 73]
+[80 WDW 98]
+[86 ADS 23]
+[48 SAA 41]
+Pos=9

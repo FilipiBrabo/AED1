@@ -1,0 +1,17 @@
+Pos=-1
+Comparacoes=0
+Pos=0
+Pos=0
+Comparacoes=5
+Pos=-1
+Comparacoes=14
+Comparacoes=11
+Pos=-1
+[6 AAA 48]
+[25 AAS 61]
+[38 ASA 19]
+[62 SDS 41]
+[85 DAE 78]
+[87 DWA 79]
+[88 ASW 12]
+[78 WSD 5]

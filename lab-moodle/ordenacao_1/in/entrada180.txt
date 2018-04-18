@@ -1,0 +1,9 @@
+I 42 AAA 32
+M
+I 63 SSA 54
+B 63
+I 37 AWA 68
+M
+I 47 SAE 74
+M
+P

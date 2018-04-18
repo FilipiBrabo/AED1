@@ -1,0 +1,10 @@
+B 27
+O 2 1
+O 2 2
+O 1 1
+O 1 2
+I 86 ADA 1
+M
+I 20 AWA 63
+I 8 ASA 30
+P

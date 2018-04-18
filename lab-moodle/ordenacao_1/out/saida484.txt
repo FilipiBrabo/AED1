@@ -1,0 +1,20 @@
+Comparacoes=5
+Pos=-1
+Pos=2
+[16 DSA 81]
+[40 AWE 52]
+[43 EEW 81]
+[84 WSW 88]
+[11 EAA 72]
+[16 DSA 81]
+[40 AWE 52]
+[43 EEW 81]
+[84 WSW 88]
+[11 EAA 72]
+Pos=-1
+Pos=-1
+Comparacoes=21
+Comparacoes=6
+Pos=3
+Pos=6
+Pos=-1

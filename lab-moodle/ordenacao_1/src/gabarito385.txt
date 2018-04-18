@@ -1,0 +1,18 @@
+[97 AFA 16]
+Comparacoes=0
+Comparacoes=1
+Pos=4
+Pos=3
+Comparacoes=15
+Comparacoes=21
+Comparacoes=21
+[57 AEW 59]
+[97 AFA 16]
+[98 DAE 44]
+[6 FDD 21]
+[59 WEA 53]
+[2 WEA 89]
+[3 WWD 52]
+[1 ASA 10]
+[88 FDA 36]
+[34 EAD 49]
