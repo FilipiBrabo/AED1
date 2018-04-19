@@ -23,7 +23,7 @@ node newNode(int ra, int nota, char *nome){
   return x;
 }
 
-//insere um no
+//insere um nó
 void insertNode(node* lista, node x) {
   if (*lista == NULL){
   	*lista = x;
@@ -37,7 +37,7 @@ void insertNode(node* lista, node x) {
   }else{
     aux->ra = x->ra;
     aux->nome = x->nome;
-    aux->nota = x->nota; 
+    aux->nota = x->nota;     
   }
 }
 

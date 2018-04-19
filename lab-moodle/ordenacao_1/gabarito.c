@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//estruturas auxiliares para o código
+//estruturas auxiliares para o código.
 
 typedef struct linkedNode linkedNode;
 struct linkedNode{

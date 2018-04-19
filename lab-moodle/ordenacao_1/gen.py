@@ -12,7 +12,7 @@ for i in range(1, N + 1):
     nome = './in/entrada' + str(i) + '.txt'
     nint = rd.randint(1, MAXTEST)
     arq = open(nome, 'w')
-################################################################################
+###############################################################################
     ops = "IIIIIMBBOO"
     for j in range(nint):
         x = rd.randint(0, 9)
