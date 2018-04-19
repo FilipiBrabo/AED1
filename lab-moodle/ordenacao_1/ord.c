@@ -113,7 +113,7 @@ long int insertionSort(node *head, int campo) {
 			nextJ->ant = i;
 
 			prevI->prox = nextI;
-			if (nextI){
+			if (nextI){ //se existe o nó nextI
 				nextI->ant = prevI;
 			} 
 
@@ -129,7 +129,7 @@ long int insertionSort(node *head, int campo) {
 			nextJ->ant = i;
 
 			prevI->prox = nextI;
-			if (nextI){
+			if (nextI){	//se existe o nó nextI
 				nextI->ant = prevI;
 		  	}
 		}
