@@ -1,33 +1,6 @@
-Pos=-1
-Pos=0
+Comparacoes=3
 Pos=1
-Comparacoes=21
-[31 SAD 52]
-[40 WDD 91]
-[76 FAS 8]
-[78 DSW 9]
-[81 WSF 35]
-[93 SSF 10]
-[97 WFW 19]
-[31 SAD 52]
-[40 WDD 91]
-[76 FAS 8]
-[78 DSW 9]
-[81 WSF 35]
-[93 SSF 10]
-[97 WFW 19]
-Pos=8
-Comparacoes=23
+Pos=0
+Pos=0
+Comparacoes=15
 Pos=-1
-[21 WFD 18]
-[31 SAD 52]
-[40 WDD 91]
-[65 SAE 86]
-[76 FAS 8]
-[78 DSW 9]
-[81 WSF 35]
-[85 WAF 74]
-[93 SSF 10]
-[97 DWE 34]
-Pos=7
-Comparacoes=46

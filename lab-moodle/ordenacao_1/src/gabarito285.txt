@@ -1,10 +1,40 @@
-Comparacoes=0
-[12 FWA 5]
-[79 SAD 83]
-Comparacoes=1
-[12 FWA 5]
-[79 SAD 83]
-[7 ASA 6]
-[57 DAD 31]
-[26 DSE 48]
-Pos=3
+Pos=0
+Pos=0
+Pos=5
+Pos=5
+Pos=5
+Pos=4
+Comparacoes=43
+Pos=0
+Comparacoes=12
+Pos=4
+Pos=-1
+Comparacoes=120
+Comparacoes=136
+Comparacoes=48
+Comparacoes=231
+[10 AAW 74]
+[19 WAW 97]
+[23 SSS 91]
+[27 AEA 13]
+[32 ASA 31]
+[36 AFW 55]
+[39 AFA 95]
+[40 DDD 71]
+[41 SFA 39]
+[41 FFA 93]
+[41 DFS 90]
+[53 SAD 72]
+[55 WDW 12]
+[56 AWW 41]
+[60 SSD 26]
+[75 DAS 81]
+[86 DWA 10]
+[86 SSA 41]
+[86 ASS 45]
+[89 WAE 17]
+[93 WWA 90]
+[98 FWA 13]
+[73 AAE 65]
+[49 AAW 88]
+[36 SAW 91]

@@ -1,4 +1,28 @@
+Pos=-1
+Pos=-1
 Pos=0
 Comparacoes=0
-[21 SSS 86]
-[17 WDS 87]
+Pos=0
+[78 AFD 49]
+Pos=-1
+Pos=-1
+Comparacoes=6
+Pos=-1
+[19 AAS 5]
+[78 AFD 49]
+[78 SWA 69]
+[90 WDS 97]
+[86 SDS 86]
+[52 FSA 81]
+[62 DAS 27]
+[24 AAD 9]
+[39 EAD 58]
+Comparacoes=29
+Pos=-1
+Comparacoes=45
+Pos=3
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=14
+Comparacoes=78

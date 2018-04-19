@@ -1,26 +1,4 @@
-[78 FAA 9]
+[78 AAA 82]
 Comparacoes=0
-Comparacoes=1
-[40 DAF 3]
-[78 FAA 9]
-[48 ASE 99]
-Comparacoes=36
-Comparacoes=66
-Comparacoes=78
-[48 ASE 99]
-[13 ASW 66]
-[55 AWE 48]
-[40 DAF 3]
-[57 DAS 70]
-[89 EDW 22]
-[66 EFD 96]
-[78 FAA 9]
-[95 FAS 16]
-[52 FFE 11]
-[79 FWW 21]
-[95 WAW 68]
-[98 WFD 82]
-[21 WSS 68]
-[81 WFD 95]
-Comparacoes=42
-Comparacoes=73
+Comparacoes=0
+Pos=-1

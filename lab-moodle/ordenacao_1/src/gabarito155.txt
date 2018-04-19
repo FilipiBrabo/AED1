@@ -1,1 +1,44 @@
+[74 SWE 83]
 Comparacoes=0
+Comparacoes=10
+[56 ASD 89]
+[3 DAW 99]
+[74 SWE 83]
+[2 WDE 43]
+[94 WWS 76]
+[42 SAE 96]
+[56 ASD 89]
+[3 DAW 99]
+[74 SWE 83]
+[2 WDE 43]
+[94 WWS 76]
+[42 SAE 96]
+[54 EDA 52]
+Comparacoes=53
+Pos=0
+Pos=5
+[2 WDE 43]
+[3 DAW 99]
+[4 EAS 79]
+[23 DAA 44]
+[42 SAE 96]
+[45 SDD 61]
+[46 DAA 98]
+[54 EDA 52]
+[56 ASD 89]
+[65 ASA 76]
+[74 SWE 83]
+[82 DAF 82]
+[87 AAS 48]
+[94 WWS 76]
+[74 FDS 32]
+[41 ASE 78]
+[45 EWE 73]
+[29 WSA 46]
+[61 WWS 93]
+[6 FDA 70]
+Pos=5
+Comparacoes=190
+Pos=0
+Pos=14
+Comparacoes=135

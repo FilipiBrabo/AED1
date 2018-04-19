@@ -1,25 +1,16 @@
+Comparacoes=0
 Pos=-1
-Pos=0
-[82 FEW 14]
-[79 AAW 67]
-[82 FEW 14]
-[79 AAW 67]
-[51 AWE 49]
+[95 FAW 62]
+[80 EFE 22]
 Comparacoes=3
-Comparacoes=5
+Comparacoes=6
+Pos=-1
+Comparacoes=15
+Pos=2
+Pos=2
+Pos=6
+Pos=0
+Pos=2
+Comparacoes=40
+Pos=2
 Pos=4
-[79 AAW 67]
-[51 AWE 49]
-[82 FEW 14]
-[95 SAD 90]
-[29 WSA 67]
-[84 WSE 75]
-[71 DWA 82]
-[74 SSA 31]
-[52 DAD 55]
-Comparacoes=36
-Pos=-1
-Comparacoes=37
-Comparacoes=28
-Pos=-1
-Comparacoes=53

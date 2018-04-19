@@ -1,5 +1,4 @@
-Pos=0
-Comparacoes=0
-[58 AAD 90]
-[6 AAA 72]
 Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1

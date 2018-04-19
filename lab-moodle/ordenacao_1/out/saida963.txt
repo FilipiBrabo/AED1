@@ -1,37 +1,22 @@
 Pos=-1
-Pos=0
-Pos=0
-[55 EWD 69]
-Pos=0
-Pos=-1
-[55 EWD 69]
-[55 EWD 69]
 Comparacoes=0
-Pos=0
-[55 EWD 69]
-[70 EDW 68]
-[46 DAW 43]
-[97 WSE 14]
+[85 WDS 44]
+[7 SDE 25]
 Pos=-1
+[85 WDS 44]
+[7 SDE 25]
+[93 SFW 96]
+[95 SAW 32]
+[75 EAS 82]
 Pos=-1
-Pos=-1
-Pos=6
-Comparacoes=28
-Comparacoes=45
-Comparacoes=35
-Pos=-1
-[8 DEA 34]
-[45 SSF 10]
-[46 DAW 43]
-[48 SDE 15]
-[55 EWD 69]
-[63 AAA 50]
-[70 EDW 68]
-[74 DDW 76]
-[77 WAE 37]
-[92 AAA 6]
-[97 WSE 14]
-[41 FAE 37]
-[30 WAS 3]
-Pos=-1
-Pos=15
+Comparacoes=24
+[7 SDE 25]
+[29 SAA 28]
+[38 SSW 91]
+[67 FSD 18]
+[75 EAS 82]
+[85 WDS 44]
+[93 SFW 96]
+[95 SAW 32]
+Comparacoes=55
+Comparacoes=91

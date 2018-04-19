@@ -1,4 +1,57 @@
 Pos=-1
+[93 SED 26]
+Pos=0
+Comparacoes=3
+Comparacoes=6
+Pos=1
+[7 AAA 80]
+[63 AWD 47]
+[69 ADW 66]
+[93 SED 26]
+[8 WDA 44]
+[72 DAW 1]
+Pos=4
 Pos=-1
-Comparacoes=0
-Comparacoes=1
+Pos=3
+Pos=3
+Pos=6
+[7 AAA 80]
+[63 AWD 47]
+[69 ADW 66]
+[93 SED 26]
+[8 WDA 44]
+[72 DAW 1]
+[64 DFA 3]
+[94 EWS 40]
+[90 EAS 83]
+[16 WAD 80]
+Comparacoes=20
+Comparacoes=66
+[5 AFE 39]
+[7 AAA 80]
+[8 WDA 44]
+[16 WAD 80]
+[40 AWD 61]
+[63 AWD 47]
+[64 DFA 3]
+[69 ADW 66]
+[72 DAW 1]
+[90 EAS 83]
+[93 SED 26]
+[94 EWS 40]
+Pos=5
+[5 AFE 39]
+[7 AAA 80]
+[8 WDA 44]
+[16 WAD 80]
+[40 AWD 61]
+[63 AWD 47]
+[64 DFA 3]
+[69 ADW 66]
+[72 DAW 1]
+[90 EAS 83]
+[93 SED 26]
+[94 EWS 40]
+[84 FWA 85]
+[96 AEA 33]
+Pos=5

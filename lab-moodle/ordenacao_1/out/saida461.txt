@@ -1,5 +1,20 @@
+[73 SDD 73]
+[83 ADA 95]
 Pos=-1
-Comparacoes=0
+Comparacoes=1
+Pos=-1
+Comparacoes=1
+[73 SDD 73]
+[83 SWF 83]
+Pos=1
+[73 SDD 73]
+[83 SWF 83]
+[44 EDD 42]
+Comparacoes=3
+Pos=2
+Comparacoes=15
+Pos=9
+Pos=9
 Pos=-1
 Pos=-1
-Pos=-1
+Comparacoes=66

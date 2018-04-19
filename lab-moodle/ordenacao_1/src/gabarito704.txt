@@ -1,9 +1,13 @@
-Comparacoes=0
+Pos=-1
 Comparacoes=0
 Pos=-1
-[70 FAS 24]
 Comparacoes=0
 Pos=-1
-Pos=0
-Comparacoes=0
-Pos=0
+[36 DAA 2]
+[7 FDS 49]
+Comparacoes=1
+Comparacoes=1
+Pos=-1
+Pos=2
+Comparacoes=17
+Pos=1

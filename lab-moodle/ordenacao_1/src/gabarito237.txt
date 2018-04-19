@@ -1,20 +1,19 @@
-Comparacoes=0
-Comparacoes=0
-[51 WDS 33]
-[34 SDA 67]
-[12 DWA 59]
-[67 WES 81]
-[27 DDF 48]
-[90 FAD 58]
-Comparacoes=12
-[27 DDF 48]
-[12 DWA 59]
-[90 FAD 58]
-[34 SDA 67]
-[51 WDS 33]
-[67 WES 81]
-[19 DAA 36]
-[51 ASW 85]
 Pos=-1
+[26 SWA 26]
+Comparacoes=0
+Pos=-1
+Pos=0
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=20
+Pos=6
+Pos=10
 Pos=3
-Comparacoes=55
+Pos=4
+Pos=9
+Pos=2
+Pos=10
+Comparacoes=81
+Comparacoes=171
+Comparacoes=91

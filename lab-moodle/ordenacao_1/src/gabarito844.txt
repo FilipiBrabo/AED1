@@ -1,2 +1,46 @@
-Pos=-1
-Comparacoes=0
+Comparacoes=1
+Pos=0
+[1 ADA 40]
+[62 SSW 61]
+[78 DDA 52]
+[27 SWE 79]
+[6 SDF 18]
+[1 ADA 40]
+[62 SSW 61]
+[78 DDA 52]
+[27 SWE 79]
+[6 SDF 18]
+[63 SAD 85]
+[2 DAA 83]
+[53 FDA 12]
+[38 AAA 41]
+Comparacoes=30
+Comparacoes=8
+Comparacoes=8
+[38 AAA 41]
+[1 ADA 40]
+[2 DAA 83]
+[78 DDA 52]
+[53 FDA 12]
+[63 SAD 85]
+[6 SDF 18]
+[62 SSW 61]
+[27 SWE 79]
+Pos=5
+Comparacoes=36
+Comparacoes=45
+Comparacoes=55
+Pos=10
+Comparacoes=10
+[38 AAA 41]
+[1 ADA 40]
+[2 DAA 83]
+[78 DDA 52]
+[53 FDA 12]
+[63 SAD 85]
+[58 SDA 59]
+[95 SDE 41]
+[6 SDF 18]
+[62 SSW 61]
+[27 SWE 79]
+[80 ADA 49]

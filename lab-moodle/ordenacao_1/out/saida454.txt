@@ -1,43 +1,12 @@
+[44 SSW 2]
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+[44 SSW 2]
+[67 WDW 97]
 Pos=-1
 Pos=-1
-Pos=-1
-Pos=0
-[92 SWW 13]
-[50 EAF 45]
-Pos=4
-Comparacoes=36
-[37 AAF 40]
-[33 AFW 81]
-[8 DAW 19]
-[50 EAF 45]
-[1 EFD 97]
-[85 FFW 62]
-[35 FSS 26]
-[6 SWA 59]
-[92 SWW 13]
-[37 AAF 40]
-[33 AFW 81]
-[8 DAW 19]
-[50 EAF 45]
-[1 EFD 97]
-[85 FFW 62]
-[35 FSS 26]
-[6 SWA 59]
-[92 SWW 13]
-[54 SWS 23]
-Comparacoes=24
-Comparacoes=55
-[37 AAF 40]
-[33 AFW 81]
-[8 DAW 19]
-[50 EAF 45]
-[1 EFD 97]
-[85 FFW 62]
-[35 FSS 26]
-[62 SAW 36]
-[6 SWA 59]
-[54 SWS 23]
-[92 SWW 13]
+Pos=1
 Comparacoes=10
 Comparacoes=27
-Comparacoes=38
+Comparacoes=78

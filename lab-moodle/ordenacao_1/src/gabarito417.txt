@@ -1,3 +1,16 @@
-Pos=1
+Pos=0
 Comparacoes=3
 Comparacoes=3
+Pos=-1
+[93 AFW 35]
+[74 FDS 32]
+[3 SDA 28]
+[85 DDW 27]
+Pos=4
+[93 AFW 35]
+[74 FDS 32]
+[3 SDA 28]
+[85 DDW 27]
+[19 WSD 27]
+[74 EFS 55]
+Pos=-1

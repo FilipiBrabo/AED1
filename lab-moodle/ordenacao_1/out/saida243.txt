@@ -1,11 +1,1 @@
-Comparacoes=0
-[29 SSE 34]
-Pos=0
-[29 SSE 34]
-[47 ADE 68]
-[96 DWD 69]
 Pos=-1
-[29 SSE 34]
-[47 ADE 68]
-[96 DWD 69]
-[78 AWA 89]

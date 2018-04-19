@@ -1,8 +1,24 @@
-[19 ESS 53]
-[19 ESS 53]
-Comparacoes=6
-[19 ESS 53]
-[32 EDF 18]
-[45 EWS 41]
-[66 AFE 76]
-Comparacoes=10
+Pos=0
+Pos=1
+Comparacoes=15
+Comparacoes=21
+Comparacoes=20
+[91 AAA 34]
+[71 ADS 11]
+[14 DAD 43]
+[48 DDS 29]
+[22 EDS 37]
+[47 SFE 3]
+[6 WDD 71]
+Pos=1
+Pos=-1
+[91 AAA 34]
+[71 ADS 11]
+[14 DAD 43]
+[48 DDS 29]
+[22 EDS 37]
+[47 SFE 3]
+[6 WDD 71]
+[44 WDF 19]
+[9 EWS 84]
+[68 AWS 71]

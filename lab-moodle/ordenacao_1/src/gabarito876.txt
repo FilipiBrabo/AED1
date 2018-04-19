@@ -1,6 +1,26 @@
 Pos=-1
-Pos=0
-Pos=1
-Pos=1
-Pos=3
-Pos=4
+Comparacoes=0
+[16 DWW 69]
+[12 WAA 96]
+Comparacoes=6
+Comparacoes=6
+Comparacoes=10
+Comparacoes=6
+Comparacoes=17
+Comparacoes=19
+Pos=-1
+[75 ASE 95]
+[16 DWW 69]
+[65 FAS 42]
+[19 FDA 89]
+[53 SSE 14]
+[26 SWF 23]
+[12 WAA 96]
+Pos=2
+[75 ASE 95]
+[16 DWW 69]
+[65 FAS 42]
+[19 FDA 89]
+[53 SSE 14]
+[26 SWF 23]
+[12 WAA 96]

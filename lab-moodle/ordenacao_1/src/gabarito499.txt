@@ -1,22 +1,7 @@
-[1 EDS 86]
-[54 DAW 20]
-Comparacoes=9
-Comparacoes=15
-Comparacoes=15
-Comparacoes=5
-Pos=2
-Pos=4
-Comparacoes=18
-[1 EDS 86]
-[14 AWE 25]
-[30 AAS 7]
-[31 AES 51]
-[49 WSA 78]
-[54 DAW 20]
-[88 DWS 74]
-[89 FFW 24]
-[90 DDA 42]
-[63 WSW 60]
-[28 SAS 84]
+Comparacoes=0
+Comparacoes=0
+[60 DAW 82]
 Pos=-1
-Comparacoes=91
+Pos=-1
+Comparacoes=3
+Pos=2

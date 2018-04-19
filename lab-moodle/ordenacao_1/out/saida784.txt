@@ -1,7 +1,13 @@
 Pos=-1
 Comparacoes=0
-Pos=-1
+Pos=0
 Comparacoes=0
-Comparacoes=0
+[26 EFS 18]
 Pos=-1
 Pos=0
+Comparacoes=3
+[49 AWA 58]
+[26 EFS 18]
+[7 FAS 43]
+[73 SWA 84]
+[55 DFA 2]

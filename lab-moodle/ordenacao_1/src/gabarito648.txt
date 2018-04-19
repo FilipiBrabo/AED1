@@ -1,3 +1,7 @@
-Comparacoes=0
-Comparacoes=0
-[20 AEA 49]
+Pos=1
+Pos=0
+[64 SFA 1]
+[87 DEW 72]
+[55 AWW 36]
+[91 DAA 59]
+[50 WWD 58]

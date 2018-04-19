@@ -1,8 +1,40 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
 Pos=-1
-[97 AAA 97]
-[97 AAA 97]
+Pos=5
+Comparacoes=28
+Pos=6
+Pos=-1
+Pos=4
+Comparacoes=41
+Comparacoes=59
+[1 SAA 91]
+[2 SAA 20]
+[7 SWA 3]
+[11 SAW 6]
+[12 DSD 12]
+[26 AAW 46]
+[30 AFF 27]
+[60 WSE 1]
+[63 ESW 57]
+[63 WAW 26]
+[64 ADD 76]
+[66 ASF 91]
+[74 WAD 7]
+[94 DSW 17]
+[28 WSW 12]
+[29 WSS 35]
+[1 WWA 24]
+[56 DEW 40]
 Pos=1
-[97 AAA 97]
-[13 SWA 66]
-[61 SES 36]
-Comparacoes=3
+Comparacoes=92
+Comparacoes=127
+Comparacoes=127
+Pos=-1
+Pos=9
+Comparacoes=276
+Comparacoes=166
+Pos=-1

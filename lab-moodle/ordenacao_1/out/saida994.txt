@@ -1,12 +1,33 @@
-Comparacoes=0
-Comparacoes=0
-Pos=0
-Comparacoes=0
-Comparacoes=0
 Comparacoes=3
 Pos=-1
-Comparacoes=6
+[48 SWE 75]
+[71 AAS 16]
+[98 DSS 26]
+[40 EFW 37]
+[37 AEW 16]
 Pos=0
+Pos=0
+Comparacoes=15
+Comparacoes=13
+Comparacoes=15
+Comparacoes=28
+Comparacoes=23
+Comparacoes=28
+Comparacoes=45
+Pos=7
 Pos=-1
-Pos=-1
-Pos=6
+Comparacoes=66
+Pos=9
+Pos=10
+[85 AAD 57]
+[71 AAS 16]
+[67 AAW 85]
+[38 ADD 18]
+[37 AEW 16]
+[87 DDF 50]
+[98 DSS 26]
+[40 EFW 37]
+[74 FSW 59]
+[36 SEF 8]
+[48 SWE 75]
+[25 WDS 72]

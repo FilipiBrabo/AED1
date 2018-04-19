@@ -1,17 +1,15 @@
 Comparacoes=0
-Pos=-1
-Pos=-1
-Pos=-1
-[47 AAS 52]
-[23 EWA 65]
-[21 SDS 50]
-[89 WAF 76]
-[21 DAD 79]
-[68 SWA 13]
-[54 SSS 14]
-Pos=-1
+Pos=0
+Comparacoes=1
+Comparacoes=3
+Comparacoes=15
+Comparacoes=15
+[97 AAA 66]
+[74 ADW 16]
+[14 ASW 86]
+[2 DEA 97]
+[49 SSS 87]
+[97 WSS 86]
+Comparacoes=21
+Comparacoes=14
 Comparacoes=66
-Pos=-1
-Pos=-1
-Pos=14
-Pos=-1

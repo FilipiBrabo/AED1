@@ -1,15 +1,24 @@
-Pos=0
-Pos=-1
-Comparacoes=3
+Comparacoes=6
+Comparacoes=4
+Comparacoes=4
+[11 SSE 86]
+[14 DDW 59]
+[54 FWW 15]
+[58 WWD 45]
+[11 SSE 86]
+[14 DDW 59]
+[54 FWW 15]
+[58 WWD 45]
+Comparacoes=4
+Comparacoes=10
+Comparacoes=4
 Pos=2
 Pos=-1
-Pos=3
-Pos=4
-Comparacoes=20
-[18 SDS 83]
-[44 SSW 7]
-[45 WDS 93]
-[78 DAA 70]
-[82 DFD 59]
-[84 FAE 25]
-[93 EWD 83]
+[11 SSE 86]
+[14 DDW 59]
+[16 DWW 83]
+[54 FWW 15]
+[58 WWD 45]
+Comparacoes=10
+Comparacoes=21
+Pos=-1

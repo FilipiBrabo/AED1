@@ -1,1 +1,14 @@
-Comparacoes=1
+[48 DED 77]
+[28 SDF 13]
+Comparacoes=6
+[38 DAF 26]
+[48 DED 77]
+[71 DWD 33]
+[28 SDF 13]
+[38 DAF 26]
+[48 DED 77]
+[71 DWD 33]
+[28 SDF 13]
+[99 SDW 26]
+Pos=0
+Pos=2

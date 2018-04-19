@@ -1,3 +1,46 @@
+Pos=2
+[27 DDA 12]
+[36 DAE 73]
+[87 AEA 35]
+Comparacoes=3
+Pos=-1
+[87 AEA 35]
+[36 DAE 73]
+[27 DDA 12]
+[92 FSS 46]
+[97 DWD 92]
+[42 ESD 20]
+Pos=-1
+[87 AEA 35]
+[36 DAE 73]
+[27 DDA 12]
+[92 FSS 46]
+[97 DWD 92]
+[42 ESD 20]
+[47 WWA 92]
+Comparacoes=21
+Comparacoes=36
+Pos=6
 Pos=0
+Comparacoes=36
+Comparacoes=45
+Pos=5
+Comparacoes=45
+Comparacoes=66
+[1 FAA 20]
+[18 AFA 48]
+[27 DDA 12]
+[36 DAE 73]
+[42 ESD 20]
+[47 WWA 92]
+[49 SDA 14]
+[73 ADW 78]
+[80 AAS 23]
+[87 AEA 35]
+[92 FSS 46]
+[97 DWD 92]
+Pos=1
+Comparacoes=78
+Pos=4
 Pos=0
-Pos=0
+Comparacoes=56

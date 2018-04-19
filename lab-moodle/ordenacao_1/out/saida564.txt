@@ -1,3 +1,36 @@
 Comparacoes=0
-[35 WSW 73]
-[85 WWW 49]
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=-1
+[8 AWD 45]
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
+Pos=-1
+Pos=-1
+Pos=-1
+[8 AWD 45]
+[43 DAE 72]
+[16 SDD 85]
+[64 WFS 48]
+[51 WEE 74]
+[9 AWD 51]
+Pos=2
+Comparacoes=21
+Comparacoes=28
+[50 ASD 27]
+[51 AWA 40]
+[8 AWD 45]
+[9 AWD 51]
+[43 DAE 72]
+[16 SDD 85]
+[51 WEE 74]
+[64 WFS 48]
+[14 DAF 72]
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=36

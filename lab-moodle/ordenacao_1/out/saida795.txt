@@ -1,2 +1,30 @@
+Pos=1
+Comparacoes=6
+[14 ASS 43]
+[30 ESW 28]
+[6 FAA 72]
+[54 FFD 99]
 Pos=0
-Pos=0
+Pos=5
+Pos=-1
+Pos=-1
+Comparacoes=61
+Comparacoes=105
+Comparacoes=74
+[6 FAA 72]
+[7 EWD 92]
+[12 WSS 13]
+[13 AFS 78]
+[14 ASS 43]
+[16 DSW 93]
+[30 ESW 28]
+[37 SWS 92]
+[51 WDW 19]
+[54 FFD 99]
+[57 SAE 72]
+[61 SDA 15]
+[64 AWE 41]
+[68 AFF 63]
+[70 EDS 18]
+[70 SDF 43]
+[85 SWD 94]

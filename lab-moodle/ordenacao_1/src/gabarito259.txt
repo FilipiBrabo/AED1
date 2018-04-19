@@ -1,15 +1,29 @@
-Pos=1
-Pos=-1
-Comparacoes=16
-Pos=1
-Comparacoes=28
-Comparacoes=41
-Pos=8
-Comparacoes=32
-Comparacoes=77
-Pos=1
-Comparacoes=171
-Pos=-1
-Pos=-1
-Pos=-1
-Pos=7
+Pos=0
+[59 DWD 27]
+Pos=0
+Comparacoes=1
+Pos=3
+[96 AWD 13]
+[59 DWD 27]
+[63 SAE 75]
+[78 DFF 69]
+[96 ASA 97]
+Pos=0
+Comparacoes=78
+Pos=6
+[7 SWD 22]
+[20 DSE 13]
+[30 SAF 48]
+[35 ASE 59]
+[55 WAA 93]
+[59 DWD 27]
+[62 DEA 7]
+[63 SAE 75]
+[78 DFF 69]
+[95 ASA 42]
+[96 ASA 97]
+[96 AWD 13]
+[98 SWA 13]
+[19 DWA 96]
+[99 DEA 24]
+Comparacoes=76

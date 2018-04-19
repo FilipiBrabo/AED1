@@ -1,12 +1,13 @@
-Pos=1
-[48 DAF 84]
-[80 WSW 3]
-[34 AAD 65]
+Comparacoes=0
 Pos=0
-[48 DAF 84]
-[80 WSW 3]
-[34 AAD 65]
-[48 DAF 84]
-[80 WSW 3]
-[34 AAD 65]
-[22 FAW 30]
+Comparacoes=1
+Pos=-1
+Pos=1
+[60 SAS 33]
+[71 FEA 3]
+[23 SEA 45]
+[12 WDA 38]
+[60 SAS 33]
+[71 FEA 3]
+[23 SEA 45]
+[12 WDA 38]

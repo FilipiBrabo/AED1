@@ -1,81 +1,88 @@
-Pos=-1
 Comparacoes=0
+Pos=0
 Pos=-1
-Comparacoes=0
-[64 SSW 9]
-[37 EEA 75]
-Pos=1
-Comparacoes=1
-Pos=-1
-Comparacoes=10
-[37 EEA 75]
-[71 SDA 17]
-[64 SSW 9]
-[53 WAS 61]
-[18 WSW 68]
-[37 EEA 75]
-[71 SDA 17]
-[64 SSW 9]
-[53 WAS 61]
-[18 WSW 68]
-Comparacoes=10
-[18 WSW 68]
-[37 EEA 75]
-[53 WAS 61]
-[64 SSW 9]
-[71 SDA 17]
-Pos=3
-Comparacoes=10
-Comparacoes=10
-Comparacoes=11
-Pos=-1
-[37 EEA 75]
-[71 SDA 17]
-[64 SSW 9]
-[53 WAS 61]
-[18 WSW 68]
-[91 WWD 88]
-Pos=-1
+Comparacoes=15
 Pos=4
-[37 EEA 75]
-[71 SDA 17]
-[64 SSW 9]
-[53 WAS 61]
-[18 WSW 68]
-[91 WWD 88]
-[90 SAF 87]
-[33 SAA 19]
-Comparacoes=18
-[37 EEA 75]
-[33 SAA 19]
-[90 SAF 87]
-[71 SDA 17]
-[64 SSW 9]
-[53 WAS 61]
-[18 WSW 68]
-[91 WWD 88]
-[51 EAW 45]
-[17 DED 94]
+[1 SFW 36]
+[34 WSW 93]
+[56 DWE 86]
+[58 AAS 47]
+[69 SAE 8]
+[70 WEW 22]
+[83 DSW 41]
+[84 WDS 47]
 Pos=-1
-Comparacoes=41
-Pos=3
-Comparacoes=91
-Comparacoes=13
-Pos=13
-[17 AAS 50]
-[63 DEA 26]
-[17 DED 94]
-[51 EAW 45]
-[37 EEA 75]
-[33 SAA 19]
-[90 SAF 87]
-[71 SDA 17]
-[87 SSS 21]
-[64 SSW 9]
-[23 WAD 95]
-[53 WAS 61]
-[18 WSW 68]
-[91 WWD 88]
-[67 SSS 99]
-[80 EEW 36]
-[66 SWF 42]
+Comparacoes=28
+Comparacoes=36
+Pos=-1
+Pos=-1
+Comparacoes=36
+Pos=10
+[58 AAS 47]
+[71 AWS 15]
+[83 DSW 41]
+[56 DWE 86]
+[32 FAW 55]
+[69 SAE 8]
+[1 SFW 36]
+[6 WAA 70]
+[84 WDS 47]
+[70 WEW 22]
+[34 WSW 93]
+[40 EFS 81]
+[57 EDW 93]
+[58 AAS 47]
+[71 AWS 15]
+[83 DSW 41]
+[56 DWE 86]
+[32 FAW 55]
+[69 SAE 8]
+[1 SFW 36]
+[6 WAA 70]
+[84 WDS 47]
+[70 WEW 22]
+[34 WSW 93]
+[40 EFS 81]
+[57 EDW 93]
+[30 DFS 46]
+[28 DDS 80]
+[24 WDW 2]
+Pos=10
+Pos=4
+[58 AAS 47]
+[71 AWS 15]
+[83 DSW 41]
+[56 DWE 86]
+[32 FAW 55]
+[69 SAE 8]
+[1 SFW 36]
+[6 WAA 70]
+[84 WDS 47]
+[70 WEW 22]
+[34 WSW 93]
+[40 EFS 81]
+[57 EDW 93]
+[30 DFS 46]
+[28 DDS 80]
+[24 WDW 2]
+[43 AED 74]
+Pos=-1
+[58 AAS 47]
+[71 AWS 15]
+[83 DSW 41]
+[56 DWE 86]
+[32 FAW 55]
+[69 SAE 8]
+[1 SFW 36]
+[6 WAA 70]
+[84 WDS 47]
+[70 WEW 22]
+[34 WSW 93]
+[40 EFS 81]
+[57 EDW 93]
+[30 DFS 46]
+[28 DDS 80]
+[24 WDW 2]
+[43 AED 74]
+Comparacoes=141
+Pos=-1

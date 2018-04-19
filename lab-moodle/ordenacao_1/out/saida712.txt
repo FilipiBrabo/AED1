@@ -1,4 +1,26 @@
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
+Pos=0
+Pos=-1
+Pos=-1
+Comparacoes=1
+Pos=0
+Pos=1
+Pos=0
+[49 DWD 5]
+[98 WWW 38]
+[81 FWE 28]
+[99 SAA 36]
+[54 EWD 27]
+Comparacoes=10
+Comparacoes=10
+[49 DWD 5]
+[54 EWD 27]
+[81 FWE 28]
+[99 SAA 36]
+[98 WWW 38]
+[37 AAA 43]
+[62 ADF 46]
+Comparacoes=21
+Comparacoes=21
+Pos=-1
+Comparacoes=21
 Pos=-1

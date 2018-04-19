@@ -1,8 +1,39 @@
-Pos=-1
-Pos=-1
-Pos=-1
-Comparacoes=1
-Comparacoes=1
-Pos=-1
+[56 ASF 92]
+Pos=0
+[56 ASF 92]
+Comparacoes=0
+Pos=3
 Comparacoes=6
-Comparacoes=6
+Pos=-1
+Comparacoes=24
+Pos=-1
+Pos=1
+Comparacoes=105
+Comparacoes=57
+Comparacoes=136
+Comparacoes=136
+Comparacoes=16
+Pos=7
+Comparacoes=16
+[5 DAD 38]
+[12 DAS 90]
+[25 AEF 88]
+[26 AFS 8]
+[37 SSE 71]
+[40 SWW 24]
+[56 ASF 92]
+[65 EAW 12]
+[69 WWF 30]
+[74 EAF 15]
+[75 WDE 76]
+[89 EAS 26]
+[91 DEW 82]
+[91 DSA 59]
+[93 DDF 50]
+[96 WAF 73]
+[97 ASA 36]
+Pos=5
+Pos=-1
+Pos=10
+Comparacoes=19
+Comparacoes=78

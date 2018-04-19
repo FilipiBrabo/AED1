@@ -1,9 +1,5 @@
-Comparacoes=0
-Pos=2
-Comparacoes=3
-Comparacoes=6
-[12 ADS 46]
-[29 AEA 92]
-[50 WDA 96]
-[61 ADW 66]
-Comparacoes=5
+[3 ASW 69]
+[3 ASW 69]
+[44 ADE 74]
+[3 ASW 69]
+[44 ADE 74]

@@ -1,4 +1,12 @@
+Comparacoes=0
+[3 EDF 74]
+[49 EAA 90]
+Comparacoes=1
+Comparacoes=6
+[49 EAA 90]
+[3 EDF 74]
+[67 FAA 21]
+[10 SSW 79]
+Comparacoes=5
 Pos=-1
-Pos=-1
-[26 AEA 81]
-Pos=0
+Comparacoes=9

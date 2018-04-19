@@ -1,28 +1,26 @@
-Pos=-1
-[62 EDA 91]
-[95 DWA 52]
-[62 EDA 91]
-[95 DWA 52]
-[3 FDA 67]
-Pos=1
+Pos=0
+[62 ESD 30]
+[26 WAW 14]
+[78 DES 45]
+[62 ESD 30]
+[26 WAW 14]
+[78 DES 45]
+[70 WDF 63]
+Comparacoes=4
 Pos=3
-Comparacoes=5
-Comparacoes=14
-Pos=-1
-Pos=-1
-Pos=-1
-Pos=4
-Comparacoes=66
-[3 FDA 67]
-[11 ASA 5]
-[12 SAA 25]
-[22 DDE 2]
-[46 AWW 45]
-[56 FEW 76]
-[62 EDA 91]
-[80 FWW 48]
-[82 SSW 43]
-[95 WAA 9]
-[95 DWA 52]
-[99 DWW 95]
-[10 SDA 42]
+Comparacoes=21
+Pos=6
+[78 DES 45]
+[62 ESD 30]
+[26 WAW 14]
+[48 WAW 10]
+[70 WDF 63]
+[67 WFE 7]
+[54 WSS 25]
+[84 ADA 83]
+[8 EWS 25]
+[17 AEE 91]
+[29 WEF 89]
+[35 WSA 13]
+Comparacoes=78
+Comparacoes=78

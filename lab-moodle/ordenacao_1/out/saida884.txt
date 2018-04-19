@@ -1,19 +1,10 @@
-[91 AAD 68]
-[76 DDW 11]
-[82 WDF 11]
-Comparacoes=3
-[91 AAD 68]
-[76 DDW 11]
-[82 WDF 11]
-[49 SAE 91]
-[6 SSW 21]
-[12 SSD 15]
-[91 AAD 68]
-[76 DDW 11]
-[82 WDF 11]
-[49 SAE 91]
-[6 SSW 21]
-[12 SSD 15]
-Comparacoes=9
-Comparacoes=15
-Comparacoes=28
+Pos=3
+Comparacoes=10
+[82 DWW 68]
+[17 EDF 31]
+[3 SSW 60]
+[83 SSW 31]
+[95 WDF 14]
+Pos=6
+Comparacoes=21
+Comparacoes=21

@@ -1,9 +1,17 @@
-Comparacoes=0
-Comparacoes=0
-[77 ADA 57]
-[93 WWA 14]
-Comparacoes=1
-Comparacoes=1
 Pos=-1
+Pos=0
+Pos=1
+Pos=6
+Comparacoes=21
+Comparacoes=28
+Comparacoes=28
+[87 ADA 20]
+[92 ADW 87]
+[55 ASD 5]
+[45 FDD 95]
+[28 SAD 27]
+[8 SES 76]
+[36 SES 26]
+[73 SSD 34]
 Pos=-1
-Pos=-1
+Pos=7

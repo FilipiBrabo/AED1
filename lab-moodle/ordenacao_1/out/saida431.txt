@@ -1,7 +1,31 @@
-Comparacoes=0
+Pos=-1
 Pos=-1
 Comparacoes=0
-Comparacoes=1
-Comparacoes=10
-Pos=-1
+Comparacoes=0
+[36 AAW 73]
 Pos=0
+Pos=-1
+Comparacoes=0
+Pos=-1
+Comparacoes=10
+[72 AAA 83]
+[36 AAW 73]
+[50 ASD 38]
+[92 AWW 51]
+[56 SSA 86]
+Pos=-1
+Pos=-1
+Pos=-1
+[72 AAA 83]
+[36 AAW 73]
+[50 ASD 38]
+[92 AWW 51]
+[56 SSA 86]
+[18 FAW 98]
+[95 DAA 83]
+[22 WDW 18]
+[64 SFD 94]
+[13 DAW 27]
+[16 WAD 23]
+[76 SAD 14]
+[1 DAW 56]

@@ -1,36 +1,14 @@
-Comparacoes=1
-Pos=1
-[89 EAA 53]
-[35 EWA 60]
-[41 SDS 20]
+Comparacoes=0
+Comparacoes=0
+[81 DSA 51]
+[33 AAA 88]
+[64 SDW 4]
+[14 WFA 1]
 Pos=0
-Comparacoes=6
-Comparacoes=6
-Pos=2
-Comparacoes=6
-Comparacoes=6
-Pos=7
-Comparacoes=36
-Pos=2
-[70 AAA 50]
-[85 AEW 94]
-[79 DAA 71]
-[82 DSA 29]
-[89 EAA 53]
-[46 EAW 29]
-[35 EWA 60]
-[36 FAW 64]
-[41 SDS 20]
-[5 SWD 71]
-[97 WED 56]
-[84 WWD 85]
-Comparacoes=11
-Pos=-1
-Pos=-1
-Pos=11
-Comparacoes=136
-Pos=18
-Pos=10
-Pos=14
-Pos=1
-Pos=18
+Pos=5
+[81 DSA 51]
+[33 AAA 88]
+[64 SDW 4]
+[14 WFA 1]
+[6 DDS 95]
+[38 WDA 90]

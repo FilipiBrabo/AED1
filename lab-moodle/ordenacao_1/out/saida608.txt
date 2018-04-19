@@ -1,9 +1,37 @@
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
 Pos=-1
-Comparacoes=3
 Pos=-1
+Pos=-1
+Comparacoes=6
 Comparacoes=15
-Comparacoes=5
-Comparacoes=25
-Comparacoes=21
-Pos=0
 Pos=-1
+Pos=-1
+Pos=6
+[88 AWD 96]
+[77 DWD 44]
+[10 EWW 19]
+[58 FSW 98]
+[8 SFW 23]
+[76 WSE 96]
+[75 FDF 54]
+[74 SAD 47]
+[21 AAA 65]
+[31 DFA 29]
+[6 SDF 25]
+[88 AWD 96]
+[77 DWD 44]
+[10 EWW 19]
+[58 FSW 98]
+[8 SFW 23]
+[76 WSE 96]
+[75 FDF 54]
+[74 SAD 47]
+[21 AAA 65]
+[31 DFA 29]
+[6 SDF 25]
+Pos=-1
+Comparacoes=42
+Comparacoes=11
+Comparacoes=45

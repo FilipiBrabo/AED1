@@ -1,7 +1,10 @@
-Pos=-1
-Pos=-1
 Comparacoes=0
-Comparacoes=0
-[26 EAD 81]
+Pos=0
 Pos=-1
-Comparacoes=3
+Comparacoes=24
+Pos=5
+Comparacoes=36
+Pos=3
+Comparacoes=26
+Comparacoes=30
+Comparacoes=9

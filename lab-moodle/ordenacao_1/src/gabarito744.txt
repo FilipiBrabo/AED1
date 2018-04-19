@@ -1,4 +1,63 @@
-Pos=-1
-Pos=-1
 Comparacoes=0
+Comparacoes=0
+Comparacoes=3
+[61 FAA 14]
+[71 SWA 58]
+[91 WSA 56]
 Pos=-1
+Pos=-1
+Pos=-1
+[61 FAA 14]
+[71 SWA 58]
+[91 WSA 56]
+Comparacoes=5
+Comparacoes=13
+Comparacoes=28
+Comparacoes=28
+[1 DAS 14]
+[24 SES 41]
+[61 ADA 74]
+[61 FAA 14]
+[71 SWA 58]
+[87 FEF 5]
+[91 WSA 56]
+[93 DAA 68]
+[1 SSS 94]
+[68 DWE 26]
+[34 EFW 30]
+[10 AAS 20]
+[52 WDA 5]
+Pos=2
+Comparacoes=105
+Comparacoes=105
+Comparacoes=14
+Pos=0
+Comparacoes=120
+Pos=10
+Pos=-1
+Pos=2
+Pos=6
+[10 AAS 20]
+[61 ADA 74]
+[28 AES 33]
+[59 ASA 51]
+[93 DAA 68]
+[1 DAS 14]
+[68 DWE 26]
+[34 EFW 30]
+[61 FAA 14]
+[87 FEF 5]
+[24 SES 41]
+[1 SSS 94]
+[71 SWA 58]
+[29 WAA 3]
+[52 WDA 5]
+[91 WSA 56]
+[74 DWD 59]
+[47 AFD 34]
+[28 DAA 27]
+[19 DAE 63]
+[53 ADS 44]
+[71 SWD 11]
+[68 AFS 77]
+Comparacoes=253

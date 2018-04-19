@@ -1,5 +1,1 @@
-Pos=0
-Comparacoes=0
-[22 ADA 90]
-[80 EWS 67]
-Pos=-1
+Comparacoes=45

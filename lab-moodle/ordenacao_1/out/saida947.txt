@@ -1,22 +1,36 @@
 Pos=-1
 Comparacoes=1
-Comparacoes=3
-Pos=0
-Comparacoes=3
-Comparacoes=4
-Pos=-1
-Comparacoes=3
-Comparacoes=10
-Pos=-1
-Comparacoes=17
-Comparacoes=21
-Comparacoes=6
-Comparacoes=36
-Comparacoes=17
-Comparacoes=55
-Comparacoes=55
-Pos=5
-Pos=6
-Comparacoes=91
-Pos=-1
+Pos=1
 Pos=3
+Pos=-1
+Pos=-1
+[71 ASA 27]
+[89 EWW 7]
+[96 DDE 43]
+[49 DAA 30]
+[70 ESA 84]
+[76 EAA 15]
+[1 WFS 20]
+Pos=-1
+Comparacoes=66
+Pos=1
+Comparacoes=15
+[23 AAS 25]
+[71 ASA 27]
+[18 ASE 81]
+[49 DAA 30]
+[59 DDA 36]
+[96 DDE 43]
+[76 EAA 15]
+[70 ESA 84]
+[89 EWW 7]
+[77 SDE 55]
+[68 WDA 62]
+[39 WEF 61]
+[36 WES 89]
+[1 WFS 20]
+[31 AAA 89]
+Pos=13
+Pos=7
+Comparacoes=171
+Pos=-1

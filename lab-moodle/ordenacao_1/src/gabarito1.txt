@@ -1,44 +1,32 @@
-[71 EEA 38]
-Pos=0
-Comparacoes=6
-Pos=-1
-Comparacoes=12
+[15 SSW 29]
+[60 SFS 93]
+[34 FDS 50]
+[15 SSW 29]
+[60 SFS 93]
+[34 FDS 50]
+[69 DSA 14]
+[15 SSW 29]
+[60 SFS 93]
+[34 FDS 50]
+[69 DSA 14]
+[95 SDS 26]
+[84 DFS 71]
+[23 DFD 87]
+[39 SEW 60]
 Pos=3
-Comparacoes=21
-Comparacoes=6
-Comparacoes=14
-Pos=1
-[7 FED 81]
-[9 AAA 35]
-[19 SAW 16]
-[25 AFD 60]
-[70 EWD 6]
-[71 EEA 38]
-[79 SAD 84]
-[1 AWD 15]
-[15 ASA 36]
-[26 DES 80]
-Pos=-1
-Comparacoes=45
-Pos=9
-Comparacoes=45
-Comparacoes=55
-[1 AWD 15]
-[7 FED 81]
-[9 AAA 35]
-[15 ASA 36]
-[19 SAW 16]
-[23 SWA 94]
-[25 AFD 60]
-[26 DES 80]
-[70 EWD 6]
-[71 EEA 38]
-[79 SAD 84]
-[25 ADD 23]
-Comparacoes=105
-Comparacoes=58
-Comparacoes=18
-Pos=-1
-Pos=1
-Comparacoes=231
 Pos=4
+Pos=4
+[15 SSW 29]
+[60 SFS 93]
+[34 FDS 50]
+[69 DSA 14]
+[95 SDS 26]
+[84 DFS 71]
+[23 DFD 87]
+[39 SEW 60]
+[23 ASE 68]
+[71 SSS 62]
+[51 FFA 22]
+[27 FDD 82]
+Comparacoes=43
+Comparacoes=66

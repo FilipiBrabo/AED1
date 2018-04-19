@@ -1,17 +1,50 @@
+[64 ADA 82]
+[59 SSD 56]
+[5 ASF 41]
+[15 SSA 30]
+[64 ADA 82]
+[59 SSD 56]
+[5 ASF 41]
+[15 SSA 30]
+Comparacoes=6
+Comparacoes=6
+[64 ADA 82]
+[5 ASF 41]
+[15 SSA 30]
+[59 SSD 56]
+[10 WWA 77]
 Pos=-1
 Pos=-1
+[64 ADA 82]
+[5 ASF 41]
+[15 SSA 30]
+[59 SSD 56]
+[10 WWA 77]
+[26 FDF 24]
+[33 DAW 28]
 Pos=-1
-Pos=-1
-Comparacoes=15
-Comparacoes=13
-Pos=-1
-Comparacoes=19
-Comparacoes=63
-Pos=-1
-Comparacoes=25
-Pos=-1
-Pos=-1
-Comparacoes=136
-Pos=16
-Pos=-1
-Comparacoes=136
+Pos=0
+Comparacoes=21
+[64 ADA 82]
+[5 ASF 41]
+[33 DAW 28]
+[26 FDF 24]
+[15 SSA 30]
+[59 SSD 56]
+[10 WWA 77]
+[98 FAF 38]
+[80 ASE 10]
+[64 ADA 82]
+[5 ASF 41]
+[33 DAW 28]
+[26 FDF 24]
+[15 SSA 30]
+[59 SSD 56]
+[10 WWA 77]
+[98 FAF 38]
+[80 ASE 10]
+[61 AAW 67]
+[37 EAF 33]
+[24 ASW 10]
+[49 AAF 18]
+[85 SSD 54]

@@ -1,9 +1,30 @@
+Comparacoes=0
+[50 FAA 89]
+[66 SSA 89]
+[67 AED 14]
+Comparacoes=3
 Pos=-1
-Comparacoes=1
+Comparacoes=2
+Comparacoes=15
 Pos=-1
-Comparacoes=6
-[11 AAW 38]
-[59 EDA 13]
-[77 WWW 48]
-[91 AAD 8]
-Comparacoes=9
+Comparacoes=13
+Pos=-1
+[15 DAD 45]
+[18 WEA 99]
+[50 FAA 89]
+[66 SSA 89]
+[67 AED 14]
+[75 DFA 56]
+Comparacoes=10
+[15 DAD 45]
+[18 WEA 99]
+[21 SES 3]
+[50 FAA 89]
+[66 SSA 89]
+[67 AED 14]
+[75 DFA 56]
+[99 DWW 46]
+Comparacoes=7
+Pos=-1
+Comparacoes=7
+Pos=-1

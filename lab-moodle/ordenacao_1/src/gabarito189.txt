@@ -1,38 +1,15 @@
-Pos=0
-Pos=0
-[63 AFD 52]
-Comparacoes=1
-Comparacoes=3
+Pos=-1
+[15 DAE 52]
+[14 SAE 58]
+[20 DDF 23]
 Comparacoes=2
+Pos=-1
 Comparacoes=5
-Comparacoes=19
-[34 AAW 1]
-[34 ADS 28]
-[63 AFD 52]
-[11 AWS 16]
-[37 SAA 89]
-[13 SES 44]
-[5 WFA 95]
-[43 AFA 24]
-Comparacoes=36
-Pos=7
-Comparacoes=27
-Comparacoes=36
-Comparacoes=36
+Comparacoes=10
+[68 AAA 80]
+[15 DAE 52]
+[20 DDF 23]
+[35 DSE 99]
+[14 SAE 58]
+Pos=3
 Pos=-1
-Pos=-1
-[34 AAW 1]
-[34 ADS 28]
-[43 AFA 24]
-[63 AFD 52]
-[11 AWS 16]
-[91 FWS 81]
-[37 SAA 89]
-[13 SES 44]
-[5 WFA 95]
-[24 FDW 16]
-[89 ASD 19]
-Comparacoes=61
-Comparacoes=91
-Comparacoes=91
-Pos=2

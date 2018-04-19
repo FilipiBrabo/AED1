@@ -1,29 +1,6 @@
+[14 DFA 21]
+Comparacoes=1
+[14 DFA 21]
+[22 FSD 74]
 Pos=-1
-Comparacoes=0
-Comparacoes=0
-Comparacoes=6
-Comparacoes=9
-Pos=3
-Comparacoes=12
-[32 ADS 42]
-[4 EWD 4]
-[76 SFA 19]
-[90 SSA 81]
-[5 WEA 15]
-[77 WEA 86]
-[4 WSD 28]
-[44 AFS 57]
-[14 DAS 47]
-[42 EAA 86]
-Pos=-1
-[32 ADS 42]
-[4 EWD 4]
-[76 SFA 19]
-[90 SSA 81]
-[5 WEA 15]
-[77 WEA 86]
-[4 WSD 28]
-[44 AFS 57]
-[14 DAS 47]
-[42 EAA 86]
-Comparacoes=41
+Pos=1

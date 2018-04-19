@@ -1,25 +1,3 @@
-Comparacoes=0
-Pos=2
 Pos=-1
-Pos=3
-Comparacoes=49
-Pos=-1
-Comparacoes=78
-Pos=10
-Comparacoes=78
-[73 AAA 6]
-[25 ASS 7]
-[56 DSF 3]
-[87 EAA 42]
-[53 EDD 98]
-[74 ESS 80]
-[19 FDE 88]
-[57 SAA 51]
-[89 SFS 73]
-[72 WFA 39]
-[83 WFD 57]
-[6 WFE 11]
-[59 WSF 91]
-[19 DAA 90]
-[38 SWS 75]
-[82 FFS 93]
+[27 WAS 17]
+[82 ASA 17]

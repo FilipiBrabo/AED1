@@ -1,10 +1,2 @@
-Pos=1
-Comparacoes=3
 Pos=0
-Comparacoes=8
-Comparacoes=28
-Pos=2
-Comparacoes=66
-Pos=1
-Comparacoes=105
-Comparacoes=105
+Comparacoes=12

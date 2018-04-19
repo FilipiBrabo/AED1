@@ -1,21 +1,34 @@
+Pos=-1
+Pos=-1
 Comparacoes=0
-Pos=-1
-Comparacoes=2
-Pos=2
 Pos=0
-Pos=-1
-Comparacoes=6
-Comparacoes=6
-[11 ADD 6]
-[93 ADD 21]
-[55 EDW 85]
-[46 WDD 20]
-[11 ADD 6]
-[93 ADD 21]
-[55 EDW 85]
-[46 WDD 20]
-Comparacoes=7
-Comparacoes=10
-Pos=-1
-Pos=-1
-Comparacoes=28
+Comparacoes=14
+[9 ADD 54]
+[98 ASF 27]
+[18 DDW 9]
+[82 DEA 67]
+[43 FDA 16]
+[69 FSA 74]
+[46 WEE 21]
+[82 DAW 88]
+Comparacoes=45
+Comparacoes=45
+Pos=8
+Comparacoes=45
+Comparacoes=45
+[9 ADD 54]
+[49 ADD 44]
+[98 ASF 27]
+[59 ASS 63]
+[82 DAW 88]
+[18 DDW 9]
+[82 DEA 67]
+[43 FDA 16]
+[69 FSA 74]
+[58 SAD 40]
+[96 WDW 49]
+[8 WEA 35]
+[46 WEE 21]
+[35 WSD 4]
+[98 WWW 91]
+[40 ASA 15]

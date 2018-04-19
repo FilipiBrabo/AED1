@@ -1,5 +1,3 @@
 Comparacoes=0
-Pos=-1
-Pos=2
-Pos=0
-Pos=2
+[99 FDW 96]
+Comparacoes=15

@@ -1,11 +1,2 @@
 Comparacoes=0
-Pos=-1
-Pos=-1
-[15 FEF 83]
-[78 WAW 2]
-[88 WES 82]
-Comparacoes=15
-Comparacoes=5
-Pos=5
-Pos=5
-Comparacoes=11
+Comparacoes=0

@@ -1,30 +1,11 @@
 Comparacoes=0
-Comparacoes=0
-Comparacoes=0
+Comparacoes=2
+Pos=0
+[30 AAA 10]
+[1 WSD 93]
+[39 WSD 7]
+Comparacoes=6
 Pos=-1
+Pos=0
 Pos=-1
-Pos=-1
-[15 FSA 81]
-[6 DED 11]
-[2 WAA 24]
-[78 ASA 84]
-[20 SWD 1]
-[4 EAW 44]
-[67 DFA 17]
-[14 WWS 83]
-[73 SAW 69]
-[71 FAA 82]
-[92 ADF 8]
-[15 FSA 81]
-[6 DED 11]
-[2 WAA 24]
-[78 ASA 84]
-[20 SWD 1]
-[4 EAW 44]
-[67 DFA 17]
-[14 WWS 83]
-[73 SAW 69]
-[71 FAA 82]
-[92 ADF 8]
-[78 FAA 75]
-[35 WDA 27]
+Comparacoes=21

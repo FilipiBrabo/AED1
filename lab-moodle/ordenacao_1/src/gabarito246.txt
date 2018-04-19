@@ -1,26 +1,6 @@
-Comparacoes=0
-[89 SWA 97]
+[94 WDS 2]
+[94 WDS 2]
 Pos=0
-Comparacoes=1
-Comparacoes=3
-Comparacoes=2
-[85 DSA 37]
-[89 SWA 97]
-[91 WDF 63]
-[7 SWS 25]
-Comparacoes=6
-[7 SWS 25]
-[85 DSA 37]
-[89 SWA 97]
-[91 WDF 63]
-[7 SWS 25]
-[85 DSA 37]
-[89 SWA 97]
-[91 WDF 63]
-[35 DFA 8]
-[85 SDA 89]
-[27 EAA 13]
-[45 FAD 31]
-[27 ADA 31]
 Pos=1
-Comparacoes=53
+Comparacoes=6
+Pos=-1

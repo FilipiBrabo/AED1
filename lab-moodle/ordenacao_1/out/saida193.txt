@@ -1,5 +1,32 @@
+Pos=-1
 Comparacoes=0
+Comparacoes=0
+Comparacoes=3
 Pos=-1
-Comparacoes=1
-Pos=-1
+[35 DAS 32]
+[44 FDS 2]
+[64 ASA 84]
+[35 DAS 32]
+[44 FDS 2]
+[64 ASA 84]
+[35 WWF 67]
+[48 FDF 91]
+[35 DAS 32]
+[44 FDS 2]
+[64 ASA 84]
+[35 WWF 67]
+[48 FDF 91]
+[35 DAS 32]
+[44 FDS 2]
+[64 ASA 84]
+[35 WWF 67]
+[48 FDF 91]
+[13 ADF 70]
+Comparacoes=12
+Comparacoes=21
 Pos=4
+Pos=1
+Comparacoes=28
+Comparacoes=28
+Pos=-1
+Comparacoes=28

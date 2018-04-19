@@ -1,41 +1,4 @@
-[28 WWD 11]
-[10 FWE 92]
-[43 WAA 53]
 Pos=-1
-Comparacoes=5
-Pos=-1
-Comparacoes=15
-Comparacoes=12
-Pos=-1
-[10 FWE 92]
-[18 WFA 66]
-[19 WAA 40]
-[28 WWD 11]
-[43 WAA 53]
-[46 DSS 18]
-Pos=-1
-[10 FWE 92]
-[18 WFA 66]
-[19 WAA 40]
-[28 WWD 11]
-[43 WAA 53]
-[46 DSS 18]
-[72 FAS 11]
-[80 WSS 8]
-[63 AEW 23]
-[34 DDS 22]
-Pos=-1
-Pos=7
-Comparacoes=52
-[63 AEW 23]
-[28 DAW 48]
-[34 DDS 22]
-[46 DSS 18]
-[72 FAS 11]
-[10 FWE 92]
-[19 WAA 40]
-[43 WAA 53]
-[56 WAA 11]
-[18 WFA 66]
-[80 WSS 8]
-[28 WWD 11]
+Comparacoes=0
+Comparacoes=3
+Comparacoes=3

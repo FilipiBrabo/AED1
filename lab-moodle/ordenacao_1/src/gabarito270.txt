@@ -1,9 +1,26 @@
-[96 AAA 4]
-Comparacoes=1
-Pos=1
-Pos=0
-Comparacoes=2
+[57 WWA 38]
+Pos=2
+[57 WWA 38]
+[39 AWS 28]
+[90 WDA 95]
+[60 SAA 76]
+[70 WWA 98]
+Pos=3
+Pos=-1
+Comparacoes=6
 Pos=0
 Pos=-1
-Comparacoes=21
+Pos=5
+Comparacoes=9
+[39 AWS 28]
+[57 WWA 38]
+[60 SAA 76]
+[70 WWA 98]
+[70 DSS 74]
+[82 SSE 34]
+[90 WDA 95]
+[89 ASA 42]
+Comparacoes=28
+Pos=1
+Pos=10
 Pos=-1

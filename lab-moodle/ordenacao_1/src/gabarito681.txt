@@ -1,43 +1,14 @@
-[27 AWS 31]
-[57 EEA 37]
-[27 AWS 31]
-[57 EEA 37]
-[52 SEE 27]
-[23 AWA 33]
-Comparacoes=6
+Comparacoes=0
+Comparacoes=0
+Pos=0
+Comparacoes=0
+Comparacoes=1
+[69 WAS 65]
+[95 WSE 77]
 Pos=-1
 Pos=3
-Comparacoes=3
-[23 AWA 33]
-[27 AWS 31]
-[52 SEE 27]
-[57 EEA 37]
-Comparacoes=3
 Pos=-1
+Comparacoes=10
+Comparacoes=15
+Pos=4
 Pos=0
-[23 AWA 33]
-[27 AWS 31]
-[52 SEE 27]
-[57 EEA 37]
-Comparacoes=12
-Pos=-1
-Pos=8
-[23 AWA 33]
-[27 AWS 31]
-[34 AWF 43]
-[52 SEE 27]
-[52 AAD 43]
-[56 WDA 56]
-[57 EEA 37]
-[23 FAW 54]
-[43 AWS 89]
-[17 EAE 27]
-[30 AAE 74]
-[71 WAA 52]
-Pos=9
-Pos=11
-Comparacoes=45
-Pos=1
-Comparacoes=105
-Pos=-1
-Pos=-1

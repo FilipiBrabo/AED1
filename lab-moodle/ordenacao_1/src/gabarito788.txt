@@ -1,4 +1,56 @@
 Pos=-1
-Comparacoes=3
+Comparacoes=0
+Pos=-1
+Pos=-1
+Comparacoes=1
+[28 SAS 60]
+[54 AAF 85]
+[65 ASS 4]
+[78 WEA 35]
+Pos=4
+[28 SAS 60]
+[54 AAF 85]
+[65 ASS 4]
+[78 WEA 35]
+[25 EFF 31]
+Pos=0
+Comparacoes=15
+[25 EFF 31]
+[28 SAS 60]
+[54 AAF 85]
+[63 SAS 59]
+[65 ASS 4]
+[78 WEA 35]
 Pos=2
-Pos=3
+[25 EFF 31]
+[28 SAS 60]
+[54 AAF 85]
+[63 SAS 59]
+[65 ASS 4]
+[78 WEA 35]
+[94 WFS 15]
+[8 AES 30]
+[59 EEF 10]
+Pos=1
+Pos=-1
+Comparacoes=45
+[8 AES 30]
+[25 EFF 31]
+[28 SAS 60]
+[48 DES 2]
+[54 AAF 85]
+[59 EEF 10]
+[63 SAS 59]
+[65 ASS 4]
+[78 WEA 35]
+[94 WFS 15]
+[66 DAA 32]
+[40 AEA 1]
+Comparacoes=78
+Comparacoes=36
+Pos=-1
+Pos=6
+Comparacoes=120
+Pos=6
+Pos=-1
+Comparacoes=84

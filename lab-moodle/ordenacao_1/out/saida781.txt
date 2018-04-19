@@ -1,1 +1,56 @@
+Comparacoes=1
+Comparacoes=3
+Comparacoes=6
+[42 FWD 80]
+[44 WFE 65]
+[50 FAA 69]
+[58 WSA 63]
+[42 FWD 80]
+[44 WFE 65]
+[50 FAA 69]
+[58 WSA 63]
+[49 WAS 80]
+[42 FWD 80]
+[44 WFE 65]
+[50 FAA 69]
+[58 WSA 63]
+[49 WAS 80]
+Comparacoes=10
+Pos=-1
+Pos=2
+Comparacoes=30
+Comparacoes=17
+Comparacoes=45
+Comparacoes=9
+Comparacoes=45
+[55 AED 15]
+[50 ASD 66]
+[94 DAS 54]
+[55 DFD 87]
+[50 FAA 69]
+[30 FDF 78]
+[42 FWD 80]
+[49 WAS 80]
+[44 WFE 65]
+[58 WSA 63]
+[71 SFE 51]
+Pos=-1
+Pos=-1
+Pos=11
+Pos=-1
 Pos=0
+[55 AED 15]
+[50 ASD 66]
+[94 DAS 54]
+[55 DFD 87]
+[50 FAA 69]
+[30 FDF 78]
+[42 FWD 80]
+[49 WAS 80]
+[44 WFE 65]
+[58 WSA 63]
+[71 SFE 51]
+[43 ASW 96]
+[60 WWF 58]
+Pos=-1
+Comparacoes=56

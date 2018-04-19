@@ -1,2 +1,5 @@
+Comparacoes=1
+[10 AAS 98]
+[39 AES 42]
 Pos=-1
-Comparacoes=0
+Pos=1

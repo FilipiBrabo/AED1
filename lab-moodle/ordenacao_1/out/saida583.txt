@@ -1,17 +1,28 @@
+Comparacoes=0
 Pos=-1
 Comparacoes=0
 Comparacoes=0
-Comparacoes=8
+[5 ASW 77]
+Comparacoes=0
 Pos=-1
-Pos=3
-Comparacoes=23
+Pos=-1
+Pos=0
+Comparacoes=3
+Pos=-1
+Comparacoes=3
 Pos=4
+Pos=6
 Pos=-1
-Pos=8
-Pos=1
-Comparacoes=190
-Comparacoes=115
-Pos=2
-Comparacoes=48
-Comparacoes=144
-Comparacoes=253
+[5 ASW 77]
+[18 DDS 30]
+[29 SED 91]
+[48 WAF 91]
+[11 SSD 17]
+[91 AFF 64]
+[20 EWA 52]
+[9 FDA 54]
+Pos=-1
+Comparacoes=28
+Pos=10
+Pos=9
+Comparacoes=40

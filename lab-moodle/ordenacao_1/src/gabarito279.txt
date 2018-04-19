@@ -1,18 +1,7 @@
-[95 DSA 14]
-[95 DSA 14]
-[68 AWS 35]
-[95 DSA 14]
-[68 AWS 35]
-Comparacoes=1
-Pos=0
+[36 DDD 78]
+Comparacoes=6
+Comparacoes=21
+Pos=5
+Pos=2
+Comparacoes=55
 Pos=-1
-[68 AWS 35]
-[95 DSA 14]
-[80 SWS 93]
-[27 EAS 28]
-[79 AWF 67]
-[60 SAS 37]
-[39 ESF 76]
-Pos=3
-Pos=6
-Pos=1

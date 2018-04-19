@@ -1,8 +1,9 @@
 Comparacoes=0
-[17 EAA 24]
-[30 FFF 91]
-[17 EAA 24]
-[30 FFF 91]
-[17 EAA 24]
-[30 FFF 91]
-Comparacoes=3
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Comparacoes=1

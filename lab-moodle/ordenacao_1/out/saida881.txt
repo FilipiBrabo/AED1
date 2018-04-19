@@ -1,10 +1,29 @@
+Pos=0
 Pos=-1
-Comparacoes=0
+Comparacoes=4
 Pos=-1
-Pos=-1
-[63 DAA 36]
-[85 AAA 1]
-[63 DAA 36]
-[85 AAA 1]
-Comparacoes=15
-Pos=3
+Comparacoes=28
+Pos=0
+Pos=2
+Pos=5
+Pos=2
+Pos=7
+Pos=12
+[17 SEA 70]
+[34 AAW 44]
+[43 AWS 11]
+[54 ASS 87]
+[62 FAA 92]
+[64 ESW 94]
+[92 DWE 53]
+[99 SSS 79]
+[24 WEW 14]
+[43 SDA 58]
+[99 AFS 68]
+[34 FSW 20]
+[84 WSS 16]
+[74 DFW 97]
+[61 DDD 76]
+[40 SDE 45]
+Pos=7
+Comparacoes=153

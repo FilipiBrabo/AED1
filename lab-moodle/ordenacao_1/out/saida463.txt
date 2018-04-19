@@ -1,60 +1,53 @@
+Pos=-1
+Pos=-1
 Pos=0
 Pos=-1
-Comparacoes=10
-Comparacoes=4
-Comparacoes=10
-Comparacoes=15
-Comparacoes=15
-[9 AWA 28]
-[30 DSA 9]
-[17 FFW 29]
-[16 FWD 5]
-[44 WAA 39]
-[62 WAD 61]
-[50 FFA 86]
+Comparacoes=2
+[4 SSA 39]
+[29 WWW 67]
+[53 ADS 24]
+Comparacoes=2
+Comparacoes=3
+[4 SSA 39]
+[29 WWW 67]
+[53 ADS 24]
+[83 ADW 34]
+[10 ESS 84]
+[69 FWA 88]
 Pos=-1
-Comparacoes=36
 Pos=3
-Comparacoes=36
-Comparacoes=45
-Comparacoes=9
-[9 AWA 28]
-[14 DAA 67]
-[16 FWD 5]
-[17 FFW 29]
-[30 DSA 9]
-[33 WWF 18]
-[44 WAA 39]
-[50 FFA 86]
-[55 WDD 3]
-[62 WAD 61]
-[27 DSW 50]
-[72 DSS 14]
-[9 AWA 28]
-[14 DAA 67]
-[16 FWD 5]
-[17 FFW 29]
-[30 DSA 9]
-[33 WWF 18]
-[44 WAA 39]
-[50 FFA 86]
-[55 WDD 3]
-[62 WAD 61]
-[27 DSW 50]
-[72 DSS 14]
-Pos=-1
-Pos=-1
-Comparacoes=66
-Comparacoes=66
-[9 AWA 28]
-[14 DAA 67]
-[30 DSA 9]
-[72 DSS 14]
-[27 DSW 50]
-[50 FFA 86]
-[17 FFW 29]
-[16 FWD 5]
-[44 WAA 39]
-[62 WAD 61]
-[55 WDD 3]
-[33 WWF 18]
+Comparacoes=21
+[4 SSA 39]
+[5 FED 72]
+[10 ESS 84]
+[21 AES 19]
+[29 WWW 67]
+[53 ADS 24]
+[69 FWA 88]
+[83 ADW 34]
+[62 AWA 25]
+[54 DEA 11]
+[94 WWS 43]
+Comparacoes=55
+Comparacoes=91
+Comparacoes=105
+Comparacoes=105
+Pos=1
+Comparacoes=120
+[4 SSA 39]
+[5 FED 72]
+[10 ESS 84]
+[21 AES 19]
+[29 WWW 67]
+[42 SWD 70]
+[53 ADS 24]
+[54 DEA 11]
+[62 AWA 25]
+[69 FWA 88]
+[83 ADW 34]
+[83 EAA 1]
+[84 AAF 30]
+[88 ADS 44]
+[94 WWS 43]
+[95 ADW 72]
+Comparacoes=15

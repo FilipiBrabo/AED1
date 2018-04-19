@@ -1,31 +1,6 @@
-Comparacoes=0
-Pos=-1
-Comparacoes=0
-Comparacoes=0
-Pos=-1
-Comparacoes=0
-[32 SSA 52]
-[32 SSA 52]
-[57 AFD 48]
-[50 ASE 59]
+Pos=0
+Comparacoes=1
+Comparacoes=2
 Comparacoes=3
-Comparacoes=3
-[57 AFD 48]
-[50 ASE 59]
-[32 SSA 52]
-Pos=-1
-[57 AFD 48]
-[50 ASE 59]
-[32 SSA 52]
-[75 AFA 7]
-Pos=2
-[57 AFD 48]
-[50 ASE 59]
-[32 SSA 52]
-[75 AFA 7]
-[54 EDF 11]
-[57 AFD 48]
-[50 ASE 59]
-[32 SSA 52]
-[75 AFA 7]
-[54 EDF 11]
+Comparacoes=6
+Comparacoes=10

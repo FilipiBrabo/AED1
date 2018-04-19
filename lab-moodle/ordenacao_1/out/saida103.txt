@@ -1,17 +1,26 @@
 Pos=-1
-[2 WWS 70]
-[4 WEF 51]
-[74 AEA 67]
-[24 ASE 89]
-[20 AAF 30]
-Pos=2
-[2 WWS 70]
-[4 WEF 51]
-[74 AEA 67]
-[24 ASE 89]
-[20 AAF 30]
+Comparacoes=0
 Pos=-1
-Comparacoes=10
-Pos=-1
-Pos=1
-Comparacoes=10
+[68 EDF 85]
+[84 FDS 44]
+[85 DAA 19]
+[14 AEW 87]
+[65 SSA 55]
+[34 ASE 50]
+[67 FDA 67]
+[58 AAD 83]
+[78 SAA 30]
+[36 WFS 97]
+Comparacoes=35
+Comparacoes=28
+[58 AAD 83]
+[14 AEW 87]
+[34 ASE 50]
+[85 DAA 19]
+[68 EDF 85]
+[67 FDA 67]
+[84 FDS 44]
+[78 SAA 30]
+[65 SSA 55]
+[36 WFS 97]
+Comparacoes=52

@@ -1,8 +1,37 @@
-Pos=1
-Comparacoes=1
-Comparacoes=1
-Pos=0
-Comparacoes=5
-Pos=2
+Comparacoes=0
+Comparacoes=0
 Pos=-1
+[80 SSD 52]
+[21 DFW 35]
+Comparacoes=15
+Comparacoes=21
+Pos=5
+Comparacoes=19
+[21 DFW 35]
+[30 FSD 96]
+[42 SWD 88]
+[66 WAW 87]
+[71 FAA 44]
+[74 EFW 13]
+[80 SSD 52]
+[93 DAS 3]
+[90 SAS 19]
+[62 WWA 77]
+Pos=6
+Pos=7
+[21 DFW 35]
+[30 FSD 96]
+[42 SWD 88]
+[66 WAW 87]
+[71 FAA 44]
+[74 EFW 13]
+[80 SSD 52]
+[93 DAS 3]
+[90 SAS 19]
+[62 WWA 77]
+[28 DAF 48]
+Pos=9
+Comparacoes=55
+Pos=-1
+Pos=0
 Pos=-1

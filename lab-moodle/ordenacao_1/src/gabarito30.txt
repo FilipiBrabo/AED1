@@ -1,22 +1,38 @@
-Comparacoes=0
-Pos=-1
-Pos=-1
-Comparacoes=0
-Comparacoes=0
-Pos=-1
-Pos=-1
-Pos=-1
-Comparacoes=0
-Pos=-1
+[81 SAS 95]
+[3 AAS 1]
+[94 SSS 76]
+[36 ADS 14]
+[7 DAS 33]
+[52 EDA 25]
+[83 SAW 16]
+[82 SDA 41]
+[85 DAA 93]
+[84 WDE 84]
+Pos=7
+[81 SAS 95]
+[3 AAS 1]
+[94 SSS 76]
+[36 ADS 14]
+[7 DAS 33]
+[52 EDA 25]
+[83 SAW 16]
+[82 SDA 41]
+[85 DAA 93]
+[84 WDE 84]
+Pos=0
+Pos=6
+[81 SAS 95]
+[3 AAS 1]
+[94 SSS 76]
+[36 ADS 14]
+[7 DAS 33]
+[52 EDA 25]
+[83 SAW 16]
+[82 SDA 41]
+[85 DAA 93]
+[84 WDE 84]
+[67 DFA 1]
+[66 AES 53]
+[82 WDW 79]
 Pos=3
-Comparacoes=10
-Pos=-1
-Pos=-1
-Comparacoes=10
-[20 AAD 93]
-[55 AFA 49]
-[77 ASA 72]
-[68 SSA 36]
-[54 WDS 98]
-[8 WWW 40]
-[27 EAS 55]
+Pos=4

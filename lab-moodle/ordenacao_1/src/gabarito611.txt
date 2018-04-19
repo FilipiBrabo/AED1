@@ -1,8 +1,0 @@
-[12 SAF 94]
-Pos=0
-Comparacoes=0
-Comparacoes=0
-Pos=0
-Comparacoes=1
-[94 AES 55]
-[12 SAF 94]

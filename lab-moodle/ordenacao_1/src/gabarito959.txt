@@ -1,46 +1,24 @@
-[71 SAE 95]
-Comparacoes=1
-Comparacoes=4
-Pos=-1
-Pos=2
-Pos=3
-Pos=5
-Pos=-1
-Comparacoes=55
-Pos=2
-[60 AAA 57]
-[70 AES 46]
-[6 DSE 12]
-[6 FAD 72]
-[42 FAW 32]
-[98 FSD 87]
-[43 FWW 97]
-[71 SAE 95]
-[59 SAW 93]
-[14 WDA 9]
-[21 WFF 92]
-[37 SEA 78]
-[89 WEE 78]
-[60 AAA 57]
-[70 AES 46]
-[6 DSE 12]
-[6 FAD 72]
-[42 FAW 32]
-[98 FSD 87]
-[43 FWW 97]
-[71 SAE 95]
-[59 SAW 93]
-[14 WDA 9]
-[21 WFF 92]
-[37 SEA 78]
-[89 WEE 78]
-Comparacoes=26
-Pos=-1
+Comparacoes=12
 Comparacoes=13
-Comparacoes=91
-Comparacoes=13
-Pos=-1
-Comparacoes=39
-Pos=2
-Pos=-1
-Comparacoes=30
+[5 AFS 89]
+[27 AEW 52]
+[29 AAW 57]
+[30 WEA 85]
+[36 SWE 91]
+[45 AFA 9]
+[48 EWA 74]
+[13 WDS 43]
+[69 AAA 81]
+[63 AFW 59]
+[56 WEW 5]
+[5 AFS 89]
+[27 AEW 52]
+[29 AAW 57]
+[30 WEA 85]
+[36 SWE 91]
+[45 AFA 9]
+[48 EWA 74]
+[13 WDS 43]
+[69 AAA 81]
+[63 AFW 59]
+[56 WEW 5]

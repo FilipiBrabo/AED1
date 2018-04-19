@@ -1,16 +1,8 @@
-Pos=-1
 Comparacoes=0
-Comparacoes=1
-Comparacoes=1
-Pos=0
-Comparacoes=1
+Comparacoes=0
+[95 FAA 94]
 Comparacoes=1
 Pos=-1
-Pos=1
-Comparacoes=10
-Pos=-1
-Pos=1
-Comparacoes=21
-Pos=-1
-Pos=-1
-Pos=2
+Comparacoes=3
+Comparacoes=2
+Comparacoes=2

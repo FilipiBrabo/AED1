@@ -1,39 +1,4 @@
-Comparacoes=1
 Pos=-1
-[51 DSA 37]
-[60 SEA 38]
-Pos=1
-Comparacoes=3
-[51 DSA 37]
-[87 DWW 99]
-[60 SEA 38]
-Comparacoes=8
-Comparacoes=15
-Comparacoes=78
-Pos=3
-Comparacoes=34
+Comparacoes=0
 Pos=-1
-Comparacoes=14
-Pos=12
-[37 AAS 57]
-[64 ADF 17]
-[80 AFA 19]
-[51 DSA 37]
-[87 DWW 99]
-[22 ESF 70]
-[15 EWA 57]
-[5 SAF 24]
-[60 SEA 38]
-[19 SSD 63]
-[6 SSS 90]
-[18 SSW 79]
-[69 SWS 66]
-[51 WSD 24]
-[16 WSE 48]
-[60 DWF 55]
-[52 ADE 95]
-Pos=2
-Pos=3
-Pos=-1
-Comparacoes=300
-Comparacoes=197
+Comparacoes=0

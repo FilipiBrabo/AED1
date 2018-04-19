@@ -1,18 +1,4 @@
-Pos=1
+[35 DWF 59]
+[84 SFA 75]
+[56 EWW 53]
 Comparacoes=3
-Comparacoes=3
-Comparacoes=6
-Comparacoes=14
-Pos=0
-Comparacoes=28
-[53 AWA 34]
-[60 DAA 27]
-[49 DWS 77]
-[61 EAA 51]
-[28 EDE 66]
-[23 FFS 19]
-[72 SWD 47]
-[10 WSS 24]
-[91 FAA 44]
-[48 EFE 66]
-[1 SAA 62]

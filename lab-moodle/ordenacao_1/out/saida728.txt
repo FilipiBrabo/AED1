@@ -1,1 +1,33 @@
 Comparacoes=0
+Pos=0
+Comparacoes=3
+Pos=0
+Pos=0
+[2 DWA 44]
+[31 AWA 39]
+[63 FSW 1]
+[76 SSS 33]
+[14 WSS 92]
+[55 WEE 53]
+Comparacoes=15
+[31 AWA 39]
+[2 DWA 44]
+[63 FSW 1]
+[76 SSS 33]
+[55 WEE 53]
+[14 WSS 92]
+[30 ADA 70]
+Comparacoes=21
+Pos=2
+Comparacoes=14
+Comparacoes=14
+[2 DWA 44]
+[14 WSS 92]
+[30 ADA 70]
+[31 AWA 39]
+[55 WEE 53]
+[63 FSW 1]
+[76 SSS 33]
+[14 SAW 52]
+[46 ADW 60]
+[2 EAE 36]

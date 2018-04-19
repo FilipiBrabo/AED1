@@ -1,9 +1,23 @@
-Pos=0
 Comparacoes=0
-Comparacoes=3
-Comparacoes=2
-[11 DSF 3]
-[9 SES 44]
-[37 SSF 49]
-[82 WWS 40]
-Pos=1
+Comparacoes=21
+Pos=-1
+Comparacoes=36
+Comparacoes=45
+Comparacoes=31
+Pos=-1
+[43 AEA 76]
+[81 AFF 78]
+[71 DAS 68]
+[93 DDF 97]
+[54 EWA 51]
+[84 FDD 89]
+[7 SDS 3]
+[47 SDS 37]
+[82 WDA 79]
+[57 WDD 17]
+[84 AWD 36]
+Pos=8
+Comparacoes=43
+Comparacoes=41
+Pos=-1
+Comparacoes=44

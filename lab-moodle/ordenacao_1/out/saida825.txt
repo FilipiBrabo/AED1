@@ -1,6 +1,21 @@
-[96 DWW 34]
-[86 DDW 43]
+Pos=-1
 Comparacoes=1
-Comparacoes=3
+[28 DWA 33]
+[38 WWW 36]
+[28 DWA 33]
+[38 WWW 36]
+Comparacoes=15
+Comparacoes=5
+Comparacoes=15
+Comparacoes=5
+Comparacoes=10
+[28 ADA 41]
+[69 AFA 76]
+[36 DFE 18]
+[28 DWA 33]
+[74 SWW 28]
+[38 WWW 36]
+[99 FFF 57]
+Comparacoes=28
 Pos=-1
-Pos=-1
+Comparacoes=45

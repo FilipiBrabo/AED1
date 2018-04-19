@@ -1,2 +1,13 @@
-Comparacoes=15
-Comparacoes=16
+Comparacoes=1
+Pos=0
+Comparacoes=2
+Comparacoes=2
+Comparacoes=3
+Pos=-1
+Pos=7
+Comparacoes=26
+Pos=3
+Pos=1
+Comparacoes=45
+Comparacoes=9
+Pos=7

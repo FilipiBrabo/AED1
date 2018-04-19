@@ -1,5 +1,5 @@
-[52 AFA 14]
 Pos=-1
-[52 AFA 14]
-[40 FSD 78]
-[11 AED 24]
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Pos=1

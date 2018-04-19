@@ -1,51 +1,6 @@
 Comparacoes=0
-[44 SSD 67]
-[79 ADW 44]
-Comparacoes=1
-[79 ADW 44]
-[44 SSD 67]
-[22 DDD 54]
-[47 EWA 1]
-[89 AAE 12]
-Comparacoes=10
-[22 DDD 54]
-[44 SSD 67]
-[47 EWA 1]
-[79 ADW 44]
-[89 AAE 12]
-[29 FFA 6]
-Comparacoes=15
-Comparacoes=21
+Comparacoes=0
+Comparacoes=0
 Pos=-1
-Comparacoes=34
-Comparacoes=32
-Pos=-1
-Pos=-1
-Pos=-1
-Pos=0
-Pos=-1
-Comparacoes=116
-[7 SWA 77]
-[10 WSS 2]
-[22 DDD 54]
-[26 SEW 98]
-[28 SSS 65]
-[29 FFA 6]
-[31 WAW 93]
-[37 ADD 3]
-[38 EAW 83]
-[44 SSD 67]
-[47 EWA 1]
-[49 ADA 63]
-[68 WSW 42]
-[77 ADW 32]
-[77 AWS 97]
-[79 ADW 44]
-[86 DWF 88]
-[87 WAE 94]
-[89 AAE 12]
-[92 WAF 76]
-[95 EAS 28]
-[41 ADS 4]
-Pos=4
-Pos=-1
+Comparacoes=0
+[32 SDD 73]

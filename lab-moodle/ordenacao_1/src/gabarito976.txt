@@ -1,2 +1,13 @@
-[26 AAA 79]
 Comparacoes=0
+Pos=2
+[66 AWA 7]
+[50 WDS 55]
+[64 DDD 96]
+Pos=1
+Pos=-1
+[66 AWA 7]
+[50 WDS 55]
+[64 DDD 96]
+Comparacoes=5
+Pos=3
+Comparacoes=5

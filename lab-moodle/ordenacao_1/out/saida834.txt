@@ -1,26 +1,11 @@
+Pos=-1
 Comparacoes=0
-Pos=0
 Comparacoes=3
-Pos=-1
+Comparacoes=5
+[1 WAD 55]
+[77 DDS 6]
+[79 SDW 5]
+[90 EES 30]
 Comparacoes=6
-Pos=3
-Pos=-1
-Comparacoes=10
-Pos=0
-[1 AAD 72]
-[9 AAS 24]
-[86 ADA 64]
-[64 AWD 93]
-[35 DSA 73]
-[30 WFD 87]
-[67 DSS 40]
-[44 AAW 58]
-[1 AAD 72]
-[9 AAS 24]
-[86 ADA 64]
-[64 AWD 93]
-[35 DSA 73]
-[30 WFD 87]
-[67 DSS 40]
-[44 AAW 58]
-Comparacoes=28
+Comparacoes=6
+Comparacoes=23

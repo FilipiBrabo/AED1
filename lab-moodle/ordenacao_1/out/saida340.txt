@@ -1,13 +1,20 @@
 Pos=-1
-Pos=0
-Comparacoes=1
-[5 ASD 14]
-[72 WSS 45]
 Pos=-1
-[5 ASD 14]
-[72 WSS 45]
-[5 ASD 14]
-[72 WSS 45]
-[88 SFD 52]
-Pos=1
-Pos=1
+Pos=-1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=3
+[53 ADA 39]
+[62 AFA 1]
+[83 SDD 76]
+[53 ADA 39]
+[62 AFA 1]
+[83 SDD 76]
+[24 WAD 25]
+[53 ADA 39]
+[62 AFA 1]
+[83 SDD 76]
+[24 WAD 25]
+Pos=3
+Pos=-1
+Pos=-1

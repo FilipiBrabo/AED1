@@ -1,10 +1,21 @@
+Pos=-1
+Comparacoes=0
+Pos=1
+Comparacoes=3
+[35 SWA 61]
+[84 EAW 4]
+[96 AFF 43]
+[11 DFE 12]
+Pos=-1
 Pos=0
-[50 SAS 9]
-[57 EWS 40]
-[86 WWS 14]
-[22 DFE 84]
-[50 SAS 9]
-[57 EWS 40]
-[86 WWS 14]
-[22 DFE 84]
-Comparacoes=10
+Comparacoes=6
+Comparacoes=7
+[96 AFF 43]
+[11 DFE 12]
+[84 EAW 4]
+[35 SWA 61]
+[90 WSF 80]
+Pos=-1
+Comparacoes=26
+Pos=-1
+Pos=4

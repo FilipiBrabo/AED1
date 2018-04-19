@@ -1,14 +1,38 @@
 Pos=1
-Comparacoes=3
-Comparacoes=3
+[5 ASS 3]
+[21 SWE 27]
+[1 WWS 13]
+[5 ASS 3]
+[21 SWE 27]
+[1 WWS 13]
+[59 ADA 27]
+Comparacoes=12
+Pos=4
 Pos=1
-[60 SDA 72]
-[40 WAS 86]
-[69 WAW 81]
-Comparacoes=2
-[60 SDA 72]
-[40 WAS 86]
-[69 WAW 81]
-[20 AES 47]
-[16 SAA 91]
-Comparacoes=9
+Comparacoes=45
+[1 WWS 13]
+[3 DAW 32]
+[5 ASS 3]
+[14 FFE 36]
+[21 SWE 27]
+[50 SSE 48]
+[59 ADA 27]
+[72 DWS 38]
+[73 ESA 34]
+[86 ADA 89]
+[69 DSF 25]
+Comparacoes=44
+[59 ADA 27]
+[86 ADA 89]
+[5 ASS 3]
+[3 DAW 32]
+[69 DSF 25]
+[72 DWS 38]
+[73 ESA 34]
+[14 FFE 36]
+[50 SSE 48]
+[21 SWE 27]
+[58 WEW 64]
+[1 WWS 13]
+[15 SAS 66]
+Pos=9

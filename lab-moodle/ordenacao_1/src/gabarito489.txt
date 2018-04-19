@@ -1,5 +1,2 @@
 Pos=-1
-Pos=-1
-[25 AAE 27]
-[63 SFD 81]
-Pos=1
+Comparacoes=0

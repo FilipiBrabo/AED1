@@ -1,5 +1,3 @@
 Pos=-1
-Pos=0
-Comparacoes=1
-Comparacoes=55
-Comparacoes=15
+Comparacoes=0
+Comparacoes=0

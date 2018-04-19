@@ -1,16 +1,13 @@
 Pos=-1
 Comparacoes=0
-Pos=0
-Comparacoes=4
-Comparacoes=3
-[83 AAD 19]
-[86 ASW 49]
-[11 DDA 1]
-[85 ESA 14]
-Comparacoes=10
-Comparacoes=15
-Pos=-1
-Pos=-1
-Pos=3
-Pos=-1
+[67 AAA 59]
 Pos=1
+[67 AAA 59]
+[62 DWW 8]
+[64 SSD 29]
+[34 SWA 23]
+[75 ADA 64]
+[95 AFD 32]
+[56 EEA 71]
+[10 ASF 77]
+Comparacoes=19

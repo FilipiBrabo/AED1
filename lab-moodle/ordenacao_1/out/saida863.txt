@@ -1,13 +1,1 @@
-[46 SFE 75]
-Pos=2
-Pos=0
-Comparacoes=3
-[31 FAE 68]
-[46 SFE 75]
-[88 WDW 98]
-Comparacoes=6
-Pos=0
-Comparacoes=15
-Comparacoes=15
-Pos=1
-Pos=2
+Pos=-1

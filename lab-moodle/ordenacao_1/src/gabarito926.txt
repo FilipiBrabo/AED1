@@ -1,24 +1,22 @@
-Pos=0
-Comparacoes=15
-[93 ASA 89]
-[33 ASE 29]
-[66 DSF 85]
-[7 SDE 59]
-[23 SDW 69]
-[29 SED 4]
-[63 FAS 78]
-[61 SWE 91]
-Pos=6
-[93 ASA 89]
-[33 ASE 29]
-[66 DSF 85]
-[7 SDE 59]
-[23 SDW 69]
-[29 SED 4]
-[63 FAS 78]
-[61 SWE 91]
-[63 WED 72]
-[80 AWA 9]
-[18 FDA 99]
-[40 WAA 75]
-[27 AAD 98]
+Pos=2
+Comparacoes=23
+Pos=-1
+Pos=3
+Pos=10
+Comparacoes=55
+Pos=-1
+Comparacoes=10
+Pos=-1
+Comparacoes=66
+[29 AAA 82]
+[37 AAW 74]
+[4 ADD 71]
+[32 DSS 97]
+[52 EAA 38]
+[92 EAA 67]
+[44 EDA 22]
+[45 SWA 96]
+[62 SWF 57]
+[74 WAE 13]
+[26 WEF 77]
+[6 WSF 2]

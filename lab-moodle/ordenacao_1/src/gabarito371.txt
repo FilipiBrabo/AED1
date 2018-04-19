@@ -1,3 +1,18 @@
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
+Comparacoes=1
+Comparacoes=3
+Pos=0
+Pos=-1
+Comparacoes=15
+[20 ADA 10]
+[25 AAF 88]
+[34 SWD 20]
+[64 AWA 95]
+[68 DWD 19]
+[79 DAF 94]
+Pos=3
+Pos=2
+Comparacoes=28
+Comparacoes=15
+Pos=4
+Pos=-1
+Pos=7

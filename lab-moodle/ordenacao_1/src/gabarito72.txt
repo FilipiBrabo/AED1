@@ -1,0 +1,11 @@
+Pos=-1
+Pos=-1
+Pos=3
+Pos=0
+[48 SSE 93]
+[78 AAD 16]
+[56 SWA 68]
+[68 ADD 80]
+[2 AWA 15]
+Comparacoes=21
+Comparacoes=15

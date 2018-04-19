@@ -1,14 +1,39 @@
-Comparacoes=0
-Comparacoes=0
-[73 AWS 81]
-[51 ASS 5]
-Pos=1
-[73 AWS 81]
-[51 ASS 5]
-[63 AAW 10]
-[78 AEW 29]
-[92 SAS 57]
-[24 WSW 45]
-[25 WDD 46]
 Pos=-1
-Pos=2
+[62 ASS 58]
+[23 DAA 83]
+Comparacoes=21
+Comparacoes=28
+Comparacoes=7
+Comparacoes=28
+Pos=-1
+[78 AAW 79]
+[62 ASS 58]
+[23 DAA 83]
+[7 DFF 97]
+[65 DSD 66]
+[47 EAF 83]
+[11 SAW 83]
+[6 WSW 16]
+[42 DDS 94]
+[78 AAW 79]
+[62 ASS 58]
+[23 DAA 83]
+[7 DFF 97]
+[65 DSD 66]
+[47 EAF 83]
+[11 SAW 83]
+[6 WSW 16]
+[42 DDS 94]
+Comparacoes=40
+Pos=8
+[6 WSW 16]
+[7 DFF 97]
+[11 SAW 83]
+[23 DAA 83]
+[24 ADW 46]
+[42 DDS 94]
+[47 EAF 83]
+[48 AES 18]
+[62 ASS 58]
+[65 DSD 66]
+[78 AAW 79]

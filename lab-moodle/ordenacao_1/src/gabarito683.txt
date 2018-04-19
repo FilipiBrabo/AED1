@@ -1,7 +1,36 @@
 Comparacoes=0
-Comparacoes=1
+Pos=0
+Comparacoes=3
+Comparacoes=2
 Pos=-1
-Comparacoes=1
-Comparacoes=1
-Comparacoes=1
-Comparacoes=1
+Pos=9
+Pos=1
+Pos=-1
+Pos=10
+Comparacoes=47
+Comparacoes=91
+Comparacoes=136
+Comparacoes=31
+Pos=16
+Pos=-1
+[9 DWD 59]
+[14 SWE 96]
+[22 DEE 85]
+[26 WWA 12]
+[43 WSW 43]
+[47 SFE 71]
+[51 AAW 74]
+[52 EDD 8]
+[58 AWA 62]
+[67 DAA 57]
+[82 WWA 83]
+[84 WFW 95]
+[85 SFE 22]
+[86 WWE 98]
+[88 WFS 51]
+[90 WDS 19]
+[92 DSS 74]
+[93 WAS 5]
+[80 SFD 53]
+Comparacoes=171
+Pos=15

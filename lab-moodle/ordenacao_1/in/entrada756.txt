@@ -1,3 +1,21 @@
-O 2 2
 O 1 1
+I 60 AAA 56
+B 1
+O 1 2
+I 25 AEA 31
+B 25
+I 90 DWW 29
+I 10 AAF 97
+I 30 WAA 2
+I 6 DSS 57
+B 1
+M
+O 2 1
+B 6
+O 1 1
+B 32
+B 10
+O 1 1
+I 64 FED 38
+M
 P

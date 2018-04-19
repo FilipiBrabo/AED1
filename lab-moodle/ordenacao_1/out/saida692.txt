@@ -1,37 +1,28 @@
-Comparacoes=6
-Pos=3
-Pos=3
+Pos=-1
+Comparacoes=0
+Comparacoes=1
+Pos=-1
+[36 AFD 90]
+[38 SAS 66]
+[28 AAA 86]
+Pos=-1
+[36 AFD 90]
+[38 SAS 66]
+[28 AAA 86]
+Pos=1
+Pos=-1
 Pos=0
-[54 SDA 41]
-[57 FFA 4]
-[63 WDS 38]
-[93 WDF 45]
-[73 ASD 8]
-[86 DDA 84]
-Pos=4
-Pos=-1
-[54 SDA 41]
-[57 FFA 4]
-[63 WDS 38]
-[93 WDF 45]
-[73 ASD 8]
-[86 DDA 84]
-[65 AFA 86]
-[99 ASS 37]
-[54 SDA 41]
-[57 FFA 4]
-[63 WDS 38]
-[93 WDF 45]
-[73 ASD 8]
-[86 DDA 84]
-[65 AFA 86]
-[99 ASS 37]
-[54 AFE 97]
-[30 AWW 72]
-[25 SDA 99]
-Pos=3
-Comparacoes=66
-Comparacoes=26
-Pos=-1
-Comparacoes=120
-Pos=18
+[36 AFD 90]
+[38 SAS 66]
+[28 AAA 86]
+[54 EWW 67]
+[96 DEF 88]
+Pos=1
+[36 AFD 90]
+[38 SAS 66]
+[28 AAA 86]
+[54 EWW 67]
+[96 DEF 88]
+[50 WAA 63]
+Comparacoes=17
+Comparacoes=45

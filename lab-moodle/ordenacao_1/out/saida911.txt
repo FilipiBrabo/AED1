@@ -1,1 +1,10 @@
 Pos=-1
+[36 SES 21]
+Comparacoes=0
+Comparacoes=3
+Comparacoes=13
+Pos=6
+Pos=1
+Pos=-1
+Pos=1
+Pos=5

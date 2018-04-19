@@ -1,26 +1,33 @@
-Pos=-1
-Pos=-1
-Pos=-1
-Pos=1
-Comparacoes=1
-Pos=3
-Pos=-1
-Pos=0
-Pos=-1
-Comparacoes=5
-Comparacoes=4
-Comparacoes=15
-Pos=-1
-Comparacoes=15
-Pos=-1
-[31 SSW 1]
-[48 DES 12]
-[50 ASA 34]
-[78 SEA 75]
-[83 FDS 22]
-[91 DEF 50]
-Pos=-1
-Comparacoes=14
-Pos=1
 Comparacoes=10
-Comparacoes=28
+Pos=4
+Comparacoes=10
+[11 AAA 62]
+[18 AWD 49]
+[26 WWA 40]
+[41 SES 49]
+[51 ESE 2]
+[74 AEA 56]
+Pos=-1
+[11 AAA 62]
+[18 AWD 49]
+[26 WWA 40]
+[41 SES 49]
+[51 ESE 2]
+[74 AEA 56]
+Pos=2
+[11 AAA 62]
+[18 AWD 49]
+[26 WWA 40]
+[41 SES 49]
+[51 ESE 2]
+[74 AEA 56]
+[82 SSA 95]
+Pos=4
+[11 AAA 62]
+[18 AWD 49]
+[26 WWA 40]
+[41 SES 49]
+[51 ESE 2]
+[74 AEA 56]
+[82 SSA 95]
+[29 EWE 34]

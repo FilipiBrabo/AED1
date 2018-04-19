@@ -1,0 +1,8 @@
+Comparacoes=0
+[82 AWA 77]
+[14 WDA 29]
+[82 AWA 77]
+[14 WDA 29]
+[27 WSW 16]
+Comparacoes=10
+Pos=5

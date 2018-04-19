@@ -1,1 +1,9 @@
 Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+[31 AWA 73]
+[16 DSD 6]
+[10 ASE 90]
+[1 SDW 9]
+[64 FSW 86]

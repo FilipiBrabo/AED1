@@ -1,4 +1,8 @@
+Pos=0
+Pos=0
 Pos=-1
-Comparacoes=1
-[48 EAE 52]
-[66 AES 64]
+Pos=4
+Pos=1
+Pos=4
+Pos=-1
+Comparacoes=28

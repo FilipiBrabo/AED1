@@ -1,7 +1,33 @@
-[74 FFS 40]
-[74 FFS 40]
-[39 WSW 28]
-[12 ADE 74]
-Pos=1
+[27 DAS 98]
+[27 DAS 98]
+Pos=0
+Pos=0
 Pos=-1
-Comparacoes=6
+Pos=-1
+[27 DAS 98]
+[7 FAA 36]
+[44 AEW 66]
+[70 SAE 63]
+[75 SFW 96]
+Pos=1
+[27 DAS 98]
+[7 FAA 36]
+[44 AEW 66]
+[70 SAE 63]
+[75 SFW 96]
+[58 DDA 53]
+Comparacoes=13
+Pos=6
+Pos=-1
+Pos=-1
+[7 FAA 36]
+[27 DAS 98]
+[44 AEW 66]
+[57 ADW 35]
+[58 DDA 53]
+[70 SAE 63]
+[75 SFW 96]
+[89 SAA 98]
+[32 ESF 83]
+[15 EFA 37]
+[95 SDD 36]

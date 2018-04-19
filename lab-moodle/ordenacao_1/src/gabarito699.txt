@@ -1,12 +1,8 @@
-Comparacoes=0
+Comparacoes=1
+Comparacoes=3
 Pos=-1
-Pos=0
-Comparacoes=3
-Comparacoes=3
-[88 AWA 22]
-[65 EAD 39]
-[64 WSA 92]
+Comparacoes=15
 Pos=-1
 Pos=2
 Pos=-1
-Comparacoes=8
+Pos=10

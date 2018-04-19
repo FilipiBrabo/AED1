@@ -1,2 +1,36 @@
-[62 WAF 69]
-[20 WWA 47]
+[5 ESF 47]
+Comparacoes=0
+Pos=0
+[5 ESF 47]
+[5 ESF 47]
+Comparacoes=0
+Pos=-1
+Comparacoes=2
+Pos=-1
+Pos=3
+Comparacoes=21
+Pos=3
+Comparacoes=21
+Pos=5
+Pos=5
+Pos=6
+[92 DAW 39]
+[5 ESF 47]
+[5 FSD 10]
+[12 SFA 50]
+[55 SSE 81]
+[93 WAA 54]
+[83 WSE 73]
+[48 WSA 89]
+[85 WAA 6]
+[67 SAD 45]
+[71 SDE 76]
+[37 AAA 79]
+Comparacoes=66
+Pos=-1
+Comparacoes=73
+Pos=16
+Pos=9
+Pos=5
+Comparacoes=190
+Pos=11

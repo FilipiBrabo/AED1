@@ -1,5 +1,8 @@
-B 78
+B 30
+O 2 1
+B 33
+B 2
+I 32 SDA 50
 M
-I 72 EEW 23
-B 92
+I 36 DWW 14
 P

@@ -1,12 +1,19 @@
-Pos=0
-Comparacoes=6
-Comparacoes=3
-Comparacoes=21
+Comparacoes=1
+Comparacoes=1
 Pos=-1
-Comparacoes=53
-Pos=9
-Comparacoes=91
-Pos=2
-Comparacoes=64
-Pos=11
+[66 ESE 6]
+[25 SSD 64]
+[10 AAW 84]
+[46 EWW 93]
+[66 FDS 11]
+Comparacoes=21
+Pos=3
+[10 AAW 84]
+[87 ADS 40]
+[77 AWS 43]
+[66 ESE 6]
+[46 EWW 93]
+[66 FDS 11]
+[25 SSD 64]
+Comparacoes=7
 Pos=-1

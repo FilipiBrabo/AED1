@@ -1,6 +1,25 @@
-Comparacoes=0
 Pos=-1
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
+Pos=0
+Comparacoes=1
+Pos=-1
+Comparacoes=1
+Comparacoes=1
+[10 AWS 62]
+[88 SSA 17]
+[55 DWW 99]
+[69 EWD 38]
+Comparacoes=21
+Comparacoes=28
+Comparacoes=13
+Pos=-1
+Comparacoes=36
+[10 AWS 62]
+[16 EDA 26]
+[21 DSD 38]
+[39 ASA 42]
+[55 DWW 99]
+[60 WWA 48]
+[69 EWD 38]
+[84 DSA 96]
+[88 SSA 17]
+Pos=2

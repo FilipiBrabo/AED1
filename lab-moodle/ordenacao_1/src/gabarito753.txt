@@ -1,18 +1,37 @@
-Pos=1
-[68 SFW 34]
-[53 ASF 56]
-[63 SEW 87]
-[59 WFD 32]
-Comparacoes=21
-Comparacoes=28
-Comparacoes=17
-Comparacoes=36
-[14 ADA 71]
-[20 ASA 45]
-[36 WWS 95]
-[53 ASF 56]
-[59 WFD 32]
-[62 DSF 59]
-[63 SEW 87]
-[68 SFW 34]
-[74 EFE 77]
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+[10 ADE 12]
+[61 FWD 2]
+[10 ADE 12]
+[61 FWD 2]
+Pos=-1
+Comparacoes=3
+Pos=3
+Comparacoes=6
+Comparacoes=10
+Comparacoes=15
+Comparacoes=15
+[99 AAA 51]
+[10 ADE 12]
+[57 DSD 72]
+[84 FAD 83]
+[61 FWD 2]
+[93 WDD 92]
+[53 EFA 39]
+[71 AEW 50]
+[56 WDF 54]
+[61 DAD 86]
+Comparacoes=45
+[99 AAA 51]
+[10 ADE 12]
+[71 AEW 50]
+[61 DAD 86]
+[57 DSD 72]
+[53 EFA 39]
+[84 FAD 83]
+[61 FWD 2]
+[93 WDD 92]
+[56 WDF 54]
+[50 AWA 15]
+Comparacoes=41

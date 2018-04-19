@@ -1,8 +1,17 @@
-Comparacoes=0
-Pos=1
-Comparacoes=15
-Pos=2
-Comparacoes=12
-Comparacoes=55
-Comparacoes=41
-Pos=-1
+[58 ASA 47]
+[13 AAD 60]
+[85 SAW 74]
+[12 WSW 29]
+[44 ASA 95]
+[62 AEA 56]
+[58 ASA 47]
+[13 AAD 60]
+[85 SAW 74]
+[12 WSW 29]
+[44 ASA 95]
+[62 AEA 56]
+[71 DWS 62]
+[73 WAW 52]
+[11 DFA 46]
+[97 DFW 92]
+Comparacoes=26

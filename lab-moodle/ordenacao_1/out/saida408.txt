@@ -1,4 +1,0 @@
-Comparacoes=0
-[11 WDD 55]
-[11 WDD 55]
-Pos=-1

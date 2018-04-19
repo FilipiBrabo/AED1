@@ -1,1 +1,7 @@
-Pos=-1
+Comparacoes=0
+Comparacoes=3
+[69 DDS 48]
+[92 FWW 56]
+[38 WEE 7]
+[21 SFS 84]
+[34 SWD 33]

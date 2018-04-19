@@ -1,6 +1,12 @@
-Pos=0
-Comparacoes=6
-Comparacoes=10
-Comparacoes=9
-Pos=5
 Pos=-1
+Comparacoes=0
+Comparacoes=3
+Pos=-1
+[69 ADD 41]
+[38 FDA 64]
+[68 WWS 75]
+Pos=1
+Comparacoes=3
+Pos=-1
+Pos=2
+Pos=2

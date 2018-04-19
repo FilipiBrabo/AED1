@@ -1,3 +1,44 @@
-Comparacoes=3
-Comparacoes=2
+Pos=-1
+Pos=-1
+[16 AAW 7]
+Pos=0
+Pos=1
+Comparacoes=1
+[16 AAW 7]
+[47 AWD 20]
+Pos=1
+Pos=-1
+Pos=3
+Pos=7
+Pos=5
 Pos=2
+Comparacoes=55
+Pos=-1
+Comparacoes=26
+[16 AAW 7]
+[57 AAW 94]
+[14 AES 17]
+[97 AFA 7]
+[47 AWD 20]
+[72 EAA 13]
+[51 SAA 80]
+[84 SAD 25]
+[90 WDA 50]
+[85 WEE 89]
+[68 WWD 98]
+[7 WDS 90]
+[77 WAA 21]
+[16 AAW 7]
+[57 AAW 94]
+[14 AES 17]
+[97 AFA 7]
+[47 AWD 20]
+[72 EAA 13]
+[51 SAA 80]
+[84 SAD 25]
+[90 WDA 50]
+[85 WEE 89]
+[68 WWD 98]
+[7 WDS 90]
+[77 WAA 21]
+[22 AFD 24]

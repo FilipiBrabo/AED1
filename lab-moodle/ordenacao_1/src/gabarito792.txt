@@ -1,30 +1,17 @@
 Comparacoes=0
 Pos=-1
+Comparacoes=0
 Pos=-1
-Pos=1
-Comparacoes=21
-[2 WFW 86]
-[21 SSA 1]
-[27 AWA 23]
-[27 SSA 35]
-[38 ADA 8]
-[48 FWF 3]
-[81 EEW 41]
-[16 WSF 12]
-[51 SSD 90]
-[58 AWS 32]
-[71 DWS 93]
-[95 FDS 25]
-[23 AEW 22]
-Comparacoes=57
+[73 AED 22]
+[48 ASW 21]
+[76 ASD 13]
+[2 SES 47]
+[14 DDD 79]
 Pos=-1
-Pos=-1
-Comparacoes=91
-Pos=8
-Comparacoes=45
 Pos=0
+Pos=0
+Pos=3
 Pos=-1
-Pos=4
-Comparacoes=153
-Pos=7
-Comparacoes=210
+Comparacoes=28
+Comparacoes=28
+Comparacoes=28

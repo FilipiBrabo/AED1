@@ -1,26 +1,12 @@
-Pos=0
-[35 SSD 18]
-[64 WDD 76]
-[80 WSA 34]
+Comparacoes=0
+Pos=-1
+Comparacoes=1
+Comparacoes=1
+Pos=-1
 Pos=1
-[35 SSD 18]
-[64 WDD 76]
-[80 WSA 34]
-[35 SSD 18]
-[64 WDD 76]
-[80 WSA 34]
-Pos=0
+[25 SEW 64]
+[26 FDW 86]
+[56 DDS 59]
+Comparacoes=3
+Comparacoes=3
 Pos=-1
-Pos=-1
-[35 SSD 18]
-[64 WDD 76]
-[80 WSA 34]
-[26 WAF 54]
-[56 AED 3]
-[7 SDE 21]
-[23 WAF 75]
-[30 SWW 51]
-[94 DAA 10]
-[56 DDW 85]
-[42 SDW 31]
-Pos=5

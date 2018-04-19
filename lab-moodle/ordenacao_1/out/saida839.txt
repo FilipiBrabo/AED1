@@ -1,14 +1,44 @@
 Comparacoes=0
-Comparacoes=0
+Pos=-1
+[63 WAD 58]
 Pos=-1
 Comparacoes=0
 Comparacoes=0
-Comparacoes=5
-Comparacoes=11
-Comparacoes=5
-[95 ADE 1]
-[89 ASS 5]
-[88 DAD 49]
-[15 DDA 21]
-[13 EAE 10]
-[74 FWA 75]
+[63 WAD 58]
+[29 FDS 72]
+[52 AEW 66]
+Comparacoes=9
+Comparacoes=9
+Comparacoes=15
+Comparacoes=15
+[52 AEW 66]
+[42 ASE 79]
+[60 AWA 9]
+[88 AWE 8]
+[29 FDS 72]
+[63 WAD 58]
+[26 ADE 46]
+[4 FSW 52]
+Pos=6
+Comparacoes=36
+[19 AAA 29]
+[26 ADE 46]
+[52 AEW 66]
+[42 ASE 79]
+[60 AWA 9]
+[88 AWE 8]
+[29 FDS 72]
+[4 FSW 52]
+[63 WAD 58]
+[71 AAA 3]
+[19 AAA 29]
+[26 ADE 46]
+[52 AEW 66]
+[42 ASE 79]
+[60 AWA 9]
+[88 AWE 8]
+[29 FDS 72]
+[4 FSW 52]
+[63 WAD 58]
+[71 AAA 3]
+Comparacoes=17

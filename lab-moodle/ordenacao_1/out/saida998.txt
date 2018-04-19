@@ -1,4 +1,15 @@
+Comparacoes=0
+[35 AES 76]
+Comparacoes=6
 Pos=-1
-Pos=1
-Pos=1
-Comparacoes=28
+[35 AES 76]
+[52 EAA 33]
+[50 EAA 6]
+[64 SDA 96]
+[97 ASD 56]
+[82 AWS 28]
+[55 EDD 58]
+[10 SAA 26]
+[31 AAF 11]
+Pos=-1
+Comparacoes=55

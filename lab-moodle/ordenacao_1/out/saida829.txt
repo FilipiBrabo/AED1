@@ -1,8 +1,13 @@
-Pos=-1
-[38 FAA 84]
-[99 FWW 19]
-[38 FAA 84]
-[99 FWW 19]
-Comparacoes=14
-Pos=-1
-Comparacoes=19
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+[38 EDS 1]
+[86 DEA 6]
+[38 EDS 1]
+[86 DEA 6]
+[5 DDS 75]
+[53 WSD 82]
+[38 EDS 1]
+[86 DEA 6]
+[5 DDS 75]
+[53 WSD 82]

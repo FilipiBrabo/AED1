@@ -1,21 +1,29 @@
-[78 SAE 64]
-[78 SAE 64]
-[25 DFD 4]
-[9 DDD 10]
-[29 AAS 18]
-Comparacoes=6
-Pos=3
-Comparacoes=3
-Pos=3
-Comparacoes=15
+Comparacoes=0
+Comparacoes=0
 Pos=-1
-[29 AAS 18]
-[9 DDD 10]
-[68 DFA 96]
-[25 DFD 4]
-[86 DWE 63]
-[78 SAE 64]
-[34 WDD 33]
-[76 DWW 17]
-[74 SSW 81]
-Comparacoes=19
+Pos=-1
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=-1
+[58 WEW 43]
+[73 AWA 91]
+[50 FES 62]
+Pos=-1
+Comparacoes=3
+Comparacoes=3
+Comparacoes=3
+[73 AWA 91]
+[50 FES 62]
+[58 WEW 43]
+Pos=-1
+Comparacoes=10
+Pos=3
+Pos=-1
+Pos=4
+Comparacoes=21
+Comparacoes=21
+Comparacoes=6
+Pos=-1
+Comparacoes=28
+Comparacoes=36

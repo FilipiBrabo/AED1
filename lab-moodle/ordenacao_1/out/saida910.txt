@@ -1,9 +1,4 @@
-Pos=-1
-Comparacoes=1
-Comparacoes=3
-[17 AAW 72]
-[98 AWD 87]
-[54 DES 82]
-[32 WAS 17]
-Pos=-1
+Comparacoes=0
+Comparacoes=6
+Pos=1
 Pos=-1

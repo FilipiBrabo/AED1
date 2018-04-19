@@ -1,13 +1,30 @@
+Pos=1
+[56 DWF 32]
+[37 ADA 86]
+[8 WSD 16]
+[10 WAW 46]
+[25 DSD 42]
 Pos=0
-[41 FDD 23]
-[85 DAS 43]
-[27 DSA 82]
-[32 WSA 91]
-[53 SSA 64]
-[95 DAA 86]
-Comparacoes=15
-Comparacoes=28
+Comparacoes=9
+Comparacoes=4
+Pos=6
+[8 WSD 16]
+[10 WAW 46]
+[25 DSD 42]
+[37 ADA 86]
+[56 DWF 32]
+[81 AAA 85]
+[64 SSS 74]
+[3 WAA 4]
+[93 WSA 12]
+Comparacoes=36
+Comparacoes=36
+Pos=5
 Pos=-1
-Comparacoes=23
-Pos=-1
-Pos=-1
+Comparacoes=105
+Pos=15
+Pos=2
+Comparacoes=136
+Comparacoes=153
+Comparacoes=153
+Pos=4

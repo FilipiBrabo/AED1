@@ -1,43 +1,15 @@
+[31 DFD 7]
+[36 DDE 49]
+[30 AAA 48]
+[31 DFD 7]
+[36 DDE 49]
+[30 AAA 48]
+[24 DSA 63]
+Comparacoes=6
+[24 DSA 63]
+[30 AAA 48]
+[31 DFD 7]
+[36 DDE 49]
+[23 AWF 89]
 Pos=-1
-Pos=1
-Comparacoes=15
-Pos=3
-Pos=5
-Pos=0
-[18 WDS 7]
-[22 DFW 4]
-[31 WAA 47]
-[43 DEA 6]
-[60 FAE 27]
-[67 AAD 53]
-Comparacoes=8
-Comparacoes=18
-Pos=1
-Comparacoes=35
-Comparacoes=17
-Pos=8
-Comparacoes=44
-Pos=-1
-[4 ASD 66]
-[10 FSW 78]
-[18 WDS 7]
-[22 DFW 4]
-[31 WAA 47]
-[33 WDE 15]
-[43 DEA 6]
-[50 SDA 15]
-[52 DSA 58]
-[54 AWD 7]
-[60 FAE 27]
-[61 DDD 56]
-[67 AAD 53]
-[83 AFE 5]
-[83 ASD 7]
-[85 AED 26]
-[98 WSD 32]
-[18 ADD 78]
-[26 FWW 3]
-[17 FWA 59]
-[12 ESS 81]
-Comparacoes=152
-Comparacoes=253
+Comparacoes=10

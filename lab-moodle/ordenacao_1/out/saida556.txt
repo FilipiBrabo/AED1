@@ -1,53 +1,122 @@
-Comparacoes=0
-Pos=0
-Comparacoes=0
-Comparacoes=0
-Comparacoes=10
-Pos=-1
-Pos=5
-Comparacoes=14
+Pos=1
 Pos=3
-Comparacoes=32
-Comparacoes=25
-Comparacoes=19
-Comparacoes=21
-Comparacoes=66
-Comparacoes=66
-[4 ASA 48]
-[32 ASA 12]
-[36 ASA 65]
-[46 SAW 46]
-[48 DDD 55]
-[55 WWD 95]
-[57 AWW 43]
-[71 ESE 63]
-[75 DAW 74]
-[87 WDA 72]
-[92 DSD 98]
-[95 WWA 99]
-[96 ESS 45]
-Comparacoes=91
-Pos=8
-Comparacoes=91
+Comparacoes=13
+Comparacoes=8
 Pos=-1
+[12 AAD 2]
+[14 AAE 97]
+[30 AAW 6]
+[42 ADD 37]
+[20 ADD 99]
+[25 AWS 3]
+[6 ESW 89]
+[71 EWA 44]
+[69 SDD 57]
+[12 AAD 2]
+[14 AAE 97]
+[30 AAW 6]
+[42 ADD 37]
+[20 ADD 99]
+[25 AWS 3]
+[6 ESW 89]
+[71 EWA 44]
+[69 SDD 57]
+[73 FES 10]
+[87 WDA 38]
+[7 AWW 90]
+[18 ADA 32]
+[54 EAD 94]
+[31 AAS 3]
+Comparacoes=105
+Comparacoes=136
+[6 ESW 89]
+[7 AWW 90]
+[12 AAD 2]
+[14 AAE 97]
+[18 ADA 32]
+[20 ADD 99]
+[25 AWS 3]
+[30 AAW 6]
+[31 AAS 3]
+[42 ADD 37]
+[54 EAD 94]
+[69 SDD 57]
+[71 EWA 44]
+[73 FES 10]
+[87 WDA 38]
+[90 AEA 46]
+[98 AEA 39]
+[47 DSA 12]
+Comparacoes=153
+[6 ESW 89]
+[7 AWW 90]
+[12 AAD 2]
+[14 AAE 97]
+[18 ADA 32]
+[20 ADD 99]
+[25 AWS 3]
+[30 AAW 6]
+[31 AAS 3]
+[42 ADD 37]
+[47 DSA 12]
+[54 EAD 94]
+[69 SDD 57]
+[71 EWA 44]
+[73 FES 10]
+[87 WDA 38]
+[90 AEA 46]
+[98 AEA 39]
+[6 ESW 89]
+[7 AWW 90]
+[12 AAD 2]
+[14 AAE 97]
+[18 ADA 32]
+[20 ADD 99]
+[25 AWS 3]
+[30 AAW 6]
+[31 AAS 3]
+[42 ADD 37]
+[47 DSA 12]
+[54 EAD 94]
+[69 SDD 57]
+[71 EWA 44]
+[73 FES 10]
+[87 WDA 38]
+[90 AEA 46]
+[98 AEA 39]
+[54 WWE 24]
+[88 WAA 6]
+[62 DWA 98]
+Comparacoes=231
 Pos=-1
-[4 ASA 48]
-[32 ASA 12]
-[32 FWA 31]
-[36 ASA 65]
-[46 SAW 46]
-[48 DDD 55]
-[55 WWD 95]
-[57 AWW 43]
-[71 ESE 63]
-[75 DAW 74]
-[87 WDA 72]
-[92 DSD 98]
-[95 WWA 99]
-[96 ESS 45]
-[26 SSW 44]
-[92 WDF 14]
-Pos=-1
-Pos=-1
-Pos=16
-Comparacoes=100
+Comparacoes=64
+Comparacoes=125
+[12 AAD 2]
+[14 AAE 97]
+[31 AAS 3]
+[30 AAW 6]
+[18 ADA 32]
+[20 ADD 99]
+[42 ADD 37]
+[90 AEA 46]
+[98 AEA 39]
+[25 AWS 3]
+[7 AWW 90]
+[83 DAS 3]
+[47 DSA 12]
+[34 DSS 37]
+[62 DWA 98]
+[54 EAD 94]
+[6 ESW 89]
+[71 EWA 44]
+[92 FAD 65]
+[73 FES 10]
+[69 SDD 57]
+[7 SED 97]
+[88 WAA 6]
+[87 WDA 38]
+[54 WWE 24]
+[49 FFW 62]
+[14 DAD 49]
+[98 SAA 86]
+[76 SFA 85]

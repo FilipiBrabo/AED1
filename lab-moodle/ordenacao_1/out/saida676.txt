@@ -1,1 +1,20 @@
 Comparacoes=0
+Pos=0
+Pos=0
+Pos=0
+Pos=1
+[73 SWW 92]
+[98 SSA 76]
+[19 SAE 9]
+Comparacoes=3
+Pos=-1
+[19 SAE 9]
+[73 SWW 92]
+[98 SSA 76]
+Comparacoes=3
+[19 SAE 9]
+[98 SSA 76]
+[73 SWW 92]
+Pos=0
+Comparacoes=9
+Pos=7

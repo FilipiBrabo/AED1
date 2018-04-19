@@ -1,118 +1,55 @@
-Comparacoes=1
-Comparacoes=1
-[26 SDD 31]
-[6 SED 63]
-Pos=-1
-Comparacoes=19
-Comparacoes=28
-Comparacoes=7
+Comparacoes=0
+Comparacoes=0
 Pos=0
-Pos=7
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Comparacoes=6
+Comparacoes=7
+Pos=-1
+Comparacoes=15
+[30 AAA 77]
+[44 AWE 89]
+[54 DAS 50]
+[89 FAS 89]
+[48 SAD 55]
+[75 SAS 50]
+Comparacoes=9
 Pos=6
-[86 ADW 43]
-[89 ASS 41]
-[64 AWS 20]
-[26 SDD 31]
-[25 SDW 66]
-[6 SED 63]
-[79 SWA 11]
-[1 WWW 12]
-[51 SWA 54]
+Comparacoes=6
 Pos=-1
-Comparacoes=18
-Comparacoes=40
-Pos=3
-[1 WWW 12]
-[6 SED 63]
-[25 SDW 66]
-[26 SDD 31]
-[51 SWA 54]
-[64 AWS 20]
-[79 SWA 11]
-[86 ADW 43]
-[89 ASS 41]
-[98 ASA 34]
-[32 SAW 65]
-[71 AFS 32]
-[51 SAF 99]
-[22 ADS 49]
-[11 ADS 21]
-[22 DDA 60]
-Pos=13
-Comparacoes=136
-[1 WWW 12]
-[6 SED 63]
-[11 ADS 21]
-[22 ADS 49]
-[22 DDA 60]
-[25 SDW 66]
-[26 SDD 31]
-[32 SAW 65]
-[40 WWS 36]
-[51 SAF 99]
-[51 SWA 54]
-[64 AWS 20]
-[71 AFS 32]
-[79 SWA 11]
-[86 ADW 43]
-[89 ASS 41]
-[98 ASA 34]
-[6 EAS 6]
-[1 WWW 12]
-[6 SED 63]
-[11 ADS 21]
-[22 ADS 49]
-[22 DDA 60]
-[25 SDW 66]
-[26 SDD 31]
-[32 SAW 65]
-[40 WWS 36]
-[51 SAF 99]
-[51 SWA 54]
-[64 AWS 20]
-[71 AFS 32]
-[79 SWA 11]
-[86 ADW 43]
-[89 ASS 41]
-[98 ASA 34]
-[6 EAS 6]
-[1 WWW 12]
-[6 SED 63]
-[11 ADS 21]
-[22 ADS 49]
-[22 DDA 60]
-[25 SDW 66]
-[26 SDD 31]
-[32 SAW 65]
-[40 WWS 36]
-[51 SAF 99]
-[51 SWA 54]
-[64 AWS 20]
-[71 AFS 32]
-[79 SWA 11]
-[86 ADW 43]
-[89 ASS 41]
-[98 ASA 34]
-[6 EAS 6]
+[30 AAA 77]
+[44 AWE 89]
+[54 DAS 50]
+[88 DDE 66]
+[89 FAS 89]
+[48 SAD 55]
+[75 SAS 50]
+[5 AWW 83]
+[73 AAS 74]
+Comparacoes=22
+Pos=6
 Pos=-1
-Comparacoes=50
-[1 WWW 12]
-[1 AFA 12]
-[6 SED 63]
-[6 EAS 6]
-[11 ADS 21]
-[22 ADS 49]
-[22 DDA 60]
-[25 SDW 66]
-[26 SDD 31]
-[32 SAW 65]
-[40 WWS 36]
-[51 SAF 99]
-[51 SWA 54]
-[64 AWS 20]
-[71 AFS 32]
-[79 SWA 11]
-[86 ADW 43]
-[89 ASS 41]
-[98 ASA 34]
-[8 EAA 69]
+Comparacoes=56
+Pos=11
+Pos=-1
+[5 AWW 83]
+[9 SAD 11]
+[14 WAD 96]
+[16 SWD 97]
+[18 WDS 45]
+[30 AAA 77]
+[42 WWE 90]
+[44 AWE 89]
+[48 SAD 55]
+[54 DAS 50]
+[73 AAS 74]
+[75 SAS 50]
+[88 DDE 66]
+[89 FAS 89]
+[93 EWA 93]
+[90 EEA 42]
+[76 DFF 67]
+[4 SSW 59]
+[14 SAA 20]

@@ -1,28 +1,7 @@
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
 Pos=-1
-Pos=-1
-Pos=-1
-Comparacoes=0
-Comparacoes=0
 Comparacoes=1
-Comparacoes=1
-Comparacoes=1
-Pos=-1
-Comparacoes=4
-Pos=-1
-Pos=-1
-[52 AEA 5]
-[55 DAD 1]
-[35 DWA 17]
-[99 EWW 50]
-[51 WDA 53]
-[70 AAS 17]
-[92 SWW 29]
-[38 SAA 41]
-[14 DSA 79]
-[17 ADA 56]
-Pos=-1
-Comparacoes=45
-Pos=3
+Comparacoes=3
+Pos=2
+Comparacoes=3
+Comparacoes=6
+Comparacoes=7

@@ -1,36 +1,5 @@
 Comparacoes=0
-[85 DEW 92]
-[83 ADW 74]
-[67 DSS 71]
-[59 FAW 23]
 Pos=-1
-Pos=9
-Comparacoes=24
-Pos=10
 Pos=-1
-Comparacoes=18
-Comparacoes=16
-Comparacoes=120
-Comparacoes=136
-[88 ADA 65]
-[83 ADW 74]
-[73 AEE 23]
-[79 AWD 40]
-[54 DAF 53]
-[50 DAS 61]
-[85 DEW 92]
-[67 DSS 71]
-[25 EDA 53]
-[55 EWA 52]
-[89 FAF 9]
-[59 FAW 23]
-[72 FDA 20]
-[5 SAW 74]
-[43 SFA 60]
-[35 SWD 9]
-[34 WAF 71]
-[1 SAD 73]
-[12 AAA 31]
-[10 WSA 28]
-[72 SAS 76]
-Pos=14
+Pos=-1
+Comparacoes=0

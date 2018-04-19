@@ -1,2 +1,4 @@
-Comparacoes=0
-Comparacoes=0
+[30 ASE 84]
+[51 DAA 75]
+Comparacoes=1
+Pos=-1

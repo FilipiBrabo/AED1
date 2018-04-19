@@ -1,0 +1,32 @@
+Comparacoes=0
+[11 WDS 90]
+[29 AFS 73]
+[77 ADA 53]
+[54 FFA 25]
+[57 FWA 57]
+[11 WDS 90]
+[29 AFS 73]
+[77 ADA 53]
+[54 FFA 25]
+[57 FWA 57]
+Comparacoes=10
+Pos=3
+Pos=-1
+Comparacoes=15
+Comparacoes=18
+Comparacoes=28
+Pos=6
+Pos=8
+Pos=1
+Comparacoes=36
+[77 ADA 53]
+[77 AFA 13]
+[29 AFS 73]
+[41 ASD 10]
+[99 DWD 72]
+[54 FFA 25]
+[57 FWA 57]
+[11 WDS 90]
+[79 WWE 68]
+Comparacoes=34
+Comparacoes=55

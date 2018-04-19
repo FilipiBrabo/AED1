@@ -1,0 +1,29 @@
+Comparacoes=0
+Pos=0
+Comparacoes=0
+[76 DES 6]
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Comparacoes=6
+Comparacoes=3
+Pos=-1
+[2 AAA 10]
+[23 WFA 93]
+[29 EAA 53]
+[76 DES 6]
+[2 AAA 10]
+[23 WFA 93]
+[29 EAA 53]
+[76 DES 6]
+Pos=-1
+Pos=0
+Comparacoes=11
+Comparacoes=5
+Pos=-1
+Comparacoes=36
+Comparacoes=36
+Comparacoes=36
+Comparacoes=41
+Comparacoes=55
+Comparacoes=55

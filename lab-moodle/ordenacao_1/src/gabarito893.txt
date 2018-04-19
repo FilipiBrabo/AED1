@@ -1,20 +1,7 @@
+Pos=-1
 Comparacoes=0
+Pos=-1
 Comparacoes=0
-Pos=-1
-[95 SDA 5]
-[21 SDF 63]
-[69 EWS 98]
-Pos=-1
-Pos=-1
-Comparacoes=10
-[21 SDF 63]
-[54 SED 28]
-[62 AAS 69]
-[69 AEE 79]
-[95 SDA 5]
-[4 FDS 17]
-[58 ESA 37]
-[78 DDW 9]
-[28 DES 53]
-Pos=-1
-Comparacoes=61
+[82 FDS 26]
+[43 AAS 56]
+[85 EFS 65]

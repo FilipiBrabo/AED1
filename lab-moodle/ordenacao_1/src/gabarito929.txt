@@ -1,13 +1,15 @@
-Pos=-1
-Comparacoes=0
-Pos=-1
-Comparacoes=0
-Pos=-1
 Comparacoes=0
 Comparacoes=0
-[1 SDE 54]
-[1 SDE 54]
-Comparacoes=0
-Comparacoes=1
-Comparacoes=1
-Comparacoes=1
+[74 ADW 74]
+Comparacoes=6
+Comparacoes=28
+Comparacoes=28
+Pos=2
+Comparacoes=7
+Pos=5
+Pos=7
+Comparacoes=15
+Comparacoes=55
+Pos=5
+Comparacoes=39
+Pos=1

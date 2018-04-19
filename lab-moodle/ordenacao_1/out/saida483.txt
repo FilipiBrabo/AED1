@@ -1,8 +1,2 @@
-Comparacoes=1
-Comparacoes=1
-[45 WFE 88]
-[64 AEA 9]
-[50 ASE 56]
-Comparacoes=10
-Comparacoes=15
-Comparacoes=12
+Comparacoes=0
+Pos=-1

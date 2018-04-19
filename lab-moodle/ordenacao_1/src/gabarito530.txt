@@ -1,2 +1,4 @@
 Comparacoes=0
+Comparacoes=0
+[57 WDD 96]
 Pos=-1

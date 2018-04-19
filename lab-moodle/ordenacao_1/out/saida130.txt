@@ -1,10 +1,47 @@
-Pos=-1
-Comparacoes=0
-Pos=2
-Comparacoes=9
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=3
+[22 ADD 54]
+[30 WFW 19]
+[36 DDS 8]
+[35 SFA 69]
+Comparacoes=5
+Comparacoes=8
+Comparacoes=6
+Comparacoes=36
 Pos=1
-Pos=2
 Pos=-1
-Comparacoes=21
 Pos=-1
-Pos=9
+[22 ADD 54]
+[48 AFS 3]
+[53 ASE 62]
+[36 DDS 8]
+[59 FDA 74]
+[35 SFA 69]
+[27 SFE 53]
+[30 WFW 19]
+[59 WSA 42]
+[21 DAS 86]
+[76 ASA 22]
+[91 AAE 50]
+[22 ADD 54]
+[48 AFS 3]
+[53 ASE 62]
+[36 DDS 8]
+[59 FDA 74]
+[35 SFA 69]
+[27 SFE 53]
+[30 WFW 19]
+[59 WSA 42]
+[21 DAS 86]
+[76 ASA 22]
+[91 AAE 50]
+Pos=-1
+Pos=4
+Pos=-1
+Comparacoes=66
+Pos=-1
+Pos=20
+Pos=24
+Comparacoes=183

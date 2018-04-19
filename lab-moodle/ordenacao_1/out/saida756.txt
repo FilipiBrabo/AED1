@@ -1,2 +1,24 @@
 Comparacoes=0
+Pos=-1
 Comparacoes=0
+Pos=1
+Pos=-1
+[60 AAA 56]
+[25 AEA 31]
+[90 DWW 29]
+[10 AAF 97]
+[30 WAA 2]
+[6 DSS 57]
+Comparacoes=13
+Pos=0
+Comparacoes=15
+Pos=-1
+Pos=1
+Comparacoes=15
+[6 DSS 57]
+[10 AAF 97]
+[25 AEA 31]
+[30 WAA 2]
+[60 AAA 56]
+[90 DWW 29]
+[64 FED 38]

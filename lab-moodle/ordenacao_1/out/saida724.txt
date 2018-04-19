@@ -1,4 +1,41 @@
-Pos=1
 Pos=-1
 Comparacoes=1
+[66 ADA 94]
+[96 DAD 29]
+[76 AWD 12]
+[66 ADA 94]
+[96 DAD 29]
+[76 AWD 12]
+[8 AAD 6]
+[89 EWE 59]
 Pos=-1
+Comparacoes=53
+Pos=-1
+Comparacoes=78
+Comparacoes=35
+Pos=4
+Pos=-1
+Comparacoes=231
+[8 AAD 6]
+[15 SSS 9]
+[21 ADE 78]
+[23 SDE 88]
+[26 AWW 58]
+[37 ASA 34]
+[39 WSS 23]
+[56 WWE 60]
+[66 ADA 94]
+[67 EES 15]
+[71 AAE 6]
+[76 AWD 12]
+[78 DAW 54]
+[79 DSS 50]
+[80 AAW 23]
+[81 FAA 81]
+[82 DAA 82]
+[89 DDA 86]
+[89 EWE 59]
+[92 FAW 18]
+[93 ADD 2]
+[96 DAD 29]
+[9 EAD 39]

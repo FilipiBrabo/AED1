@@ -1,5 +1,8 @@
-[80 AAA 27]
-[43 DDF 60]
-[8 WAS 51]
-[60 FED 33]
-[7 AAA 12]
+Comparacoes=0
+Pos=-1
+Comparacoes=3
+Comparacoes=6
+Comparacoes=6
+Comparacoes=6
+Comparacoes=10
+Comparacoes=21

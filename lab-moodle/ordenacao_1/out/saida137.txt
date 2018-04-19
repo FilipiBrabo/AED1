@@ -1,3 +1,26 @@
-Comparacoes=0
-[14 DWS 88]
-[11 AFW 40]
+Pos=4
+Comparacoes=10
+Pos=0
+Comparacoes=10
+Comparacoes=10
+Pos=4
+[1 AFS 69]
+[16 WWA 15]
+[37 WEE 86]
+[78 SWW 45]
+[82 AWA 8]
+Comparacoes=21
+Pos=2
+Comparacoes=17
+[1 AFS 69]
+[3 SAD 70]
+[16 WWA 15]
+[37 WEE 86]
+[49 ESA 58]
+[61 WSW 50]
+[70 SDW 59]
+[78 SWW 45]
+[82 AWA 8]
+Comparacoes=9
+Comparacoes=23
+Comparacoes=91

@@ -1,17 +1,24 @@
+Comparacoes=0
 Pos=-1
-Comparacoes=0
-Comparacoes=0
-Comparacoes=6
-[26 ASS 10]
-[33 ADD 38]
-[68 DAA 5]
-[88 DSS 75]
-[31 ASD 21]
-[65 AWD 61]
-[26 ASS 10]
-[33 ADD 38]
-[68 DAA 5]
-[88 DSS 75]
-[31 ASD 21]
-[65 AWD 61]
-Pos=5
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=1
+Pos=-1
+Comparacoes=10
+Comparacoes=4
+Comparacoes=10
+Comparacoes=8
+[8 ADS 69]
+[97 ADS 36]
+[12 DDD 34]
+[67 DFE 95]
+[90 SFS 31]
+[89 SSE 32]
+Comparacoes=15
+[8 ADS 69]
+[12 DDD 34]
+[67 DFE 95]
+[89 SSE 32]
+[90 SFS 31]
+[97 ADS 36]

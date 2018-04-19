@@ -1,6 +1,86 @@
+[90 SWA 37]
+[65 AAS 92]
 Pos=-1
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
-[86 ADA 1]
+Comparacoes=3
+Comparacoes=10
+Pos=-1
+Pos=-1
+Pos=2
+Comparacoes=4
+Pos=0
+Comparacoes=28
+Comparacoes=11
+[71 AAA 18]
+[65 AAS 92]
+[17 DAD 34]
+[52 DWF 15]
+[49 DWF 16]
+[16 EAD 9]
+[90 SWA 37]
+[73 WSA 62]
+[27 WSS 21]
+Pos=-1
+[71 AAA 18]
+[65 AAS 92]
+[17 DAD 34]
+[52 DWF 15]
+[49 DWF 16]
+[16 EAD 9]
+[90 SWA 37]
+[73 WSA 62]
+[27 WSS 21]
+[83 SED 64]
+[41 WDW 44]
+Pos=-1
+[71 AAA 18]
+[65 AAS 92]
+[17 DAD 34]
+[52 DWF 15]
+[49 DWF 16]
+[16 EAD 9]
+[90 SWA 37]
+[73 WSA 62]
+[27 WSS 21]
+[83 SED 64]
+[41 WDW 44]
+[71 AAA 18]
+[65 AAS 92]
+[17 DAD 34]
+[52 DWF 15]
+[49 DWF 16]
+[16 EAD 9]
+[90 SWA 37]
+[73 WSA 62]
+[27 WSS 21]
+[83 SED 64]
+[41 WDW 44]
+Comparacoes=55
+Comparacoes=10
+Comparacoes=55
+[71 AAA 18]
+[65 AAS 92]
+[17 DAD 34]
+[49 DWF 16]
+[52 DWF 15]
+[16 EAD 9]
+[83 SED 64]
+[90 SWA 37]
+[41 WDW 44]
+[73 WSA 62]
+[27 WSS 21]
+Pos=2
+Pos=-1
+Pos=7
+Comparacoes=46
+[10 AAA 49]
+[16 EAD 9]
+[17 DAD 34]
+[27 WSS 21]
+[41 WDW 44]
+[49 DWF 16]
+[52 DWF 15]
+[65 AAS 92]
+[71 AAA 18]
+[73 WSA 62]
+[83 SED 64]
+[90 SWA 37]

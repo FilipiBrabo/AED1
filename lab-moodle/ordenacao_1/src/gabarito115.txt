@@ -1,2 +1,43 @@
 Pos=1
-Pos=0
+Pos=3
+[62 DDD 28]
+[53 FAA 63]
+[30 WSA 82]
+[49 EED 60]
+[63 EEW 68]
+[45 ADW 81]
+[62 DDD 28]
+[53 FAA 63]
+[30 WSA 82]
+[49 EED 60]
+[63 EEW 68]
+[45 ADW 81]
+Comparacoes=13
+Comparacoes=28
+[25 WWS 42]
+[30 WSA 82]
+[45 ADW 81]
+[49 EED 60]
+[53 FAA 63]
+[62 DDD 28]
+[63 EEW 68]
+[90 AWW 72]
+Comparacoes=31
+Pos=-1
+Comparacoes=45
+Comparacoes=38
+[45 ADW 81]
+[90 AWW 72]
+[62 DDD 28]
+[53 DEF 46]
+[96 EDE 18]
+[49 EED 60]
+[63 EEW 68]
+[53 FAA 63]
+[30 WSA 82]
+[25 WWS 42]
+[51 AAA 79]
+[89 SAE 11]
+[50 SWA 90]
+Pos=3
+Pos=-1

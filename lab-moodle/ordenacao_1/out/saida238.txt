@@ -1,4 +1,22 @@
-Comparacoes=1
 Pos=-1
+Pos=1
+Comparacoes=15
+Comparacoes=28
+Comparacoes=32
+Comparacoes=32
 Pos=-1
-Pos=-1
+[12 AFS 79]
+[30 ASD 40]
+[24 ASS 21]
+[96 DFA 98]
+[16 DWA 97]
+[72 SDF 55]
+[98 SDW 20]
+[16 SED 68]
+[20 WAW 98]
+[27 WDW 46]
+[55 WWW 75]
+[83 ADA 89]
+[38 SFW 27]
+[89 DAD 80]
+Comparacoes=35

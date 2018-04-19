@@ -1,12 +1,35 @@
 Comparacoes=0
+[29 DSE 30]
+Pos=0
 Pos=-1
+Pos=-1
+Comparacoes=2
+Comparacoes=7
+Comparacoes=12
+Comparacoes=21
+[7 FWW 79]
+[29 DSE 30]
+[30 EWS 75]
+[39 DAA 6]
+[46 SAF 47]
+[62 ASA 27]
+[72 AFW 78]
+Pos=1
+[7 FWW 79]
+[29 DSE 30]
+[30 EWS 75]
+[39 DAA 6]
+[46 SAF 47]
+[62 ASA 27]
+[72 AFW 78]
+[99 ASA 9]
+[7 FWW 79]
+[29 DSE 30]
+[30 EWS 75]
+[39 DAA 6]
+[46 SAF 47]
+[62 ASA 27]
+[72 AFW 78]
+[99 ASA 9]
 Comparacoes=28
-[13 FAW 29]
-[18 ADW 95]
-[21 EWF 7]
-[23 FSE 30]
-[30 DAF 75]
-[55 WSS 78]
-[60 AWS 69]
-[98 WWA 29]
-Pos=3
+Pos=6

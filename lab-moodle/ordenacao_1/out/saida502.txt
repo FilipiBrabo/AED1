@@ -1,19 +1,50 @@
 Pos=-1
 Comparacoes=0
+[9 AWW 45]
 Comparacoes=0
 Pos=-1
-Pos=0
+[9 AWW 45]
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+[9 AWW 45]
+[46 SWW 17]
+[70 AAE 83]
+[12 AAW 37]
+Comparacoes=6
+Pos=-1
 Pos=-1
 Comparacoes=10
-[54 AAF 48]
-[47 AWA 21]
-[41 DED 78]
-[3 DWE 49]
-[64 WWS 6]
-[75 WAD 79]
+[70 AAE 83]
+[12 AAW 37]
+[9 AWW 45]
+[46 SWW 17]
+[30 WWD 39]
+Pos=1
 Pos=-1
+Comparacoes=15
+Pos=-1
+Pos=2
+Pos=-1
+[70 AAE 83]
+[12 AAW 37]
+[9 AWW 45]
+[52 AWW 37]
+[46 SWW 17]
+[30 WWD 39]
+[73 AEW 83]
+[70 AAE 83]
+[12 AAW 37]
+[9 AWW 45]
+[52 AWW 37]
+[46 SWW 17]
+[30 WWD 39]
+[73 AEW 83]
+[74 DAS 32]
 Pos=6
-Pos=0
-Comparacoes=60
-Comparacoes=57
+Comparacoes=19
+Pos=-1
+Comparacoes=18
+Comparacoes=23
 Pos=-1

@@ -1,15 +1,7 @@
-Pos=1
-Comparacoes=6
-Comparacoes=10
-Pos=4
-Comparacoes=21
-Comparacoes=6
-[16 WSF 94]
-[17 WAD 38]
-[29 ASD 32]
-[50 SFA 72]
-[50 SWS 82]
-[64 FFA 73]
-[71 DEE 12]
-[50 DAD 34]
-[44 WFA 9]
+[8 AED 72]
+[93 DDW 98]
+[91 ASD 43]
+Pos=0
+Comparacoes=7
+Pos=3
+Comparacoes=36

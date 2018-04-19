@@ -1,2 +1,16 @@
-Pos=-1
-Comparacoes=0
+Comparacoes=1
+[59 WAW 20]
+[65 DDA 74]
+[17 DWA 44]
+Comparacoes=4
+[17 DWA 44]
+[59 WAW 20]
+[65 DDA 74]
+[90 AED 3]
+Comparacoes=10
+[17 DWA 44]
+[56 SDF 34]
+[59 WAW 20]
+[65 DDA 74]
+[90 AED 3]
+Comparacoes=55

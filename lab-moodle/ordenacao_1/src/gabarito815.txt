@@ -1,12 +1,34 @@
 Comparacoes=0
 Comparacoes=0
-Comparacoes=0
+[82 AWA 94]
+[82 AWA 94]
 Pos=-1
-Comparacoes=1
-Comparacoes=3
+Pos=4
 Pos=-1
-Pos=0
-Comparacoes=10
+Comparacoes=15
+Comparacoes=11
+Comparacoes=28
+Pos=2
 Pos=-1
-Comparacoes=10
+Comparacoes=37
 Pos=-1
+Comparacoes=11
+Pos=7
+[4 SAF 95]
+[4 AAD 64]
+[21 SAD 1]
+[25 SAS 83]
+[31 DDW 33]
+[40 AAS 43]
+[70 WDW 94]
+[72 ADS 41]
+[72 WDS 49]
+[73 ASA 53]
+[82 AWA 94]
+[87 WAA 17]
+Pos=-1
+Comparacoes=49
+Comparacoes=82
+Comparacoes=82
+Comparacoes=26
+Pos=6

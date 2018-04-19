@@ -1,23 +1,16 @@
-Comparacoes=0
-Comparacoes=0
-Pos=-1
-[66 DSW 77]
-[28 AWW 15]
-[8 WAF 6]
-Pos=-1
-Pos=0
-Comparacoes=5
-Pos=-1
+Comparacoes=2
+Comparacoes=2
 Pos=1
+Comparacoes=3
+Pos=-1
+[93 AAS 40]
+[92 DAE 9]
+[56 WWE 52]
+[17 ADA 92]
+[59 SSF 29]
+Pos=-1
+Comparacoes=17
+Pos=-1
+Pos=-1
+Pos=3
 Pos=0
-[66 AAA 92]
-[28 AWW 15]
-[66 DSW 77]
-[8 WAF 6]
-[14 ASS 67]
-Comparacoes=10
-Pos=-1
-Comparacoes=10
-Pos=-1
-Comparacoes=36
-Comparacoes=36

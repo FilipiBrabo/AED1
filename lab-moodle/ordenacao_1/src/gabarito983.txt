@@ -1,34 +1,10 @@
-[26 AAA 92]
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
 Comparacoes=1
-Pos=1
-Pos=1
-Comparacoes=18
-Comparacoes=18
-[15 AWA 86]
-[26 AAA 92]
-[47 AWD 77]
-[53 AEA 37]
-[53 SAA 85]
-[63 AEE 78]
-[75 WAE 86]
-[85 AAW 63]
-[79 WAA 76]
-[2 AFA 14]
-[78 WDF 23]
-[85 DAD 11]
-[15 AWA 86]
-[26 AAA 92]
-[47 AWD 77]
-[53 AEA 37]
-[53 SAA 85]
-[63 AEE 78]
-[75 WAE 86]
-[85 AAW 63]
-[79 WAA 76]
-[2 AFA 14]
-[78 WDF 23]
-[85 DAD 11]
-[12 SDW 37]
-Comparacoes=69
-Comparacoes=17
-Comparacoes=134
+Pos=-1
+Pos=-1
+Comparacoes=6
+Comparacoes=21

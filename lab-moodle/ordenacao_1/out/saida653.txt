@@ -1,35 +1,11 @@
-Comparacoes=6
-Comparacoes=6
+Comparacoes=0
 Pos=-1
-Comparacoes=45
 Pos=-1
-Pos=9
-Pos=3
-Pos=-1
-Comparacoes=49
-Comparacoes=91
-Comparacoes=53
-Pos=3
-Pos=16
-Comparacoes=153
-[40 AAD 12]
-[3 ADA 21]
-[28 ASD 96]
-[61 DAE 43]
-[49 DDD 96]
-[26 DDW 42]
-[58 DSA 38]
-[36 DSS 45]
-[92 DWD 44]
-[41 EAS 73]
-[8 FAA 87]
-[20 FDA 25]
-[9 SAD 90]
-[93 SSA 57]
-[3 WAA 29]
-[20 WDS 97]
-[62 WDW 22]
-[50 WSA 93]
-[56 EDA 38]
-Pos=0
-Pos=3
+[72 SWA 95]
+[53 DAW 8]
+[60 WSD 97]
+[19 WSW 36]
+[30 WDD 20]
+[14 SEW 39]
+Comparacoes=28
+Comparacoes=8

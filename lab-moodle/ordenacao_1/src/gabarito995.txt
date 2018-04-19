@@ -1,1 +1,33 @@
+Pos=0
 Comparacoes=0
+[39 SSS 90]
+Pos=-1
+Pos=0
+Comparacoes=1
+Comparacoes=3
+Comparacoes=3
+Comparacoes=5
+Comparacoes=3
+Pos=-1
+[9 DSF 17]
+[6 ESA 87]
+[39 SSS 90]
+[32 SWE 73]
+[52 FAA 76]
+[62 SEE 28]
+Comparacoes=21
+Comparacoes=28
+Pos=-1
+Comparacoes=15
+Comparacoes=36
+Pos=-1
+Comparacoes=8
+Pos=3
+Pos=7
+Comparacoes=8
+Comparacoes=30
+Pos=-1
+Comparacoes=10
+Pos=-1
+Comparacoes=55
+Comparacoes=66

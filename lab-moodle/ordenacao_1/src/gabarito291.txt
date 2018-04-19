@@ -1,27 +1,2 @@
-Comparacoes=0
-[78 AWS 58]
-[42 AWF 48]
-[78 AWS 58]
-[42 AWF 48]
-[89 DSD 29]
-[41 FWW 81]
-Comparacoes=15
-Comparacoes=17
-Comparacoes=22
-Comparacoes=41
-Comparacoes=66
-Comparacoes=37
-[78 AAF 97]
-[29 AFW 89]
-[42 AFW 60]
-[42 AWF 48]
-[78 AWS 58]
-[97 DDE 77]
-[89 DSD 29]
-[99 DSF 11]
-[2 FSD 77]
-[41 FWW 81]
-[94 SSW 31]
-[65 WAF 34]
-Comparacoes=91
-Comparacoes=91
+Pos=0
+Comparacoes=6

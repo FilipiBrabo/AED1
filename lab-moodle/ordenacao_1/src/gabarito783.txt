@@ -1,19 +1,9 @@
-Pos=-1
-Comparacoes=0
 Comparacoes=1
 Pos=-1
-Comparacoes=1
+Comparacoes=3
 Pos=-1
-[11 SWE 90]
-[96 AAA 31]
-[64 ASS 26]
-[32 AAW 85]
-[28 FDA 81]
-[66 ESF 78]
-[59 ADD 82]
-[29 ESS 57]
-[36 DAA 83]
-[62 FES 26]
-[47 SFW 29]
-[25 SAD 23]
-Comparacoes=66
+Pos=1
+Comparacoes=4
+Pos=1
+Pos=0
+Pos=-1

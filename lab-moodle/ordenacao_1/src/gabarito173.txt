@@ -1,9 +1,46 @@
-[28 AAD 44]
-Pos=2
-Comparacoes=6
-[5 SFA 77]
-[12 DFE 59]
-[28 AAD 44]
-[98 SEF 52]
-[89 ASA 40]
-[88 SAW 71]
+Pos=0
+Comparacoes=3
+Comparacoes=3
+Pos=-1
+Pos=-1
+Pos=-1
+Pos=1
+Comparacoes=21
+[24 ASW 37]
+[33 WDW 2]
+[60 DDS 45]
+[75 AEA 92]
+[75 SDS 29]
+[88 DFE 39]
+[97 FSW 55]
+Comparacoes=16
+Pos=-1
+[75 AEA 92]
+[24 ASW 37]
+[60 DDS 45]
+[88 DFE 39]
+[97 FSW 55]
+[75 SDS 29]
+[47 WDA 73]
+[33 WDW 2]
+[42 WDS 88]
+Pos=-1
+Pos=4
+Comparacoes=66
+Pos=10
+Pos=-1
+[14 AAD 15]
+[24 ASW 37]
+[26 FWA 3]
+[33 WDW 2]
+[42 WDS 88]
+[45 WWE 78]
+[47 WDA 73]
+[60 DDS 45]
+[75 SDS 29]
+[75 AEA 92]
+[88 DFE 39]
+[97 FSW 55]
+[59 ASA 19]
+[7 SES 70]
+[88 AWA 37]

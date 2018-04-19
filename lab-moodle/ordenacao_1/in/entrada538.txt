@@ -1,9 +1,12 @@
-O 1 2
-I 17 EAA 24
-I 30 FFF 91
-M
-M
-M
-I 17 SSA 92
+O 2 2
 O 2 1
+B 2
+I 1 AAA 30
+O 2 2
+O 2 2
+O 2 1
+O 1 1
+B 90
+I 40 SEA 81
+O 1 2
 P

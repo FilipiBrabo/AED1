@@ -1,42 +1,8 @@
+Pos=-1
+Comparacoes=0
+Pos=-1
+Pos=-1
+Comparacoes=0
+Comparacoes=0
 Pos=0
-Comparacoes=0
-Comparacoes=0
 Pos=-1
-Pos=-1
-Pos=1
-Pos=2
-Pos=-1
-[22 FFS 60]
-[2 DDW 86]
-[96 AAS 74]
-[1 AWS 30]
-[88 ASA 22]
-Comparacoes=10
-Comparacoes=10
-[96 AAS 74]
-[88 ASA 22]
-[1 AWS 30]
-[2 DDW 86]
-[22 FFS 60]
-Comparacoes=10
-Pos=-1
-[96 AAS 74]
-[88 ASA 22]
-[1 AWS 30]
-[2 DDW 86]
-[22 FFS 60]
-Comparacoes=15
-Pos=7
-Pos=2
-[96 AAS 74]
-[88 ASA 22]
-[1 AWS 30]
-[94 DAA 8]
-[2 DDW 86]
-[56 FAE 84]
-[22 FFS 60]
-[90 WAD 13]
-[80 WSA 36]
-[38 FDS 81]
-[49 WSF 81]
-Comparacoes=55

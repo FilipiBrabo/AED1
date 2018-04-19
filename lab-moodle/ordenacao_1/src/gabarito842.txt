@@ -1,11 +1,4 @@
-Comparacoes=0
-Comparacoes=1
-Comparacoes=3
-Comparacoes=2
-Comparacoes=21
-Pos=6
-Pos=-1
-Comparacoes=36
-Pos=7
-Pos=7
-Pos=-1
+[1 AAD 18]
+[67 DFD 36]
+[92 WSF 19]
+[62 AWF 84]

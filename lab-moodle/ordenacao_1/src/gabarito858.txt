@@ -1,37 +1,11 @@
 Comparacoes=0
-Comparacoes=0
-Pos=-1
+[81 AEW 27]
+[34 FSW 85]
+Comparacoes=1
 Comparacoes=3
 Comparacoes=3
+[65 AAW 86]
+[81 AEW 27]
+[34 FSW 85]
 Pos=-1
-[97 ASA 80]
-[20 DDA 34]
-[9 DWS 61]
-Pos=0
-[97 ASA 80]
-[20 DDA 34]
-[9 DWS 61]
-[57 DAS 44]
-[76 DAW 78]
-[6 WDA 99]
-[97 ASA 80]
-[20 DDA 34]
-[9 DWS 61]
-[57 DAS 44]
-[76 DAW 78]
-[6 WDA 99]
-Pos=-1
-Pos=1
-Comparacoes=21
-Comparacoes=21
-Pos=5
-Comparacoes=28
-[97 ASA 80]
-[57 DAS 44]
-[76 DAW 78]
-[2 DAW 86]
-[20 DDA 34]
-[9 DWS 61]
-[96 SDA 93]
-[6 WDA 99]
-Pos=-1
+Comparacoes=5

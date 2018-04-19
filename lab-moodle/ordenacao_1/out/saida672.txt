@@ -1,9 +1,21 @@
+Pos=0
+Comparacoes=0
+[97 AAA 88]
+[2 WSW 10]
+[19 DEF 78]
+[14 AWS 17]
+Comparacoes=10
+Comparacoes=28
 Pos=-1
-Comparacoes=6
-[10 FAF 24]
-[48 AFW 44]
-[73 AAA 81]
-[95 FSF 16]
-[59 AWW 36]
-Comparacoes=7
-Comparacoes=5
+Comparacoes=23
+Comparacoes=10
+Pos=10
+Pos=4
+Comparacoes=24
+Comparacoes=91
+Comparacoes=171
+Comparacoes=171
+Pos=-1
+Comparacoes=171
+Comparacoes=131
+Pos=-1

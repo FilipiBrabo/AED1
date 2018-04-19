@@ -4,6 +4,7 @@
 #########################
     COUNTER=0
     GRADE=0
+    ERRADOS=0
     ./gen.py
 ###################################################caso tenha codigo correto
     gcc gabarito.c
@@ -12,7 +13,7 @@
       ./a.out < ./in/entrada$i.txt > ./src/gabarito$i.txt
     done
 ###################################################
-    gcc ordenanotasligada.c         ###meu codigo
+    gcc ord.c         ###meu codigo
     for i in {1..999}      ###N em gen.py
     do
       ./a.out < ./in/entrada$i.txt > ./out/saida$i.txt
@@ -30,6 +31,10 @@
         fi
     done
 
+    let ERRADOS=COUNTER-GRADE
+    
     echo -n "Nota "
     echo -n $(echo "scale=2; $GRADE*10/$COUNTER" | bc)
     echo " ($GRADE de $COUNTER)"
+    echo -n "Numero de casos errados: "
+    echo "$ERRADOS"

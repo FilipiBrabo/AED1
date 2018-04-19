@@ -1,52 +1,42 @@
-Comparacoes=0
 Comparacoes=3
-Comparacoes=3
-Comparacoes=14
-[10 DAA 82]
-[13 ADS 66]
-[28 WSE 34]
-[73 AES 60]
-[76 DAA 58]
-[86 EWS 26]
-[32 AWS 36]
-Pos=1
-Pos=6
-[10 DAA 82]
-[13 ADS 66]
-[28 WSE 34]
-[73 AES 60]
-[76 DAA 58]
-[86 EWS 26]
-[32 AWS 36]
-Comparacoes=9
-Pos=2
-[10 DAA 82]
-[13 ADS 66]
-[28 WSE 34]
-[32 AWS 36]
-[73 AES 60]
-[76 DAA 58]
-[86 EWS 26]
-[63 FDA 26]
-[11 SFA 98]
-[10 DAA 82]
-[13 ADS 66]
-[28 WSE 34]
-[32 AWS 36]
-[73 AES 60]
-[76 DAA 58]
-[86 EWS 26]
-[63 FDA 26]
-[11 SFA 98]
-Comparacoes=22
 Pos=-1
-[10 DAA 82]
-[11 SFA 98]
-[13 ADS 66]
-[28 WSE 34]
-[32 AWS 36]
-[63 FDA 26]
-[69 SAE 4]
-[73 AES 60]
-[76 DAA 58]
-[86 EWS 26]
+Comparacoes=6
+Pos=1
+[20 ASD 65]
+[23 DSA 35]
+[56 SDS 18]
+[88 DAA 51]
+[2 ESF 68]
+[48 ADD 42]
+[56 WDA 87]
+[20 ASD 65]
+[23 DSA 35]
+[56 SDS 18]
+[88 DAA 51]
+[2 ESF 68]
+[48 ADD 42]
+[56 WDA 87]
+[25 SAE 91]
+Comparacoes=28
+[2 ESF 68]
+[20 ASD 65]
+[23 DSA 35]
+[25 SAE 91]
+[48 ADD 42]
+[56 SDS 18]
+[56 WDA 87]
+[88 DAA 51]
+[30 SSA 45]
+[76 SAD 59]
+[80 DAE 7]
+[62 FAD 61]
+[91 DWW 61]
+[62 AAS 98]
+Pos=0
+Comparacoes=99
+Comparacoes=153
+Comparacoes=153
+Pos=3
+Comparacoes=190
+Comparacoes=167
+Comparacoes=231

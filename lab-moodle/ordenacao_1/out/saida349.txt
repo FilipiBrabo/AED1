@@ -1,6 +1,21 @@
+Comparacoes=0
 Pos=-1
+Pos=2
+Comparacoes=15
+Pos=4
+Pos=-1
+Comparacoes=21
 Pos=0
+[15 FAS 87]
+[34 DWA 36]
+[35 DAW 69]
+[36 WAA 51]
+[58 DDW 95]
+[62 AAE 13]
+[77 SSD 13]
+[31 FEW 69]
+[1 DDD 76]
+[50 ASF 92]
+[8 SWE 18]
+Comparacoes=55
 Pos=0
-Pos=0
-Comparacoes=0
-Comparacoes=0

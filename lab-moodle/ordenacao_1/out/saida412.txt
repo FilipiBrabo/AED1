@@ -1,8 +1,32 @@
-[1 DDA 36]
-[17 EAA 60]
+Pos=-1
+Pos=-1
+[36 AFW 91]
 Pos=1
-[1 DDA 36]
-[17 EAA 60]
-Pos=0
-Comparacoes=3
-Pos=6
+Comparacoes=17
+Pos=-1
+Pos=2
+Comparacoes=44
+Comparacoes=66
+Pos=9
+[50 AAD 86]
+[36 AFW 91]
+[80 ASA 84]
+[72 ASE 11]
+[17 DSA 50]
+[41 DWS 29]
+[99 FDD 2]
+[27 SEA 98]
+[34 SSA 56]
+[81 WDF 26]
+[79 WSA 82]
+[2 WWS 1]
+[82 DSA 45]
+[1 SAF 96]
+[40 AFD 47]
+[92 FDW 17]
+[64 ESD 56]
+[6 WEW 85]
+[50 WDE 85]
+[5 ADA 48]
+[15 EDS 62]
+Comparacoes=300

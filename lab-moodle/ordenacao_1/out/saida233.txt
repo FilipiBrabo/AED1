@@ -1,5 +1,64 @@
+[96 DAE 54]
+[36 EWD 75]
+[18 AAW 36]
+[63 ADD 28]
+[45 WFW 6]
 Pos=1
-[62 ASW 9]
-[6 ESE 84]
-[87 AWW 2]
-[90 FDS 8]
+Pos=-1
+Pos=6
+Comparacoes=21
+Comparacoes=16
+Pos=-1
+Pos=4
+Pos=0
+Comparacoes=66
+Pos=-1
+Pos=-1
+Pos=10
+Comparacoes=120
+Comparacoes=136
+Pos=3
+Pos=-1
+Pos=16
+Pos=-1
+Pos=15
+Comparacoes=86
+[1 ADW 10]
+[10 WEW 51]
+[11 SAW 82]
+[13 FEA 7]
+[18 AAW 36]
+[22 WAW 51]
+[28 WAA 9]
+[33 AEW 97]
+[36 AFF 32]
+[36 EWD 75]
+[42 DAE 28]
+[45 WFW 6]
+[46 AAW 65]
+[63 ADD 28]
+[65 FDA 75]
+[71 WAE 71]
+[96 DAE 54]
+Comparacoes=86
+Pos=5
+Comparacoes=16
+[18 AAW 36]
+[46 AAW 65]
+[63 ADD 28]
+[1 ADW 10]
+[33 AEW 97]
+[36 AFF 32]
+[42 DAE 28]
+[96 DAE 54]
+[36 EWD 75]
+[65 FDA 75]
+[13 FEA 7]
+[11 SAW 82]
+[28 WAA 9]
+[71 WAE 71]
+[22 WAW 51]
+[10 WEW 51]
+[45 WFW 6]
+Pos=-1
+Comparacoes=88

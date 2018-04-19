@@ -1,20 +1,23 @@
-Pos=0
-Comparacoes=1
 Pos=-1
-Pos=1
-Comparacoes=3
-Comparacoes=6
+Comparacoes=0
+[78 EAS 37]
+Comparacoes=0
+Comparacoes=9
+Comparacoes=9
 Pos=-1
-Pos=-1
-Pos=1
+Comparacoes=45
+Comparacoes=9
+[88 AAF 98]
+[54 ADF 15]
+[47 ADW 39]
+[61 ASD 23]
+[32 DFF 6]
+[5 DFW 90]
+[78 EAS 37]
+[84 FDW 13]
+[93 WDS 16]
+[2 WSA 61]
+[65 AWS 38]
+Comparacoes=33
 Pos=5
-Pos=2
-Comparacoes=32
-Comparacoes=10
-Comparacoes=15
-Comparacoes=78
 Pos=-1
-Pos=9
-Pos=4
-Comparacoes=26
-Pos=4

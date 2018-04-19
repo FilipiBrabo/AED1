@@ -1,3 +1,13 @@
-Pos=0
 Comparacoes=0
+Comparacoes=0
+[82 AAD 42]
+[56 DAS 30]
+[82 AAD 42]
+[56 DAS 30]
 Comparacoes=1
+Comparacoes=3
+Comparacoes=2
+Pos=-1
+Pos=2
+Pos=2
+Pos=1

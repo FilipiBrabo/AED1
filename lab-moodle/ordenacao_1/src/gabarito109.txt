@@ -1,11 +1,30 @@
+Pos=-1
+Comparacoes=0
+[75 FAS 25]
+[75 FAS 25]
 Comparacoes=0
 Pos=-1
 Pos=-1
-Comparacoes=0
+Comparacoes=10
+[89 DAA 34]
+[75 FAS 25]
+[85 FFS 30]
+[26 WAD 23]
+[25 WDD 91]
 Pos=-1
+Comparacoes=4
+Comparacoes=10
+Comparacoes=10
 Pos=-1
-[82 WAW 84]
-[65 AAS 13]
-Comparacoes=1
-Pos=4
-Comparacoes=15
+Comparacoes=21
+Comparacoes=21
+Pos=3
+Comparacoes=28
+[8 DSD 61]
+[12 DAA 74]
+[25 WDD 91]
+[26 WAD 23]
+[43 SSA 56]
+[75 FAS 25]
+[85 FFS 30]
+[89 DAA 34]

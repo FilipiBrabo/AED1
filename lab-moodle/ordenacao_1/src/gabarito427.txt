@@ -1,7 +1,16 @@
+[76 ESD 3]
+[84 WEW 97]
+[48 AWE 66]
+Pos=1
+Comparacoes=3
+Pos=2
 Pos=-1
+Pos=-1
+Comparacoes=10
+Comparacoes=9
 Pos=3
-Pos=0
-Comparacoes=13
-Pos=4
-Pos=-1
-Comparacoes=66
+Comparacoes=11
+Pos=3
+Comparacoes=6
+Pos=2
+Comparacoes=45

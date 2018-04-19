@@ -1,2 +1,9 @@
-Pos=0
+Comparacoes=1
+[21 AES 21]
+[33 EWS 12]
+[26 FAA 64]
+Pos=-1
+Comparacoes=14
 Pos=1
+Pos=7
+Pos=9

@@ -1,16 +1,34 @@
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
-Pos=-1
-Comparacoes=3
-Comparacoes=6
-Pos=-1
-Pos=4
-Comparacoes=15
-Comparacoes=15
-Pos=8
+[97 WAD 79]
+[11 WFD 22]
+[44 EAW 88]
+[24 FAS 79]
+[16 DSD 39]
+[75 AFF 59]
+[47 WSF 25]
+Pos=5
+[97 WAD 79]
+[11 WFD 22]
+[44 EAW 88]
+[24 FAS 79]
+[16 DSD 39]
+[75 AFF 59]
+[47 WSF 25]
+[97 WAD 79]
+[11 WFD 22]
+[44 EAW 88]
+[24 FAS 79]
+[16 DSD 39]
+[75 AFF 59]
+[47 WSF 25]
+[97 WAD 79]
+[11 WFD 22]
+[44 EAW 88]
+[24 FAS 79]
+[16 DSD 39]
+[75 AFF 59]
+[47 WSF 25]
+Comparacoes=21
+Comparacoes=7
+Pos=1
 Comparacoes=36
-Comparacoes=30
-Pos=-1
-Comparacoes=45
-Comparacoes=78
+Comparacoes=36

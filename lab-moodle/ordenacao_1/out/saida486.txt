@@ -1,0 +1,38 @@
+Comparacoes=0
+Pos=1
+Pos=3
+Pos=2
+Comparacoes=21
+Comparacoes=36
+Pos=9
+Comparacoes=55
+Comparacoes=171
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=210
+Pos=19
+[30 AAW 15]
+[57 ADD 58]
+[4 ADS 65]
+[5 AEA 10]
+[35 DAS 62]
+[41 DSW 35]
+[67 DSW 47]
+[21 DWS 38]
+[74 EDA 37]
+[9 EEF 3]
+[78 EWD 2]
+[89 FSA 59]
+[84 SAE 52]
+[58 SEF 64]
+[20 SWA 34]
+[20 WAD 27]
+[71 WDA 72]
+[6 WDA 64]
+[92 WEA 73]
+[26 WWS 56]
+[33 WWW 82]
+[9 FFS 67]
+[94 ADD 48]
+[84 DSS 68]

@@ -1,3 +1,20 @@
-[21 SWS 38]
-[78 AAW 92]
-[49 ASF 38]
+Pos=-1
+Comparacoes=3
+Comparacoes=15
+Pos=3
+Pos=-1
+Comparacoes=55
+Pos=1
+Pos=-1
+[48 AAW 60]
+[56 ADA 20]
+[71 DED 94]
+[71 EES 60]
+[45 FAE 89]
+[5 SAS 44]
+[89 SAW 46]
+[93 WAW 47]
+[33 WDA 75]
+[46 WEA 20]
+[74 WWF 40]
+Pos=-1

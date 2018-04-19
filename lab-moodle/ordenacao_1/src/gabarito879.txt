@@ -1,11 +1,4 @@
+Comparacoes=0
+Pos=0
 Pos=-1
-[72 ASF 95]
-Pos=1
-Comparacoes=2
-[72 ASF 95]
-[68 FFS 95]
-[65 SSF 87]
-[29 FWF 74]
-Comparacoes=6
-Comparacoes=13
-Comparacoes=13
+Comparacoes=10

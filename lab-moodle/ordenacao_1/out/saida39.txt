@@ -1,2 +1,38 @@
-Comparacoes=0
-Comparacoes=0
+Pos=1
+Pos=0
+Pos=2
+Pos=-1
+Pos=3
+Comparacoes=6
+Pos=0
+Pos=-1
+Comparacoes=10
+[2 DAF 16]
+[16 WAA 6]
+[21 AWD 11]
+[37 ADA 13]
+[49 FDE 70]
+[91 AFA 14]
+[27 ADD 26]
+Comparacoes=28
+Pos=-1
+Comparacoes=22
+Pos=-1
+[2 DAF 16]
+[16 WAA 6]
+[21 AWD 11]
+[25 WAW 67]
+[27 ADD 26]
+[37 ADA 13]
+[49 FDE 70]
+[91 AFA 14]
+[77 AAD 7]
+[40 WFS 35]
+[45 AWD 52]
+[76 DAA 27]
+[30 AAD 99]
+Comparacoes=55
+Comparacoes=55
+Comparacoes=60
+Pos=7
+Pos=-1

@@ -1,3 +1,29 @@
+Pos=1
+Pos=1
+[90 DSD 53]
+[52 SWS 73]
+[94 AWS 59]
+[36 ADD 20]
+Comparacoes=6
+Comparacoes=21
+Pos=2
+Comparacoes=36
 Pos=-1
-Pos=-1
-Pos=0
+[1 WAS 25]
+[30 SFA 73]
+[36 ADD 20]
+[43 DAA 6]
+[52 SWS 73]
+[73 AWF 38]
+[90 DSD 53]
+[90 SEF 83]
+[94 AWS 59]
+[1 WAS 25]
+[30 SFA 73]
+[36 ADD 20]
+[43 DAA 6]
+[52 SWS 73]
+[73 AWF 38]
+[90 DSD 53]
+[90 SEF 83]
+[94 AWS 59]

@@ -1,13 +1,23 @@
-Comparacoes=0
-Pos=-1
-Pos=-1
-[67 ASD 32]
-[7 AEE 64]
-[51 WFE 79]
-[64 DDW 69]
-[81 WDA 75]
-[67 SFF 41]
+[61 ASS 76]
+[36 SDF 23]
+[96 EDA 8]
+[61 AWW 63]
 Comparacoes=15
-Comparacoes=11
-Comparacoes=21
-Comparacoes=21
+Comparacoes=15
+Comparacoes=14
+[61 ASS 76]
+[18 AWA 74]
+[61 AWW 63]
+[96 EDA 8]
+[94 ESA 4]
+[36 SDF 23]
+[77 WDS 20]
+[90 WWS 70]
+Comparacoes=45
+Comparacoes=22
+Pos=2
+Pos=3
+Pos=6
+Pos=8
+Comparacoes=85
+Pos=4

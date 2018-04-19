@@ -1,2 +1,1 @@
-Comparacoes=1
-Pos=-1
+Comparacoes=0

@@ -1,8 +1,25 @@
-Comparacoes=0
-Comparacoes=0
-Comparacoes=0
-Pos=0
-Pos=0
-Comparacoes=3
-Pos=2
-Comparacoes=18
+Comparacoes=1
+Comparacoes=1
+Comparacoes=6
+Pos=-1
+[21 AAA 90]
+[85 EAA 7]
+[75 FDD 62]
+[79 SWF 24]
+[22 AWW 93]
+[43 FSW 5]
+[95 EED 57]
+Pos=-1
+Comparacoes=14
+Pos=-1
+[21 AAA 90]
+[22 AWW 93]
+[43 FSW 5]
+[75 FDD 62]
+[79 SWF 24]
+[85 EAA 7]
+[95 EED 57]
+Pos=6
+Comparacoes=34
+Comparacoes=45
+Pos=-1

@@ -1,24 +1,6 @@
-[63 AAE 7]
-Pos=-1
-Comparacoes=6
-Comparacoes=6
-Pos=-1
+[96 DDD 32]
+[30 EAW 89]
+[45 EWS 23]
 Pos=0
-Pos=7
-Pos=2
-Pos=-1
-[63 AAE 7]
-[47 AAS 80]
-[11 ESW 65]
-[60 FAS 52]
-[46 SDA 84]
-[78 AAF 16]
-[37 WDE 49]
-[86 DDA 71]
-[68 FAW 37]
-[31 DAF 88]
-[64 WWS 42]
-[51 AAA 73]
-[58 FAA 40]
-Pos=4
-Pos=3
+Pos=1
+Comparacoes=10

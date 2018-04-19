@@ -1,15 +1,12 @@
-[45 WAA 3]
-[62 DAD 41]
-[43 EWA 17]
-[97 AAF 97]
-[41 FAD 63]
-Comparacoes=10
-[41 FAD 63]
-[43 EWA 17]
-[45 WAA 3]
-[62 DAD 41]
-[97 AAF 97]
+Comparacoes=0
 Pos=-1
+Comparacoes=0
+[95 SEF 55]
+Comparacoes=0
 Pos=-1
+[95 SEF 55]
 Pos=0
+Pos=0
+Pos=-1
+Pos=-1
 Comparacoes=4

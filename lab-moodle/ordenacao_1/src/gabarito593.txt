@@ -1,8 +1,27 @@
-Comparacoes=1
-[11 ADE 12]
-[72 ASA 17]
-[98 DSW 95]
-[11 ADE 12]
-[72 ASA 17]
-[98 DSW 95]
-Comparacoes=2
+Pos=0
+Pos=0
+Comparacoes=3
+Pos=-1
+Comparacoes=10
+Comparacoes=15
+Comparacoes=7
+Pos=2
+Pos=3
+Pos=-1
+Pos=4
+Comparacoes=45
+Comparacoes=55
+Comparacoes=18
+[8 DAA 45]
+[22 AAA 56]
+[23 DWA 14]
+[27 AAE 42]
+[28 ADS 34]
+[56 DWD 52]
+[57 ASF 98]
+[64 DAS 93]
+[85 DSS 27]
+[95 DSA 6]
+[96 WSW 59]
+[99 WDS 89]
+[8 WSA 65]

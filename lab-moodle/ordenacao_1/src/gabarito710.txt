@@ -1,1 +1,26 @@
+Pos=0
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
+[79 EAA 21]
+[36 SAS 97]
+Comparacoes=1
+Pos=-1
+[79 EAA 21]
+[36 SAS 97]
+[56 DAF 37]
+[65 SFA 63]
+Comparacoes=4
+Pos=-1
+Pos=0
+[56 DAF 37]
+[79 EAA 21]
+[36 SAS 97]
+[65 SFA 63]
+[36 AAA 27]
+Pos=-1
+Comparacoes=21
+Pos=2
+Comparacoes=36
 Pos=-1

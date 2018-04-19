@@ -1,14 +1,41 @@
-Comparacoes=0
-Pos=-1
-Pos=1
-Comparacoes=6
-Comparacoes=6
-[16 AES 36]
-[66 WAA 33]
-[83 SWD 10]
-[96 DAA 34]
-[16 AES 36]
-[66 WAA 33]
-[83 SWD 10]
-[96 DAA 34]
-[77 SAS 38]
+Pos=0
+Pos=2
+[12 FAA 29]
+[77 SAS 81]
+[35 FAE 5]
+[28 AWW 82]
+[13 ASA 4]
+[99 FDS 89]
+[14 SAW 16]
+[41 WAA 77]
+Comparacoes=36
+[12 FAA 29]
+[13 ASA 4]
+[14 SAW 16]
+[28 AWW 82]
+[35 FAE 5]
+[41 WAA 77]
+[62 DWD 44]
+[77 SAS 81]
+[99 FDS 89]
+Comparacoes=20
+Comparacoes=68
+[39 AAA 49]
+[99 AAE 78]
+[13 ASA 4]
+[77 AWA 47]
+[82 AWD 92]
+[28 AWW 82]
+[68 DSW 87]
+[62 DWD 44]
+[12 FAA 29]
+[35 FAE 5]
+[99 FDS 89]
+[77 SAS 81]
+[14 SAW 16]
+[16 SDA 43]
+[41 WAA 77]
+[24 WWA 64]
+[37 SWW 48]
+[54 SES 62]
+[38 WAW 85]

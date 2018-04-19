@@ -1,0 +1,8 @@
+Pos=-1
+Pos=1
+[75 AFA 91]
+[90 AWW 77]
+Pos=-1
+Comparacoes=1
+Pos=-1
+Comparacoes=1

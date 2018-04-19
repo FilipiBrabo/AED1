@@ -1,6 +1,8 @@
-Comparacoes=1
-Comparacoes=1
-Comparacoes=1
-Pos=-1
-Comparacoes=9
-Pos=4
+Comparacoes=0
+Pos=1
+Comparacoes=10
+[75 ASD 82]
+[1 SFA 59]
+[4 WAS 97]
+[22 WAW 4]
+[35 WDA 80]

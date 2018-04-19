@@ -1,1 +1,43 @@
+Comparacoes=0
+Comparacoes=1
+[28 ADF 5]
+[52 ADS 28]
 Pos=-1
+Pos=2
+[28 ADF 5]
+[52 ADS 28]
+[32 SWD 62]
+[97 WDD 54]
+Pos=2
+Pos=-1
+Comparacoes=4
+Pos=1
+Pos=8
+[28 ADF 5]
+[32 SWD 62]
+[52 ADS 28]
+[97 WDD 54]
+[48 WAD 9]
+[10 AEW 66]
+[61 WWD 43]
+[83 EWF 9]
+[89 EDA 22]
+[63 FSA 54]
+[67 FAW 86]
+Pos=-1
+Pos=-1
+Comparacoes=36
+[10 AEW 66]
+[28 ADF 5]
+[32 SWD 62]
+[48 WAD 9]
+[52 ADS 28]
+[54 WDD 82]
+[61 WWD 43]
+[63 FSA 54]
+[67 FAW 86]
+[81 WFW 28]
+[83 EWF 9]
+[89 EDA 22]
+[97 WDD 54]
+Comparacoes=42

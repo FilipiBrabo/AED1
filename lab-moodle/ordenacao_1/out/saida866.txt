@@ -1,78 +1,31 @@
-Pos=1
-Comparacoes=8
-Pos=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=1
 Pos=-1
-Pos=2
+Comparacoes=1
+Comparacoes=1
+Comparacoes=1
 Pos=-1
-Comparacoes=36
-Comparacoes=8
-Pos=0
-Pos=4
-[10 WWD 31]
-[11 EWD 62]
-[13 AEW 26]
-[32 AEA 7]
-[56 AWW 54]
-[69 WWW 37]
-[91 FSA 6]
-[93 DSW 84]
-[98 AWF 67]
-[24 EAA 28]
-[86 AAE 34]
-[10 WWD 31]
-[11 EWD 62]
-[13 AEW 26]
-[32 AEA 7]
-[56 AWW 54]
-[69 WWW 37]
-[91 FSA 6]
-[93 DSW 84]
-[98 AWF 67]
-[24 EAA 28]
-[86 AAE 34]
-[75 WEW 2]
-[10 WWD 31]
-[11 EWD 62]
-[13 AEW 26]
-[32 AEA 7]
-[56 AWW 54]
-[69 WWW 37]
-[91 FSA 6]
-[93 DSW 84]
-[98 AWF 67]
-[24 EAA 28]
-[86 AAE 34]
-[75 WEW 2]
-Comparacoes=66
-[86 AAE 34]
-[32 AEA 7]
-[13 AEW 26]
-[98 AWF 67]
-[56 AWW 54]
-[93 DSW 84]
-[24 EAA 28]
-[11 EWD 62]
-[91 FSA 6]
-[75 WEW 2]
-[10 WWD 31]
-[69 WWW 37]
-[40 WWS 6]
-[42 DWS 29]
-Comparacoes=91
-[10 WWD 31]
-[11 EWD 62]
-[13 AEW 26]
-[24 EAA 28]
-[32 AEA 7]
-[40 WWS 6]
-[42 DWS 29]
-[56 AWW 54]
-[69 WWW 37]
-[75 WEW 2]
-[86 AAE 34]
-[91 FSA 6]
-[93 DSW 84]
-[98 AWF 67]
-[15 EWA 88]
-[21 DSF 69]
-[4 DSD 67]
+Comparacoes=6
+Comparacoes=28
+Comparacoes=55
+[2 EDA 41]
+[9 EAA 23]
+[20 WES 24]
+[23 ADW 22]
+[36 SWA 20]
+[67 AAS 87]
+[69 ESW 4]
+[78 ADA 35]
+[83 WAD 13]
+[89 WDS 19]
+[99 WDD 63]
+[81 AFD 82]
+[4 SSS 20]
+Pos=-1
+Comparacoes=56
+Comparacoes=120
+Pos=-1
+Comparacoes=120
+Pos=7
+Comparacoes=138

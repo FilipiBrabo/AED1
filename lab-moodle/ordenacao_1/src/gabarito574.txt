@@ -1,2 +1,19 @@
-Pos=1
-Comparacoes=6
+Comparacoes=0
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=-1
+Comparacoes=1
+Comparacoes=3
+Pos=-1
+Comparacoes=9
+Pos=-1
+[30 DAW 85]
+[28 EWS 40]
+[23 FWD 87]
+[33 SFD 89]
+[16 SSS 59]
+[78 WWW 19]
+Pos=0
+Comparacoes=5

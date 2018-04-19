@@ -1,24 +1,21 @@
+Comparacoes=0
+Comparacoes=4
+Comparacoes=22
+Comparacoes=12
+Pos=-1
+Comparacoes=37
+Pos=-1
+Comparacoes=66
+Comparacoes=105
+Comparacoes=105
+Comparacoes=105
+Pos=0
+Comparacoes=120
 Pos=-1
 Pos=-1
-Pos=-1
-[33 EWS 77]
-Comparacoes=1
+Comparacoes=40
+Pos=12
+Pos=13
+Comparacoes=231
+Comparacoes=253
 Pos=3
-[33 EWS 77]
-[25 SAS 16]
-[83 WAA 15]
-[32 ADS 63]
-Comparacoes=5
-[25 SAS 16]
-[32 ADS 63]
-[33 EWS 77]
-[83 WAA 15]
-[28 DWD 33]
-Pos=-1
-[25 SAS 16]
-[32 ADS 63]
-[33 EWS 77]
-[83 WAA 15]
-[28 DWD 33]
-[70 WSW 8]
-[76 DAW 13]

@@ -1,19 +1,33 @@
 Pos=0
-Comparacoes=0
-Pos=2
+[10 SAA 37]
+[10 SAA 37]
 Pos=0
-Comparacoes=7
-Comparacoes=15
-[24 EFW 55]
-[31 FAD 71]
-[32 SAD 79]
-[44 AAS 86]
-[46 AEA 41]
-[75 DAD 62]
-[47 SDW 53]
-[12 FSW 4]
-[9 AAA 78]
-Comparacoes=36
+Comparacoes=1
 Pos=5
-Pos=10
-Comparacoes=55
+[41 EAW 83]
+[10 SAA 37]
+[22 DSS 16]
+[84 SWW 99]
+[26 ASF 71]
+[54 WWA 92]
+Pos=0
+Comparacoes=9
+[26 ASF 71]
+[22 DSS 16]
+[41 EAW 83]
+[10 SAA 37]
+[84 SWW 99]
+[54 WWA 92]
+[39 FDA 59]
+Comparacoes=21
+Pos=3
+Comparacoes=11
+Comparacoes=21
+Comparacoes=21
+[26 ASF 71]
+[22 DSS 16]
+[41 EAW 83]
+[39 FDA 59]
+[10 SAA 37]
+[84 SWW 99]
+[54 DSW 85]

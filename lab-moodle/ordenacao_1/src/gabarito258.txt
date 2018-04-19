@@ -1,22 +1,18 @@
-Comparacoes=0
-[69 EDF 74]
-Comparacoes=0
-Comparacoes=0
-Pos=0
 Pos=-1
-Comparacoes=10
 Pos=0
-Pos=2
-Comparacoes=15
-Pos=2
-Comparacoes=28
-[4 DAS 3]
-[15 DEA 62]
-[18 WSS 37]
-[28 SDA 27]
-[56 AWS 28]
-[59 ADE 72]
-[69 EDF 74]
-[92 DDF 53]
-[22 FED 9]
-Comparacoes=13
+[46 WSA 71]
+[46 WSA 71]
+[12 AWS 23]
+Comparacoes=3
+Comparacoes=3
+Comparacoes=8
+Pos=-1
+Comparacoes=7
+[5 WWE 78]
+[12 AWS 23]
+[27 FAA 16]
+[37 WWW 3]
+[46 WSA 71]
+Pos=1
+Comparacoes=12
+Comparacoes=120

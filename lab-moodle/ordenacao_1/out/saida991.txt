@@ -1,1 +1,21 @@
-Comparacoes=0
+Pos=-1
+Pos=-1
+Pos=-1
+Comparacoes=3
+Pos=-1
+Pos=2
+Pos=-1
+Pos=3
+Pos=1
+Comparacoes=36
+Pos=8
+[43 AAW 60]
+[82 AWS 48]
+[96 DAF 91]
+[48 DEF 63]
+[31 SAA 81]
+[85 SAW 71]
+[70 SDW 60]
+[20 SSS 34]
+[66 SSS 50]
+[33 AAD 36]

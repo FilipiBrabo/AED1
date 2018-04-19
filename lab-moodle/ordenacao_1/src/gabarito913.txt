@@ -1,1 +1,13 @@
+Pos=-1
 Comparacoes=0
+[40 SSW 34]
+Comparacoes=1
+Pos=1
+Pos=3
+Comparacoes=9
+Pos=4
+Comparacoes=15
+Pos=-1
+Comparacoes=21
+Pos=-1
+Pos=-1

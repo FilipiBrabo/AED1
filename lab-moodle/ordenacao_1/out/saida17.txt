@@ -1,30 +1,6 @@
-Comparacoes=0
-[51 AWD 41]
-[93 DDS 47]
 Pos=-1
-Pos=2
-Comparacoes=15
-Comparacoes=8
-Comparacoes=21
-Pos=7
-[17 AAF 46]
-[31 FSS 59]
-[51 AWD 41]
-[59 FAW 47]
-[60 AAE 38]
-[93 DDS 47]
-[97 AAS 89]
-[73 WSA 40]
-Pos=8
-[17 AAF 46]
-[31 FSS 59]
-[51 AWD 41]
-[59 FAW 47]
-[60 AAE 38]
-[93 DDS 47]
-[97 AAS 89]
-[73 WSA 40]
-[5 SAD 11]
-Comparacoes=55
-Comparacoes=17
-Comparacoes=44
+Comparacoes=0
+Pos=-1
+Pos=1
+Pos=0
+Pos=0

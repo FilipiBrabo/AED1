@@ -1,12 +1,54 @@
+[45 WWD 76]
+[37 DSS 79]
+Pos=-1
+Pos=0
 Pos=1
-Pos=-1
-Comparacoes=6
-[15 EWA 3]
-[45 DSA 46]
-[59 ASD 5]
-[93 ESS 47]
-[82 DES 70]
-Pos=-1
-Comparacoes=10
+[45 WWD 76]
+[37 DSS 79]
+[79 AAS 34]
+[89 DSS 79]
+Pos=3
 Comparacoes=5
-Comparacoes=17
+Comparacoes=15
+Pos=4
+Comparacoes=57
+[19 SFW 53]
+[37 DSS 79]
+[38 FWD 19]
+[38 FWF 62]
+[39 AEF 82]
+[45 WWD 76]
+[49 DAA 16]
+[56 WAS 51]
+[65 AAF 73]
+[67 SFW 61]
+[77 AAW 26]
+[79 AAS 34]
+[80 WFD 26]
+[89 DSS 79]
+[95 DED 44]
+Pos=-1
+Comparacoes=136
+Pos=3
+Comparacoes=136
+[19 SFW 53]
+[25 DFA 72]
+[30 FWA 42]
+[37 DSS 79]
+[38 FWD 19]
+[38 FWF 62]
+[39 AEF 82]
+[45 WWD 76]
+[49 DAA 16]
+[56 WAS 51]
+[65 AAF 73]
+[67 SFW 61]
+[77 AAW 26]
+[79 AAS 34]
+[80 WFD 26]
+[89 DSS 79]
+[95 DED 44]
+Pos=14
+Comparacoes=210
+Comparacoes=253
+Comparacoes=42

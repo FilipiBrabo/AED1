@@ -1,43 +1,7 @@
-Comparacoes=0
-Comparacoes=3
-Comparacoes=5
-Comparacoes=5
-Pos=0
 Pos=-1
-Comparacoes=13
+Comparacoes=1
+Comparacoes=1
 Comparacoes=6
-Pos=6
-Pos=-1
-Comparacoes=21
-Comparacoes=21
-Pos=-1
-Pos=3
-Comparacoes=17
-Pos=-1
-[18 AAF 67]
-[23 DWD 29]
-[28 WWE 78]
-[48 AFE 45]
-[48 ASA 61]
-[55 FEF 93]
-[72 AFF 5]
-[84 FES 70]
-[98 SSA 25]
-[27 AWW 29]
-[46 AWF 11]
-[18 AAF 67]
-[23 DWD 29]
-[28 WWE 78]
-[48 AFE 45]
-[48 ASA 61]
-[55 FEF 93]
-[72 AFF 5]
-[84 FES 70]
-[98 SSA 25]
-[27 AWW 29]
-[46 AWF 11]
-Pos=9
-Pos=10
-Pos=-1
-Pos=2
-Pos=-1
+Pos=4
+Comparacoes=10
+Comparacoes=28

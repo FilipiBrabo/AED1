@@ -1,0 +1,46 @@
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+[70 SSW 78]
+[36 FDA 13]
+[99 SEF 62]
+Pos=2
+[70 SSW 78]
+[36 FDA 13]
+[99 SEF 62]
+[87 ADS 82]
+Pos=-1
+Comparacoes=29
+Pos=0
+[2 AAS 75]
+[6 WSS 15]
+[36 FDA 13]
+[45 DFD 13]
+[61 ASA 73]
+[67 FAW 31]
+[70 SSW 78]
+[87 ADS 82]
+[99 SEF 62]
+[16 SDS 18]
+[45 AWW 83]
+Comparacoes=78
+Pos=-1
+[2 AAS 75]
+[87 ADS 82]
+[61 ASA 73]
+[45 AWW 83]
+[44 DAD 43]
+[45 DFD 13]
+[67 FAW 31]
+[36 FDA 13]
+[59 FDD 45]
+[16 SDS 18]
+[99 SEF 62]
+[70 SSW 78]
+[6 WSS 15]
+[9 WEA 52]
+[54 DAA 21]
+[74 SDW 33]
+[80 DFF 96]
+Pos=12

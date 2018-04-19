@@ -1,17 +1,18 @@
-Pos=-1
-Pos=-1
-Pos=-1
-Pos=0
+[13 SAF 80]
 Comparacoes=0
-Pos=-1
-Pos=-1
-[72 EAW 79]
-[66 ESW 5]
+Comparacoes=0
+Comparacoes=0
+Comparacoes=0
+[13 SAF 80]
+[13 SAF 80]
+[91 FAD 49]
 Comparacoes=1
 Pos=-1
-Comparacoes=3
-Pos=4
-Comparacoes=28
-Pos=2
-Comparacoes=20
+Comparacoes=6
+[75 EFD 49]
+[47 ESA 95]
+[91 FAD 49]
+[13 SAF 80]
 Pos=-1
+Comparacoes=9
+Comparacoes=10

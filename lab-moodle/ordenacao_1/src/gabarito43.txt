@@ -1,0 +1,35 @@
+Comparacoes=0
+[8 DFA 33]
+Pos=2
+Comparacoes=3
+[8 DFA 33]
+[11 ADE 32]
+[33 SWA 70]
+Pos=1
+Comparacoes=8
+[11 ADE 32]
+[8 DFA 33]
+[84 EWS 77]
+[31 FAD 85]
+[68 SDW 17]
+[33 SWA 70]
+[54 WAD 76]
+[29 EEF 72]
+Pos=-1
+Pos=0
+Comparacoes=29
+[8 DFA 33]
+[8 DDS 4]
+[11 ADE 32]
+[29 EEF 72]
+[31 FAD 85]
+[33 SWA 70]
+[54 WAD 76]
+[68 SDW 17]
+[76 WSD 45]
+[84 EWS 77]
+[31 DEE 69]
+Comparacoes=55
+Pos=0
+Comparacoes=105
+Pos=-1

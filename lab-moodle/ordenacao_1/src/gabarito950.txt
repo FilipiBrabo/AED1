@@ -1,5 +1,21 @@
-[7 ADS 85]
+Pos=-1
+Pos=0
+[5 SAS 38]
 Comparacoes=0
 Comparacoes=1
-Comparacoes=1
-Comparacoes=1
+Pos=-1
+Pos=-1
+[5 SAS 38]
+[52 WWE 49]
+[99 FDW 32]
+[44 DDS 68]
+[80 FSA 91]
+Pos=-1
+Comparacoes=14
+[38 ASD 77]
+[44 DDS 68]
+[99 FDW 32]
+[80 FSA 91]
+[5 SAS 38]
+[52 WWE 49]
+[7 SAA 37]

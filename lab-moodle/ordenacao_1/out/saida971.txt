@@ -1,37 +1,5 @@
-Pos=0
-Pos=4
-Comparacoes=10
-Comparacoes=4
-Comparacoes=10
+Comparacoes=0
+[37 AFS 8]
+Comparacoes=3
+Comparacoes=3
 Pos=-1
-[95 ADD 12]
-[58 AWA 6]
-[67 ESD 18]
-[96 WDA 50]
-[53 WDS 39]
-Comparacoes=17
-Pos=3
-Comparacoes=21
-Comparacoes=91
-Pos=2
-[6 WSD 68]
-[18 FSA 1]
-[35 SWD 7]
-[49 EAS 14]
-[53 WDS 39]
-[58 AWA 6]
-[60 DSS 86]
-[67 ESD 18]
-[67 WDA 87]
-[80 ESW 81]
-[92 WWD 70]
-[94 DAD 85]
-[95 ADD 12]
-[96 WDA 50]
-[13 FWS 50]
-[81 EDA 88]
-[49 FAW 85]
-[27 DSW 79]
-Pos=3
-Pos=3
-Pos=19

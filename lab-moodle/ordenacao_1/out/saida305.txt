@@ -1,14 +1,10 @@
-Pos=2
-Comparacoes=8
+Pos=-1
+Pos=-1
+Comparacoes=0
 Pos=0
-[5 SAE 96]
-[15 SAA 51]
-[34 DAA 59]
-[59 EDW 1]
-[82 WWF 35]
-Comparacoes=10
-[5 SAE 96]
-[15 SAA 51]
-[34 DAA 59]
-[59 EDW 1]
-[82 WWF 35]
+Pos=0
+[70 ADD 84]
+[17 SFW 57]
+[70 ADD 84]
+[17 SFW 57]
+[53 AAA 76]

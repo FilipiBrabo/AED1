@@ -1,0 +1,31 @@
+Pos=-1
+[49 WDF 16]
+[8 FWS 20]
+Comparacoes=1
+Comparacoes=3
+Pos=0
+[5 DFS 66]
+[8 FWS 20]
+[49 WDF 16]
+[51 AAE 31]
+[71 AAD 6]
+[43 DDA 68]
+[5 DFS 66]
+[8 FWS 20]
+[49 WDF 16]
+[51 AAE 31]
+[71 AAD 6]
+[43 DDA 68]
+Pos=2
+[5 DFS 66]
+[8 FWS 20]
+[49 WDF 16]
+[51 AAE 31]
+[71 AAD 6]
+[43 DDA 68]
+[35 DWE 51]
+[93 WAF 22]
+[17 AAW 97]
+[90 AES 74]
+Pos=10
+Pos=12

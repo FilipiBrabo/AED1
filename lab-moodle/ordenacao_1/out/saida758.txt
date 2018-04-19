@@ -1,4 +1,5 @@
-Pos=-1
 Comparacoes=0
-Comparacoes=0
-Comparacoes=4
+[88 SSA 69]
+[88 SSA 69]
+[83 SWS 22]
+Comparacoes=1

@@ -1,1 +1,19 @@
-Comparacoes=0
+Comparacoes=1
+[40 AWD 22]
+[96 ASA 63]
+Comparacoes=1
+Pos=-1
+Comparacoes=3
+Comparacoes=3
+Comparacoes=5
+Comparacoes=5
+Comparacoes=3
+Pos=2
+[8 AAW 38]
+[40 AWD 22]
+[54 SWE 32]
+[96 ASA 63]
+[14 ADA 94]
+Comparacoes=9
+Pos=-1
+Pos=-1

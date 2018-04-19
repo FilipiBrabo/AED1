@@ -1,1 +1,27 @@
-[8 DEF 49]
+Comparacoes=0
+Comparacoes=0
+Comparacoes=3
+[96 FAD 48]
+[98 FWS 38]
+[15 WDE 15]
+[59 SDD 49]
+Pos=2
+Pos=1
+Comparacoes=6
+Pos=2
+Comparacoes=28
+Pos=5
+Comparacoes=55
+Comparacoes=55
+[4 ADW 35]
+[15 WDE 15]
+[20 AAA 66]
+[35 WWS 27]
+[59 SDD 49]
+[62 SFS 35]
+[66 DDS 55]
+[74 DAD 95]
+[94 AFA 11]
+[96 FAD 48]
+[98 FWS 38]
+Pos=0

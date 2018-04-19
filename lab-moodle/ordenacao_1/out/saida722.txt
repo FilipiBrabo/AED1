@@ -1,3 +1,20 @@
+Pos=-1
+Pos=0
 Comparacoes=0
 Pos=-1
-Comparacoes=3
+Comparacoes=1
+Comparacoes=1
+[94 AED 91]
+[98 DFS 66]
+[2 AWF 92]
+Pos=-1
+Pos=-1
+[94 AED 91]
+[98 DFS 66]
+[2 AWF 92]
+[45 AFA 4]
+Comparacoes=6
+[94 AED 91]
+[45 AFA 4]
+[2 AWF 92]
+[98 DFS 66]

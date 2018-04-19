@@ -1,6 +1,45 @@
+Pos=-1
+Pos=-1
+Pos=-1
 Comparacoes=0
-[71 AFS 98]
+Pos=3
+Pos=3
 Pos=-1
-Comparacoes=1
-Pos=-1
-Comparacoes=1
+Pos=5
+Pos=9
+Pos=9
+Pos=5
+Comparacoes=105
+[85 AAD 85]
+[19 AAF 55]
+[21 ADD 16]
+[72 ADS 6]
+[33 AEA 90]
+[73 AWE 86]
+[21 DAA 63]
+[34 DED 66]
+[4 EFF 54]
+[4 ESS 17]
+[52 ESS 21]
+[55 FAF 92]
+[88 SSA 2]
+[18 WAD 17]
+[43 WSD 47]
+[85 AAD 85]
+[19 AAF 55]
+[21 ADD 16]
+[72 ADS 6]
+[33 AEA 90]
+[73 AWE 86]
+[21 DAA 63]
+[34 DED 66]
+[4 EFF 54]
+[4 ESS 17]
+[52 ESS 21]
+[55 FAF 92]
+[88 SSA 2]
+[18 WAD 17]
+[43 WSD 47]
+[30 WWF 9]
+[55 FFW 68]
+Comparacoes=136

@@ -1,38 +1,7 @@
-Pos=2
-Pos=4
-Pos=1
-Pos=1
-[73 AWS 7]
-[62 WAD 83]
-[42 WDD 86]
-[32 WWF 83]
-[52 WDA 11]
-[56 WWD 54]
-[62 DFE 61]
-Pos=4
-[73 AWS 7]
-[62 WAD 83]
-[42 WDD 86]
-[32 WWF 83]
-[52 WDA 11]
-[56 WWD 54]
-[62 DFE 61]
-[25 EWE 68]
-[73 AWS 7]
-[62 WAD 83]
-[42 WDD 86]
-[32 WWF 83]
-[52 WDA 11]
-[56 WWD 54]
-[62 DFE 61]
-[25 EWE 68]
-Pos=3
-Comparacoes=28
-Comparacoes=28
+Pos=0
+[60 EDA 49]
+[21 EDA 13]
+[36 AAS 20]
+[67 ADS 71]
 Pos=-1
-Pos=7
-Comparacoes=15
-Comparacoes=55
-Comparacoes=54
-Pos=8
-Pos=6
+Pos=2

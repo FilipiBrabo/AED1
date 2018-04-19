@@ -1,2 +1,12 @@
 Comparacoes=0
+Comparacoes=1
+Comparacoes=3
 Pos=-1
+Pos=1
+[18 ADA 57]
+[56 WFF 44]
+[97 AWW 30]
+[92 AWD 56]
+[73 AFW 24]
+[37 WWS 67]
+[36 AAD 94]

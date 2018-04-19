@@ -1,33 +1,7 @@
-Pos=-1
 Pos=0
-Comparacoes=3
+Comparacoes=6
 Pos=0
-[29 FWW 79]
-[54 SAS 16]
-[97 WDF 19]
-Pos=1
-Comparacoes=4
-Comparacoes=9
-[29 FWW 79]
-[54 SAS 16]
-[54 DFS 91]
-[59 SEA 14]
-[93 DWS 70]
-[97 WDF 19]
-Pos=0
-Comparacoes=14
-Comparacoes=36
-[11 FDW 15]
-[29 FWW 79]
-[50 WSE 97]
-[54 SAS 16]
-[54 DFS 91]
-[59 SEA 14]
-[71 FSA 10]
-[93 DWS 70]
-[97 WDF 19]
+Comparacoes=28
+Pos=7
 Pos=-1
-Comparacoes=45
 Pos=-1
-Comparacoes=43
-Comparacoes=105

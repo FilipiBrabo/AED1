@@ -1,1 +1,10 @@
+Comparacoes=0
+Comparacoes=2
+Comparacoes=3
+Comparacoes=2
+[17 SFF 45]
+[14 SWA 56]
+[70 WAF 41]
+[91 ESS 83]
+[63 EDW 39]
 Pos=-1

@@ -1,24 +1,13 @@
-Comparacoes=3
+Pos=0
 Pos=-1
-Pos=4
-[7 WWW 62]
-[15 AES 85]
-[46 EWD 45]
-[75 FFE 50]
-[76 DAD 94]
-[72 SAS 15]
-[59 AFW 76]
-[37 AFA 40]
-[1 AAS 51]
-[35 DDS 40]
-[7 WWW 62]
-[15 AES 85]
-[46 EWD 45]
-[75 FFE 50]
-[76 DAD 94]
-[72 SAS 15]
-[59 AFW 76]
-[37 AFA 40]
-[1 AAS 51]
-[35 DDS 40]
-[14 WSA 1]
+Pos=0
+Pos=0
+Comparacoes=1
+Pos=1
+[41 FSD 30]
+[74 WAD 64]
+Comparacoes=1
+Comparacoes=3
+Pos=3
+Pos=-1
+Comparacoes=14

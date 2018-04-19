@@ -1,0 +1,19 @@
+[17 DSD 9]
+[84 SSA 67]
+Comparacoes=6
+Comparacoes=7
+[80 DAA 66]
+[17 DSD 9]
+[64 DWS 44]
+[84 SSA 67]
+[41 WWS 62]
+[85 AFS 42]
+[80 DAA 66]
+[17 DSD 9]
+[64 DWS 44]
+[84 SSA 67]
+[41 WWS 62]
+[85 AFS 42]
+Pos=5
+Comparacoes=36
+Comparacoes=28

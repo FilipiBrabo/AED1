@@ -1,5 +1,4 @@
 Pos=-1
 Comparacoes=0
-Comparacoes=0
-Pos=-1
-Pos=-1
+[84 FAS 14]
+[84 FAS 14]

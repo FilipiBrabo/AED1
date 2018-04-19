@@ -1,4 +1,15 @@
-[62 SSE 28]
-Comparacoes=0
-[62 SSE 28]
+Comparacoes=1
+Comparacoes=1
+Comparacoes=3
+Comparacoes=6
+Pos=-1
+Pos=-1
+[64 DAD 47]
+[55 DAW 96]
+[41 FFS 93]
+[62 WWA 15]
+[22 WDA 16]
+Pos=2
+Comparacoes=9
+Pos=4
 Pos=-1

@@ -1,27 +1,22 @@
-Comparacoes=0
-[77 DWA 16]
-[43 WFA 66]
-Comparacoes=1
 Pos=0
-Comparacoes=1
-Pos=-1
-Comparacoes=22
-Comparacoes=26
-Pos=6
-Comparacoes=10
-[65 AAA 2]
-[40 ASE 91]
-[87 DSS 22]
-[77 DWA 16]
-[10 EWA 88]
-[66 SDD 79]
-[30 SWA 35]
-[82 WAW 54]
-[43 WFA 66]
-[94 WFD 43]
-[68 WWW 56]
-[16 AAS 51]
-Pos=-1
-Pos=-1
-Pos=6
+Comparacoes=6
+Comparacoes=6
+Pos=0
+Comparacoes=6
+Pos=4
+Comparacoes=27
+[91 AEA 29]
+[52 AEW 13]
+[2 AWW 84]
+[32 DDW 4]
+[59 DSA 95]
+[59 DWA 19]
+[82 SDA 55]
+[16 WDA 11]
+[93 WSD 36]
+[9 WSE 18]
+Comparacoes=34
+Comparacoes=66
+Pos=0
 Comparacoes=78
+Pos=-1

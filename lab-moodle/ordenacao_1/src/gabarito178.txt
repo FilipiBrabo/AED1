@@ -1,20 +1,54 @@
-Comparacoes=0
-[50 DSA 74]
-Comparacoes=0
+Pos=0
+Comparacoes=1
 Pos=-1
+Comparacoes=5
+Pos=2
 Pos=-1
-[50 DSA 74]
-Comparacoes=3
+Pos=3
+Comparacoes=6
+Pos=0
 Comparacoes=4
-Comparacoes=28
+Pos=0
+Comparacoes=4
+Comparacoes=16
+Comparacoes=19
+Pos=2
 Pos=-1
-Comparacoes=26
-Pos=-1
-Pos=4
-Comparacoes=66
-Pos=-1
-Pos=-1
-Comparacoes=91
-Comparacoes=13
-Comparacoes=91
-Pos=-1
+[6 ADS 43]
+[11 AAS 91]
+[14 SAW 83]
+[24 DAA 45]
+[43 ASW 16]
+[50 FSA 93]
+[80 DDF 71]
+[90 AAA 54]
+[52 ADA 56]
+[21 WAA 57]
+[6 ADS 43]
+[11 AAS 91]
+[14 SAW 83]
+[24 DAA 45]
+[43 ASW 16]
+[50 FSA 93]
+[80 DDF 71]
+[90 AAA 54]
+[52 ADA 56]
+[21 WAA 57]
+Comparacoes=17
+Comparacoes=19
+[3 FSA 10]
+[6 ADS 43]
+[11 AAS 91]
+[14 SAW 83]
+[21 WAA 57]
+[24 DAA 45]
+[43 ASW 16]
+[50 FSA 93]
+[52 ADA 56]
+[80 DDF 71]
+[90 AAA 54]
+[43 SWF 15]
+Comparacoes=15
+Comparacoes=11
+Pos=11
+Comparacoes=14

@@ -1,6 +1,4 @@
-O 1 1
-I 11 WDD 55
-M
-M
-B 69
+I 66 WWA 92
+I 32 WWD 52
+I 73 AWD 67
 P

@@ -1,6 +1,36 @@
-Comparacoes=0
 Pos=-1
-Pos=4
-Comparacoes=8
-Comparacoes=15
-Pos=4
+Pos=0
+Pos=0
+[12 SDS 7]
+[64 AWS 4]
+[90 WAD 77]
+[59 WAD 2]
+[57 DAD 27]
+Comparacoes=45
+Comparacoes=66
+Pos=14
+Comparacoes=153
+[38 ASF 71]
+[25 ASW 98]
+[33 AWA 76]
+[64 AWS 4]
+[57 DAD 27]
+[27 DDE 1]
+[88 DFA 35]
+[96 FAA 31]
+[47 SAW 47]
+[94 SAW 81]
+[26 SDD 56]
+[12 SDS 7]
+[6 SWW 62]
+[46 WAD 50]
+[59 WAD 2]
+[90 WAD 77]
+[54 WDF 94]
+[51 WSF 29]
+[11 EDF 92]
+[33 FWD 7]
+[12 AAA 96]
+Comparacoes=210
+Pos=11
+Pos=7

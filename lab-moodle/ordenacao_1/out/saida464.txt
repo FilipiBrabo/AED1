@@ -1,24 +1,21 @@
-Comparacoes=3
-Comparacoes=6
-Comparacoes=10
-[33 FEA 16]
-[37 DAD 58]
-[59 AAD 36]
-[62 WDD 26]
-[93 DEF 88]
-Comparacoes=10
-Pos=2
-Pos=2
+Pos=-1
+Comparacoes=0
+Comparacoes=0
+[35 AFA 97]
+Comparacoes=0
+[35 AFA 97]
+[44 WWW 61]
+[39 WEW 22]
+[27 WSE 31]
+[35 AFA 97]
+[44 WWW 61]
+[39 WEW 22]
+[27 WSE 31]
+Comparacoes=5
+Comparacoes=4
 Comparacoes=4
 Comparacoes=7
-[33 FEA 16]
-[37 DAD 58]
-[59 AAD 36]
-[62 WDD 26]
-[93 DEF 88]
-[56 AWS 74]
-Pos=0
-Pos=0
 Pos=-1
-Pos=-1
-Comparacoes=15
+Comparacoes=21
+Pos=8
+Pos=5

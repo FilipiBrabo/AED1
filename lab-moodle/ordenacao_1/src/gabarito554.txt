@@ -1,6 +1,1 @@
-Pos=0
-[90 WDD 69]
-Pos=1
-Pos=3
-Comparacoes=16
-Pos=4
+Pos=-1

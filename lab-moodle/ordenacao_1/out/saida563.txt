@@ -1,3 +1,18 @@
+Comparacoes=0
+Comparacoes=1
+Comparacoes=1
+[98 AFE 66]
+[43 FAE 46]
 Pos=-1
-[40 SSS 98]
-[21 DFS 93]
+[98 AFE 66]
+[43 FAE 46]
+[84 SWA 52]
+[60 DFW 92]
+[34 EAW 55]
+[30 AFW 83]
+[95 SEA 70]
+[55 DDA 10]
+Pos=0
+Pos=-1
+Comparacoes=36
+Comparacoes=35

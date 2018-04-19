@@ -1,4 +1,9 @@
-Comparacoes=0
-Pos=-1
-Comparacoes=3
-Pos=2
+[54 WAF 71]
+[78 SDF 80]
+[54 WAF 71]
+[78 SDF 80]
+Pos=1
+Comparacoes=6
+Comparacoes=7
+Comparacoes=8
+Comparacoes=5

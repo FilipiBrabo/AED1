@@ -1,11 +1,1 @@
-Pos=-1
 Comparacoes=0
-Comparacoes=0
-[76 WFW 65]
-[72 WDS 21]
-Comparacoes=1
-Pos=-1
-Pos=-1
-Comparacoes=8
-Pos=2
-Comparacoes=15

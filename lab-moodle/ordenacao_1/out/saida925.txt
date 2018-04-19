@@ -1,65 +1,7 @@
-Pos=5
-[19 SSW 81]
-[32 AAA 16]
-[7 WAA 70]
-[60 SAW 50]
-[57 ADD 9]
-[82 AFS 86]
-[67 AAS 92]
-[21 SDD 93]
-[35 AEW 86]
-[97 AAA 42]
-Comparacoes=37
-Comparacoes=14
+Pos=0
+Comparacoes=1
 Pos=-1
-Pos=10
-Pos=12
-Pos=-1
-Comparacoes=29
-Comparacoes=136
-[7 WAA 70]
-[14 ASA 59]
-[19 SSW 81]
-[21 SDD 93]
-[24 WWF 11]
-[26 WDD 64]
-[32 AAA 16]
-[35 AEW 86]
-[47 SAA 4]
-[57 ADD 9]
-[59 SED 88]
-[60 SAW 50]
-[62 AFA 19]
-[64 WDW 40]
-[67 AAS 92]
-[82 AFS 86]
-[97 AAA 42]
-Comparacoes=102
-Comparacoes=190
-Pos=15
-Pos=11
-Pos=1
-[7 WAA 70]
-[14 ASA 59]
-[19 SSW 81]
-[21 SDD 93]
-[24 WWF 11]
-[26 WDD 64]
-[32 AAA 16]
-[35 AEW 86]
-[39 WAW 73]
-[47 SAA 4]
-[52 DAF 5]
-[57 ADD 9]
-[59 SED 88]
-[60 SAW 50]
-[62 AFA 19]
-[64 WDW 40]
-[67 AAS 92]
-[82 AFS 86]
-[95 ASA 95]
-[97 AAA 42]
-[99 FAA 69]
-[47 WSS 75]
-[81 DSA 88]
-Pos=18
+Comparacoes=3
+Comparacoes=3
+Comparacoes=5
+Comparacoes=21

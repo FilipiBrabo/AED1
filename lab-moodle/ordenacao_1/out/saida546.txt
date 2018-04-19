@@ -1,4 +1,48 @@
-Comparacoes=0
-Comparacoes=0
-[70 ADA 91]
-[56 SAA 8]
+[51 AEA 83]
+Comparacoes=2
+Pos=-1
+Comparacoes=6
+Pos=0
+Comparacoes=7
+[81 AAD 18]
+[51 AEA 83]
+[36 ASF 53]
+[11 EAD 79]
+[86 SWD 55]
+[81 AAD 18]
+[51 AEA 83]
+[36 ASF 53]
+[11 EAD 79]
+[86 SWD 55]
+[9 WDW 12]
+Pos=5
+Pos=4
+Comparacoes=21
+Pos=-1
+Pos=0
+Pos=-1
+Pos=5
+Pos=-1
+Pos=-1
+Pos=13
+Pos=7
+[81 AAD 18]
+[51 AEA 83]
+[36 ASF 53]
+[11 EAD 79]
+[48 EEW 15]
+[86 SWD 55]
+[9 WDW 12]
+[69 SAF 82]
+[77 WDD 78]
+[14 SWA 3]
+[9 SAA 14]
+[73 FDW 1]
+[43 SAF 43]
+[19 SEE 41]
+[40 WDA 79]
+[69 AEW 69]
+[13 WAE 27]
+[6 DAD 42]
+[10 ASA 63]
+[21 WAS 22]

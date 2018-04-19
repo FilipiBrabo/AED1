@@ -1,3 +1,15 @@
 Comparacoes=0
-Comparacoes=1
-Comparacoes=1
+Pos=1
+[66 AES 51]
+[29 WWS 50]
+Comparacoes=3
+Pos=2
+Comparacoes=6
+Pos=0
+[29 WWS 50]
+[57 ASS 20]
+[66 AES 51]
+[99 EAW 55]
+Comparacoes=19
+Comparacoes=45
+Comparacoes=55

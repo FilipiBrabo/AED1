@@ -1,52 +1,12 @@
-Comparacoes=0
-Comparacoes=0
-Pos=2
-Comparacoes=32
-Comparacoes=25
 Pos=-1
-[28 AWF 17]
-[30 AEW 14]
-[44 ASE 47]
-[44 SAA 86]
-[45 DWD 68]
-[48 DAE 48]
-[65 SFW 56]
-[84 AWS 77]
-[92 SDD 65]
-[94 ASE 91]
-[47 ADS 99]
-Comparacoes=35
-Comparacoes=78
-[28 AWF 17]
-[30 AEW 14]
-[43 ADA 75]
-[44 SAA 86]
-[44 ASE 47]
-[45 DWD 68]
-[47 ADS 99]
-[48 DAE 48]
-[65 SFW 56]
-[76 DSE 67]
-[84 AWS 77]
-[92 SDD 65]
-[94 ASE 91]
-[61 DAA 10]
-[28 AWF 17]
-[30 AEW 14]
-[43 ADA 75]
-[44 SAA 86]
-[44 ASE 47]
-[45 DWD 68]
-[47 ADS 99]
-[48 DAE 48]
-[65 SFW 56]
-[76 DSE 67]
-[84 AWS 77]
-[92 SDD 65]
-[94 ASE 91]
-[61 DAA 10]
-[75 WWF 84]
-[98 WEA 29]
-Comparacoes=56
-Pos=7
-Comparacoes=63
+Pos=-1
+Comparacoes=0
+[77 AAS 21]
+Pos=0
+Comparacoes=3
+Comparacoes=3
+[29 SSW 71]
+[63 AWD 61]
+[77 AAS 21]
+Comparacoes=6
+Pos=-1

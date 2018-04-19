@@ -1,3 +1,30 @@
-Pos=0
-Comparacoes=0
+Pos=1
+Pos=1
+[49 SFA 96]
+[26 FAS 60]
+[90 WWD 67]
+[91 WSW 58]
+[39 AFA 41]
+[27 SAW 42]
+Comparacoes=21
+Comparacoes=11
+Comparacoes=28
+Comparacoes=36
+Pos=-1
+Comparacoes=36
+Pos=-1
+Pos=8
+[91 AEA 16]
+[39 AFA 41]
+[70 AFS 3]
+[68 DFA 23]
+[26 FAS 60]
+[47 FAS 68]
+[27 SAW 42]
+[49 SFA 96]
+[90 WWD 67]
+[57 ASA 98]
+[41 AAS 14]
+Pos=7
+Comparacoes=27
 Pos=-1

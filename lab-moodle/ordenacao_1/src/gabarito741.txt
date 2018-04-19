@@ -1,21 +1,8 @@
-Pos=0
 Comparacoes=3
-[57 FAA 62]
-[84 SDE 61]
-[8 WAE 43]
-Comparacoes=10
-Comparacoes=10
-Pos=4
-[95 ADW 46]
-[57 FAA 62]
-[84 SDE 61]
-[9 SWA 80]
-[8 WAE 43]
-[11 DAW 73]
-Comparacoes=15
+Comparacoes=6
+Pos=3
+Comparacoes=6
 Comparacoes=5
-Pos=-1
-Comparacoes=28
-Comparacoes=15
-Pos=-1
-Pos=-1
+Comparacoes=30
+Comparacoes=45
+Comparacoes=9

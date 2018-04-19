@@ -1,4 +1,6 @@
-Comparacoes=5
+Comparacoes=0
+[69 DAD 70]
+[69 DAD 70]
 Pos=-1
-Pos=0
+Pos=-1
 Comparacoes=3

@@ -1,1 +1,4 @@
-Comparacoes=0
+[49 SWW 10]
+Pos=1
+Comparacoes=1
+Pos=0

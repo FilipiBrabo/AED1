@@ -1,23 +1,2 @@
-Comparacoes=3
-[12 DDD 11]
-[43 AEW 95]
-[82 SAF 55]
-[1 ASA 88]
-Comparacoes=6
-[43 AEW 95]
-[1 ASA 88]
-[12 DDD 11]
-[82 SAF 55]
-Comparacoes=4
-Comparacoes=15
-[43 AEW 95]
-[1 ASA 88]
-[12 DDD 11]
-[82 SAF 55]
-[5 WDS 10]
-[75 WSA 16]
-[79 FSS 92]
-[90 DAW 45]
-[15 FSW 14]
-Pos=1
-Comparacoes=25
+Comparacoes=0
+Pos=-1

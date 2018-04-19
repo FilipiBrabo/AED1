@@ -1,28 +1,5 @@
+Pos=-1
 Comparacoes=0
-Pos=0
-Pos=2
-Comparacoes=2
-Comparacoes=9
-Pos=5
-Pos=6
-[36 AEE 5]
-[50 DSS 76]
-[30 FAS 91]
-[44 SFS 73]
-[62 WSA 82]
-[72 SAW 76]
-[2 SDW 10]
-[89 WSW 94]
-[37 EEW 32]
-[57 DSS 49]
-[26 WAW 82]
-Comparacoes=29
-Comparacoes=78
-Pos=-1
-Comparacoes=105
-Pos=5
-Pos=8
-Pos=-1
-Comparacoes=190
-Pos=21
-Comparacoes=76
+[21 FSS 43]
+[39 FAA 11]
+Comparacoes=6

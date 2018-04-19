@@ -1,22 +1,14 @@
-Comparacoes=0
-Pos=0
 Pos=-1
+Comparacoes=1
+[9 DAE 12]
+[15 SDA 4]
+[45 EDW 53]
 Pos=-1
-[81 FSS 42]
-[60 SAA 36]
-Pos=-1
-[81 FSS 42]
-[60 SAA 36]
-[71 WAD 31]
-[57 SAE 23]
-[55 SSS 36]
-[12 FAW 3]
-[25 FSA 96]
-[53 ADS 37]
-[2 EWW 34]
-[50 ASW 43]
-Comparacoes=41
-Pos=-1
-Pos=0
-Pos=1
-Pos=-1
+[9 DAE 12]
+[15 SDA 4]
+[45 EDW 53]
+[54 WAF 86]
+Comparacoes=3
+Comparacoes=4
+Comparacoes=6
+Comparacoes=37

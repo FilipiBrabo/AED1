@@ -1,1 +1,16 @@
+Comparacoes=0
+Comparacoes=0
 Pos=-1
+Comparacoes=0
+Comparacoes=0
+Pos=-1
+Pos=3
+Pos=1
+Pos=1
+[83 ADS 12]
+[76 ADA 66]
+[5 FWF 52]
+[42 ESW 13]
+[9 SSA 84]
+[2 SEF 72]
+[71 AAF 84]

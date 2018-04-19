@@ -1,7 +1,54 @@
-Comparacoes=5
-Comparacoes=4
-[10 ADD 69]
-[16 ADW 89]
-[54 ADF 85]
-[94 WFW 11]
+Pos=-1
+Pos=-1
+Pos=1
+Comparacoes=3
+Comparacoes=30
+Pos=-1
 Pos=4
+Comparacoes=55
+Comparacoes=55
+[81 AFS 4]
+[77 DEA 24]
+[69 DWA 71]
+[42 EAA 47]
+[20 EAD 73]
+[55 EAS 65]
+[58 EAS 17]
+[70 ESF 36]
+[97 SAS 70]
+[65 SFF 73]
+[44 SSD 42]
+Comparacoes=66
+Pos=-1
+Pos=-1
+Comparacoes=85
+Comparacoes=81
+Comparacoes=41
+Comparacoes=190
+Pos=-1
+[5 WSD 71]
+[13 AAA 11]
+[20 EAD 73]
+[42 EAA 47]
+[44 SSD 42]
+[47 DSE 53]
+[55 EAS 65]
+[56 SAA 88]
+[58 EAS 17]
+[59 AAA 36]
+[63 SAF 91]
+[65 SFF 73]
+[69 DWA 71]
+[70 ASA 63]
+[70 ESF 36]
+[73 DAW 34]
+[77 DEA 24]
+[81 AFS 4]
+[88 AAD 21]
+[97 SAS 70]
+[90 ESW 96]
+[56 AEW 72]
+[9 EAF 99]
+Comparacoes=57
+Pos=4
+Pos=-1

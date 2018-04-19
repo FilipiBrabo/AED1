@@ -1,2 +1,4 @@
-Comparacoes=6
-Comparacoes=5
+Comparacoes=0
+[41 AAW 63]
+[46 WSD 3]
+Pos=-1

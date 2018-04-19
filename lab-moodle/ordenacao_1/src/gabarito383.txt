@@ -1,34 +1,9 @@
-Pos=0
-[74 SED 77]
-[19 AAW 81]
-[74 SED 77]
-[19 AAW 81]
-[92 FEE 77]
-[63 DAA 96]
+Pos=-1
+Comparacoes=0
+Comparacoes=1
+[6 FSD 28]
+[58 SFS 73]
+Pos=1
 Pos=-1
 Pos=-1
-Pos=2
-[74 SED 77]
-[19 AAW 81]
-[92 FEE 77]
-[63 DAA 96]
-[92 FWE 10]
-[36 AWE 73]
-[35 FAD 48]
-Pos=2
-Comparacoes=45
-[1 SSD 42]
-[19 AAW 81]
-[35 FAD 48]
-[36 AWE 73]
-[63 DAA 96]
-[74 SED 77]
-[78 FWW 2]
-[92 FEE 77]
-[92 FWE 10]
-[93 SDA 59]
-Pos=7
-Pos=6
-Comparacoes=25
-Comparacoes=45
-Comparacoes=55
+Pos=-1

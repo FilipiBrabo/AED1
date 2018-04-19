@@ -1,10 +1,35 @@
-Comparacoes=0
-Comparacoes=0
 Comparacoes=1
-Comparacoes=6
-[17 WAF 5]
-[24 EAS 31]
-[36 AES 4]
-[56 DAW 35]
-[43 WAW 65]
-Comparacoes=10
+Comparacoes=1
+Pos=-1
+Pos=4
+Pos=4
+Pos=4
+Pos=5
+[81 ADE 92]
+[97 DDW 20]
+[93 AAS 43]
+[37 EAA 21]
+[39 SEW 39]
+[49 DFA 44]
+[24 DWW 31]
+[10 SAS 62]
+[11 WFD 46]
+Comparacoes=14
+Pos=-1
+Pos=1
+Comparacoes=78
+Pos=-1
+[2 WAW 80]
+[10 SAS 62]
+[11 WFD 46]
+[24 DWW 31]
+[30 SEW 24]
+[37 EAA 21]
+[39 SEW 39]
+[49 DFA 44]
+[69 ADD 71]
+[74 DDA 82]
+[81 ADE 92]
+[93 AAS 43]
+[97 DDW 20]
+[92 WAW 67]

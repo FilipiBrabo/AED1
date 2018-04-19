@@ -1,8 +1,41 @@
 Pos=-1
-Pos=0
+[25 SFD 40]
+[70 WEF 64]
+[47 WWD 99]
+Comparacoes=3
+Comparacoes=3
+Comparacoes=6
+Pos=2
 Pos=-1
-[64 EWW 23]
-[46 ESA 24]
-[32 AEA 64]
-[93 SAA 95]
-Comparacoes=4
+Comparacoes=23
+Comparacoes=29
+Comparacoes=45
+Comparacoes=45
+[7 ADA 32]
+[40 ADE 48]
+[17 AEA 20]
+[35 SDA 42]
+[25 SFD 40]
+[16 SWD 64]
+[33 SWW 24]
+[20 WAF 52]
+[70 WEF 64]
+[47 WWD 99]
+[7 ADA 32]
+[40 ADE 48]
+[17 AEA 20]
+[35 SDA 42]
+[25 SFD 40]
+[16 SWD 64]
+[33 SWW 24]
+[20 WAF 52]
+[70 WEF 64]
+[47 WWD 99]
+[32 DAD 78]
+Pos=-1
+Pos=15
+Comparacoes=120
+Comparacoes=120
+Comparacoes=20
+Comparacoes=136
+Comparacoes=75

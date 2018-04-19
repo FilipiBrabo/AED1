@@ -1,21 +1,36 @@
-Pos=0
-Pos=0
+Pos=-1
+Comparacoes=0
 Comparacoes=1
-[51 WAD 97]
-[37 WAW 48]
-[4 WDE 11]
-Comparacoes=3
+Comparacoes=1
+Pos=2
+[67 AEA 85]
+[72 WDF 2]
+[83 AAA 8]
+Comparacoes=5
+Comparacoes=6
+Pos=1
+[67 AEA 85]
+[72 WDF 2]
+[74 DSE 36]
+[83 DAA 3]
+Comparacoes=10
+Comparacoes=21
+Comparacoes=21
+[1 FSF 83]
+[17 FAD 37]
+[67 AEA 85]
+[72 WDF 2]
+[74 DSE 36]
+[83 DAA 3]
+[95 FAA 60]
+[8 SFF 56]
+[1 FSF 83]
+[17 FAD 37]
+[67 AEA 85]
+[72 WDF 2]
+[74 DSE 36]
+[83 DAA 3]
+[95 FAA 60]
+[8 SFF 56]
+Comparacoes=19
 Pos=-1
-Comparacoes=7
-Comparacoes=18
-Pos=-1
-[9 AWD 89]
-[55 EWE 96]
-[47 FDW 85]
-[51 WAD 97]
-[92 WAD 27]
-[37 WAW 48]
-[4 WDE 11]
-[62 AAS 80]
-Comparacoes=26
-Comparacoes=66
