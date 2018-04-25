@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 typedef struct s_no * no;
 struct s_no{
@@ -14,7 +13,7 @@ no novoNo(int ra, int nota);
 void insereFinal(no *head, no *ultimo, no x);
 void printList(no head);
 int comp(int ra_1, int ra_2, int ordem);
-void mergeSort(no *head, no *ultimo, double qtd, int ordem);
+void mergeSort(no *head, no *ultimo, int qtd, int ordem);
 void merge(no *head_1, no head_2, no *ultimo, int ordem);
 void liberaLista(no *head);
 
@@ -87,10 +86,11 @@ void insereFinal(no *head, no *ultimo, no x){
 
 //imprime lista
 void printList(no head){
-  printf("[LISTA]\n");
-	while (head){
+  // printf("[LISTA]\n");
+	printf("[LISTA]\n");
+  while (head){
     //check();
-		printf("[%d %d]\n", head->ra, head->nota);    
+		printf("[%d %d]\n", head->ra, head->nota);
 		head = head->prox;
 	}
 }
@@ -100,19 +100,18 @@ int comp(int ra_1, int ra_2, int ordem){
   return ordem ? ra_1 > ra_2 : ra_1 < ra_2;
 }
 
-void mergeSort(no *head_1, no *ultimo, double qtd, int ordem){
+void mergeSort(no *head_1, no *ultimo, int qtd, int ordem){
   if (qtd <= 1) return;
 
   no head_2 = *head_1, ultimo_1;
-  double mid = floor(qtd/2);
-  printf("mid1:%lf\n", mid);
+  int mid = qtd/2;
   
-  if ((int)qtd % 2 == 0){ //corrige o valor de mid,se a lista tem n par
+  if (qtd % 2 == 0){ //corrige o valor de mid,se a lista tem n par
       mid--;              //elementos, tiramos um da qtd.
   }
 
   //itera o head_2 até a posição mid, e salva a ultimo nó antes do head_2
-  for (double i = 0; i <= mid; i++){
+  for (int i = 0; i <= mid; i++){
     //if (head_2->prox != NULL){
       ultimo_1 = head_2;
       head_2 = head_2->prox;
@@ -120,12 +119,16 @@ void mergeSort(no *head_1, no *ultimo, double qtd, int ordem){
      // break;
     //}    
   }
-  printf("qtd:%lf\n", qtd);
-  mid = ceil(qtd/2);
-  printf("mid2:%lf\n", mid);
+  
+  if (qtd % 2 == 0){
+  	mid = qtd/2;
+  }else{
+  	mid = qtd/2 + 1;
+  }
+
   ultimo_1->prox = NULL;    //"fecha" a lista (tira o link entre head_1 e head_2)
 
-  mergeSort(head_1, ultimo, ceil(qtd/2) , ordem);
+  mergeSort(head_1, ultimo, mid , ordem);
   mergeSort(&head_2, ultimo, qtd-mid, ordem);
   
   merge(head_1, head_2, ultimo, ordem);
@@ -195,8 +198,9 @@ void liberaLista(no *head){
 
   no aux = *head;
   while(aux){
-    aux = aux->prox;
+    aux = aux->prox;   
     free(*head);
+    (*head)= aux;  
   }
   *head = NULL;
 }
