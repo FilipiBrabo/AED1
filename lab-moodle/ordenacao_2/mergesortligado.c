@@ -1,126 +1,200 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
-typedef struct linkedNode linkedNode;
-
-struct linkedNode {
-  int ra, nota;
-  linkedNode* next;
+typedef struct s_no * no;
+struct s_no{
+	int ra, nota;
+	no prox;
 };
-void check() {
-  printf("check\n");
-}
-void test(linkedNode *list) {
-  if (list == NULL) return;
-  printf("%p = (%d, %d), -> %p", list, list->ra, list->nota, list->next);
-  test(list->next);
-}
 
-//Cria e retorna o nó
-linkedNode* newNode(int ra, int nota){
-  linkedNode* x = malloc(sizeof(linkedNode));
-  x->ra = ra;
-  x->nota = nota;
-  x->next = NULL;
-  return x;
-}
+void check();
+void test(no );
+no novoNo(int ra, int nota);
+void insereFinal(no *head, no *ultimo, no x);
+void printList(no head);
+int comp(int ra_1, int ra_2, int ordem);
+void mergeSort(no *head, no *ultimo, double qtd, int ordem);
+void merge(no *head_1, no head_2, no *ultimo, int ordem);
+void liberaLista(no *head);
 
-//Imprime a lista
-void printList(linkedNode *ini){
-  printf("[LISTA]\n");
-  for(;ini != NULL;ini = ini->next){
-    printf("[%d %d]\n", ini->ra, ini->nota);
-  }
-}
-
-//Insere nó na ultima posição da lista
-void insertNode(linkedNode **last, linkedNode *x){
-  *last = x;
-  *last = (*last)->next;
-}
-
-//Remove o primeiro nó de uma lista
-linkedNode* removeNode(linkedNode **head) {
-  linkedNode *x = *head;
-  (*head) = (*head)->next;
-  return x;
-}
-
-/*Compara dois números.
-comp:
-  0 - Crescente
-  1 - Decrescente
-*/
-int comp(int ra_1, int ra_2, int compare){
-  return compare ? ra_1 > ra_2 : ra_1 < ra_2;
-}
-
-void merge(linkedNode **head_1, linkedNode **head_2, int compare){
-  linkedNode *aux = NULL;
-  while (*head_1 != NULL || *head_2 != NULL) { 
-    if (*head_2 == NULL || (*head_1 != NULL && comp((*head_1)->ra, (*head_2)->ra, compare))) {
-      insertNode(&aux, removeNode(head_1));
-    }
-    else {
-      insertNode(&aux, removeNode(head_2));
-    }
-  }
-  *head_1 = aux;
-}
-void mergeSort(linkedNode** head_1, linkedNode **last, int qtd, int compare){
-  if (qtd == 1) return;
-
-  linkedNode **head_2 = head_1;
-  int mid = qtd/2;
-  // printf("%d %d\n", qtd, mid);
-  for (int i = 0; i <= mid; i++){
-    head_2 = &(*head_2)->next;
-  }
-//   printf("qtd = %d ------------------------------------\n", qtd);
-//   test(*head_1);
-//   printf("---------------------------------------------\n");
-  mergeSort(head_1, head_2, mid, compare);
-  mergeSort(head_2, last, qtd-mid, compare);
-
-  merge(head_1, head_2, last, compare);
-}
-
-//Deleta uma lista
-void freeList(linkedNode **head){
-  if (*head == NULL) return;
-
-  linkedNode *aux = *head;
-  while (*head != NULL){
-    aux = *head;
-    *head = (*head)->next;
-    free(aux);
-  }
-}
 
 int main() {
-  linkedNode *list = NULL, *last = list;
+  no head = NULL, ultimo = NULL;
   int op, qtd = 0;
   while (scanf("%d", &op) != -1) {
     if (op == 1) {
       int ra, nota;
       scanf("%d %d", &ra, &nota);
-      insertNode(&last, newNode(ra, nota));
+      insereFinal(&head, &ultimo, novoNo(ra, nota));
       qtd++;
     }
     else if (op == 2) {
-      printList(list);
+      	printList(head);
     }
     else if (op == 6) {
-      mergeSort(&list, &last, qtd, 0);
-      printf("ok\n");
+  		mergeSort(&head, &ultimo, qtd, 0);
+      printList(head);      	
     }
     else if (op == 9) {
-      mergeSort(&list, &last, qtd, 1);
-      printf("ok2\n");
+  		mergeSort(&head, &ultimo, qtd, 1);
+  		printList(head);
     }
     else if (op == 0) {
-      freeList(&list);
-      return 0;
+		  liberaLista(&head);
+		return 0;
+    }
+    else if (op == 3){
+    	test(head);
+    	printf("\n");
     }
   }
+}
+
+void check() {
+  printf("check\n");
+}
+
+void test(no head) {
+  if (head == NULL) return;
+  printf("%p = (%d, %d), -> %p", head, head->ra, head->nota, head->prox);
+  test(head->prox);
+}
+
+//cria um novo nó
+no novoNo(int ra, int nota){
+	no x = malloc (sizeof(struct s_no));
+	if (!x) return NULL;
+	
+	x->ra = ra;
+	x->nota = nota;
+  x->prox = NULL;
+
+	return x;
+}
+
+//insere no final da lista
+void insereFinal(no *head, no *ultimo, no x){
+	if (*head == NULL){
+		*head = x;
+		*ultimo = x;
+	
+	}else{
+		(*ultimo)->prox = x;
+    *ultimo = x;
+	}
+}
+
+//imprime lista
+void printList(no head){
+  printf("[LISTA]\n");
+	while (head){
+    //check();
+		printf("[%d %d]\n", head->ra, head->nota);    
+		head = head->prox;
+	}
+}
+
+
+int comp(int ra_1, int ra_2, int ordem){
+  return ordem ? ra_1 > ra_2 : ra_1 < ra_2;
+}
+
+void mergeSort(no *head_1, no *ultimo, double qtd, int ordem){
+  if (qtd <= 1) return;
+
+  no head_2 = *head_1, ultimo_1;
+  double mid = floor(qtd/2);
+  
+  if ((int)qtd % 2 == 0){ //corrige o valor de mid,se a lista tem n par
+      mid--;              //elementos, tiramos um da qtd.
+  }
+
+  //itera o head_2 até a posição mid, e salva a ultimo nó antes do head_2
+  for (double i = 0; i <= mid; i++){
+    //if (head_2->prox != NULL){
+      ultimo_1 = head_2;
+      head_2 = head_2->prox;
+    //}else{
+     // break;
+    //}    
+  }
+
+  mid = ceil(qtd/2);
+  ultimo_1->prox = NULL;    //"fecha" a lista (tira o link entre head_1 e head_2)
+
+  mergeSort(head_1, ultimo, ceil(qtd/2) , ordem);
+  mergeSort(&head_2, ultimo, qtd-mid, ordem);
+  
+  merge(head_1, head_2, ultimo, ordem);
+  
+ 
+
+}
+
+//Ordena a lista head_1 e lista em head_2, e salva no endereço de head_1
+void merge(no *head_1, no head_2, no *ultimo, int ordem){
+  no aux1 = *head_1, tmp1, tmp2, aux2 = head_2;
+  
+
+  *ultimo = NULL;
+  *head_1 = *ultimo; //inicializando a lista ordenada
+  
+  while (aux1 && aux2){
+    while (aux1 && comp(aux1->ra, aux2->ra, ordem)){ //Já está na ordem certa       
+      
+      tmp1 = aux1; 
+      if (!(*ultimo)){ //adiciona o primeiro nó
+        *head_1 = aux1;
+        *ultimo = *head_1;
+        aux1 = aux1->prox;
+      }else{  //adicionar 'n' nó
+        aux1 = aux1->prox;
+        (*ultimo)->prox = tmp1;
+        *ultimo = tmp1;
+      }
+          
+    }
+    
+    //Tem que ordenar
+    if (aux1){
+      if (!*(ultimo)){ //adicionar o primeiro nó
+          *head_1 = aux2;
+          *ultimo = *head_1;
+          aux2 = aux2->prox;
+      }else{  //adiciona 'n' nó
+        tmp2 = aux2;
+        aux2 = aux2->prox;
+        (*ultimo)->prox = tmp2;
+        *ultimo = tmp2;        
+      }
+    }
+  }
+
+  if (aux1){  //lista 1 existe
+    while(aux1){  //adiciona o resto da lista head_1
+      tmp1 = aux1;
+      aux1 = aux1->prox;
+      (*ultimo)->prox = tmp1;
+      *ultimo = tmp1;
+    }
+  }else{
+    while(aux2){  //adiciona o resto da lista head_2
+      tmp2 = aux2;
+      aux2 = aux2->prox;
+      (*ultimo)->prox = tmp2;
+      *ultimo = tmp2;
+    }
+  }
+}
+
+void liberaLista(no *head){
+  if (*head == NULL) return;
+
+  no aux = *head;
+  while(aux){
+    aux = aux->prox;
+    free(*head);
+  }
+  *head = NULL;
 }
