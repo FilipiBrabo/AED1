@@ -1,3 +1,5 @@
+/*Dupla: 11040016 Filipi de Carvalho Brabo
+         11036516 Jônatas Duarte Souza */
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -50,29 +52,31 @@ int main() {
   }
 }
 
+//Função de teste
 void check() {
   printf("check\n");
 }
 
+//Função de teste
 void test(no head) {
   if (head == NULL) return;
   printf("%p = (%d, %d), -> %p", head, head->ra, head->nota, head->prox);
   test(head->prox);
 }
 
-//cria um novo nó
+//Cria um novo nó
 no novoNo(int ra, int nota){
 	no x = malloc (sizeof(struct s_no));
 	if (!x) return NULL;
 	
 	x->ra = ra;
 	x->nota = nota;
-  x->prox = NULL;
+  	x->prox = NULL;
 
 	return x;
 }
 
-//insere no final da lista
+//Insere no final da lista
 void insereFinal(no *head, no *ultimo, no x){
 	if (*head == NULL){
 		*head = x;
@@ -80,26 +84,32 @@ void insereFinal(no *head, no *ultimo, no x){
 	
 	}else{
 		(*ultimo)->prox = x;
-    *ultimo = x;
+    	*ultimo = x;
 	}
 }
 
-//imprime lista
+//Imprime lista
 void printList(no head){
-  // printf("[LISTA]\n");
 	printf("[LISTA]\n");
-  while (head){
-    //check();
+  	while (head){
 		printf("[%d %d]\n", head->ra, head->nota);
 		head = head->prox;
 	}
 }
 
-
+/*Compara dois inteiros
+Parâmetro ordem:
+	0 - Compara crescentemente
+	1 - Compara decrescentemente
+Retorna:
+	0 - Se não estão em ordem
+	1 - Se está em ordem
+*/
 int comp(int ra_1, int ra_2, int ordem){
   return ordem ? ra_1 > ra_2 : ra_1 < ra_2;
 }
 
+//Ordena uma lista ligada utilizando método de merge sort
 void mergeSort(no *head_1, no *ultimo, int qtd, int ordem){
   if (qtd <= 1) return;
 
@@ -112,12 +122,8 @@ void mergeSort(no *head_1, no *ultimo, int qtd, int ordem){
 
   //itera o head_2 até a posição mid, e salva a ultimo nó antes do head_2
   for (int i = 0; i <= mid; i++){
-    //if (head_2->prox != NULL){
       ultimo_1 = head_2;
-      head_2 = head_2->prox;
-    //}else{
-     // break;
-    //}    
+      head_2 = head_2->prox;       
   }
   
   if (qtd % 2 == 0){
@@ -183,7 +189,7 @@ void merge(no *head_1, no head_2, no *ultimo, int ordem){
       (*ultimo)->prox = tmp1;
       *ultimo = tmp1;
     }
-  }else{
+  }else{	//lista 2 existe
     while(aux2){  //adiciona o resto da lista head_2
       tmp2 = aux2;
       aux2 = aux2->prox;
@@ -193,6 +199,7 @@ void merge(no *head_1, no head_2, no *ultimo, int ordem){
   }
 }
 
+//Deleta a lista da memória
 void liberaLista(no *head){
   if (*head == NULL) return;
 
